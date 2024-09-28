@@ -33,10 +33,20 @@ jobs:
           export PYTHONPATH=$PYTHONPATH:$(pwd)
           poetry run python app/ci.py
 
-      - name: Commit and push if changes
+      - name: Create a new branch, commit, and push changes
         run: |
           git config --global user.email "micorix.dev@gmail.com"
           git config --global user.name "micorix"
+          branch_name="regenerate-files-$(date +'%Y%m%d%H%M%S')"
+          git checkout -b $branch_name
           git add artifacts
           git commit -m "[self] Regenerate files at $(date)"
-          git push
+          git push origin $branch_name
+
+      - name: Create and merge a pull request
+        run: |
+          pr_url=$(gh pr create --title "Regenerate files" --body "This pull request regenerates files." --base master --head $branch_name)
+          echo "Pull Request URL: $pr_url"
+          gh pr merge --squash --delete-branch $pr_url
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
