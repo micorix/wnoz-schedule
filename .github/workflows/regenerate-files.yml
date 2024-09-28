@@ -20,7 +20,7 @@ jobs:
       - name: Install poetry
         run: |
           export POETRY_HOME=/opt/poetry
-          curl -sSL https://install.python-poetry.org | python3 - --version 1.5.1
+          curl -sSL https://install.python-poetry.org | python3 - --version 1.8.2
           export PATH="/opt/poetry/bin:$PATH"
           echo "/opt/poetry/bin" >> $GITHUB_PATH
           poetry --version
@@ -47,6 +47,6 @@ jobs:
         run: |
           pr_url=$(gh pr create --title "Regenerate files" --body "This pull request regenerates files." --base master --head $branch_name)
           echo "Pull Request URL: $pr_url"
-          gh pr merge --squash --delete-branch $pr_url
+          gh pr merge --rebase --delete-branch $pr_url
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
