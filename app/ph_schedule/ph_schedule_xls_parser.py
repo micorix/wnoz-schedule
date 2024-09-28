@@ -1,12 +1,11 @@
 import xlrd
-from openpyxl.workbook import Workbook
-from openpyxl.worksheet.worksheet import Worksheet
-from xlrd.sheet import Cell
+from xlrd import Book
+from xlrd.sheet import Cell, Sheet
 
 
 class PhScheduleXLSParser:
-    wb: Workbook
-    ws: Worksheet
+    wb: Book
+    ws: Sheet
     data_matrix: list[list[str]] = None
     formatting_matrix: list[list[str]] = None
 
