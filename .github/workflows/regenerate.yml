@@ -1,0 +1,42 @@
+name: Regenerate files
+
+on:
+  workflow_dispatch:
+  schedule:
+    # This triggers the workflow every day at 4:00 UTC
+    - cron: "30 4 * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install poetry
+        run: |
+          export POETRY_HOME=/opt/poetry
+          curl -sSL https://install.python-poetry.org | python3 - --version 1.5.1
+          export PATH="/opt/poetry/bin:$PATH"
+          echo "/opt/poetry/bin" >> $GITHUB_PATH
+          poetry --version
+
+      - name: Install deps
+        run: poetry install
+
+      - name: Regenerate files
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$(pwd)
+          poetry run python app/ci.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.email "micorix.dev@gmail.com"
+          git config --global user.name "micorix"
+          git add artifacts
+          git commit -m "[self] Regenerate files at $(date)"
+          git push
