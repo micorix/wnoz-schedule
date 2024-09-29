@@ -59,7 +59,7 @@ const InfoDialog = () => {
         <Dialog defaultOpen={isFirstTimeVisit()}>
             <DialogTrigger className="rounded border px-3 py-1 border border-black text-black">Opcje &
                 info</DialogTrigger>
-            <DialogContent className="max-w-3xl">
+            <DialogContent className="max-w-3xl max-h-screen overflow-y-auto">
                 <DialogHeader>
                     <DialogTitle className="text-3xl text-center">Nieoficjalna aplikacja <br/>planu zajęć dla
                         kierunku
