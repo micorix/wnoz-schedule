@@ -19,6 +19,7 @@ class PhWeekdaySlice:
     weekday = None
     date: datetime = None
     df: pl.DataFrame = None
+    formatting_df: pl.DataFrame = None
 
     def __init__(self, df: pl.DataFrame, formatting_df: pl.DataFrame):
         self.weekday = df.item(1, 0)
@@ -31,6 +32,7 @@ class PhWeekdaySlice:
                 ),
             ]
         )
+        self.formatting_df = formatting_df
 
     def get_activities(self, legend=None):
         activities = []
@@ -59,6 +61,7 @@ class PhWeekdaySlice:
                         date=excel_date_to_datetime(self.df.item(1, col)),
                         seminar_group=self.df.item(2, col),
                         exercise_group=self.df.item(3, col),
+                        color=self.formatting_df.item(row, col),
                         legend=legend,
                     )
                 )

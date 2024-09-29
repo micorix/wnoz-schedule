@@ -23,6 +23,7 @@ REMOVE_FROM_TITLE_REGEXES = [
     r"g\.",
     r"(,|-)",
     r"(wykłady|wykład)",
+    r'godz\.'
 ]
 
 
@@ -40,21 +41,25 @@ class PhScheduleActivity:
     end_date: datetime
 
     legend: PhScheduleLegend = None
+    color: str
 
     def __init__(
-        self,
-        title: str,
-        start_slot: str,
-        end_slot: str,
-        date: datetime,
-        seminar_group: str,
-        exercise_group: str,
-        legend: PhScheduleLegend = None,
+            self,
+            title: str,
+            start_slot: str,
+            end_slot: str,
+            date: datetime,
+            seminar_group: str,
+            exercise_group: str,
+            color: str,
+            legend: PhScheduleLegend = None,
     ):
         self.raw_title = title.strip()
 
         self.seminar_group = seminar_group.strip()
         self.exercise_group = exercise_group.strip()
+
+        self.color = color
 
         self.legend = legend
 
@@ -62,6 +67,7 @@ class PhScheduleActivity:
         self._fix_times()
         self._fix_tz()
         self._prepare_title()
+        self._prepare_description()
 
     def _prepare_title(self):
         self.title = self.raw_title
@@ -84,11 +90,17 @@ class PhScheduleActivity:
             self.title = f"{self.title} (wykład)"
 
     def _prepare_description(self):
-        self.description = f"""
-        {self.raw_title}
-        Seminar group: {self.seminar_group}
-        Exercise group: {self.exercise_group}
-        """
+        desc = [
+            self.raw_title,
+            '\n',
+            f"Grupa seminaryjna: {self.seminar_group}",
+            f"Grupa wykładowa: {self.exercise_group}",
+        ]
+
+        if 'msteams' in self.raw_title.lower():
+            desc.append("Wykład odbywa się na platformie MS Teams")
+
+        self.description = '\n'.join(desc)
 
     def _parse_time(self, slot: str, is_end: bool = False):
         time = slot.split("-")[int(is_end)].strip()
@@ -143,6 +155,8 @@ class PhScheduleActivity:
             "exercise_group": self.exercise_group,
             "start_date": self.start_date.isoformat(),
             "end_date": self.end_date.isoformat(),
+            'description': self.description,
+            'color': self.color
         }
 
     def to_ics_event(self):
@@ -150,6 +164,7 @@ class PhScheduleActivity:
             name=self.title,
             begin=self.start_date,
             end=self.end_date,
+            description=self.description,
         )
 
     def __repr__(self):

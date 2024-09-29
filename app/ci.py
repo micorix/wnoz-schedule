@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 
 from ics import Calendar
 
@@ -25,6 +26,13 @@ def filter_schedules(s):
 
 def serialize_activities(activities):
     return [a.serialize() for a in activities]
+
+
+def generate_info(group_names):
+    return {
+        'group_names': group_names,
+        'downloaded_at': datetime.now().isoformat()
+    }
 
 
 def main():
@@ -66,6 +74,10 @@ def main():
             f.write(calendar.serialize())
 
         print(f"{group} - {len(activities)} activities")
+
+    with open(os.path.join(ARTIFACTS_DIR, "info.json"), "w") as f:
+        info = generate_info(groups)
+        json.dump(info, f, indent=2)
 
 
 if __name__ == "__main__":
