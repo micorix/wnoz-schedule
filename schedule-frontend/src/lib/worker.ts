@@ -7,8 +7,8 @@ const mapActivity = (activity) => {
         start: new Date(activity.start_date),
         end: new Date(activity.end_date),
         title: activity.title,
-        description: 'aaa',
-        color: 'blue'
+        description: activity.description,
+        color: `rgb(${activity.color})`
     }
 }
 const getEvents = async (groupId) => {

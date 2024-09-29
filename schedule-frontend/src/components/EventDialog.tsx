@@ -44,7 +44,7 @@ const EventDialog = ({event, onClose}) => {
                                 </li>
                             </ul>
                             <hr className="my-2"/>
-                            <p className="mt-2 text-base">
+                            <p className="mt-2 text-base whitespace-pre-line">
                                 {event.description}
                             </p>
                         </div>

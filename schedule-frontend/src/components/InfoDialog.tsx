@@ -7,6 +7,7 @@ import {useSettings} from "@/lib/settingsContext.tsx";
 import {useQuery} from "@tanstack/react-query";
 import {getGroupICalUrl, INFO_URL} from "@/lib/links.ts";
 import {useEffect, useState} from "react";
+import dayjs from "dayjs";
 
 const LOCAL_STORAGE_KEY = 'visited'
 
@@ -19,10 +20,6 @@ const setVisited = () => {
 }
 
 const getInfo = async () => {
-    return {
-        group_names: ['1a', '1b', '2a', '2b'],
-        downloaded_at: new Date()
-    }
     return fetch(INFO_URL).then((response) => response.json())
 }
 
@@ -83,9 +80,10 @@ const InfoDialog = () => {
                                 <a href="https://wnoz.wum.edu.pl/pl/zdrowie-publiczne-plan-zajec"
                                    className="underline">stronie
                                     WNOZ</a>.
+                                <br />
                                 <br/>
                                 <strong className="underline">I did my best, ale NIE gwarantuję poprawnego działania
-                                    programu.</strong>
+                                    programu lub terminowego naprawiania usterek</strong>
                             </p>
                             <h3 className="mt-5 text-lg font-semibold">Google/Outlook calendar</h3>
                             <p className="text-sm">
@@ -133,11 +131,18 @@ const InfoDialog = () => {
                                     </div>
                                     <p className="">
                                         Ostatnia aktualizacja względem pliku
-                                        Excel: {data.downloaded_at ? new Date(data.downloaded_at).toLocaleString() : 'N/A'}
+                                        Excel: {data.downloaded_at ? dayjs(data.downloaded_at).format('DD.MM.YYYY HH:mm') : 'N/A'}
                                     </p>
+
                                 </div>
                             )
                         }
+                        <p className="font-mono mt-2 text-small text-gray-400">
+                            Apikacja udostępniona jest na licencji MIT.
+                            <br />
+                            THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+                                KIND
+                        </p>
                     </DialogDescription>
                 </DialogHeader>
             </DialogContent>

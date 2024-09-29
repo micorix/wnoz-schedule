@@ -1,6 +1,7 @@
 import os
 from datetime import datetime
 
+import pytz
 from ics import Calendar
 
 from app.ph_schedule.ph_schedule_downloader import PhScheduleDownloader
@@ -29,9 +30,14 @@ def serialize_activities(activities):
 
 
 def generate_info(group_names):
+    local_tz = "Europe/Warsaw"
+    datetime_now = datetime.now()
+    datetime_now = pytz.timezone(local_tz).localize(datetime_now)
+    datetime_now = datetime_now.isoformat()
+
     return {
         'group_names': group_names,
-        'downloaded_at': datetime.now().isoformat()
+        'downloaded_at': datetime_now
     }
 
 

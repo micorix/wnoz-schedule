@@ -22,7 +22,7 @@ const getDefaultRange = () => {
     // Start of the current month
     const start = new Date(now.getFullYear(), now.getMonth(), 1);
 
-    // End of the current month
+    // End of the current month + 7
     const end = new Date(now.getFullYear(), now.getMonth() + 1, 7);
 
     return {
@@ -88,7 +88,7 @@ function App() {
         <div className="h-full">
                {
                     isLoading && (
-                        <div className="absolute bottom-0 left-0 w-full z-30 bg-blacktext-white text-center py-0.5 px-1">
+                        <div className="absolute bottom-0 left-0 w-full z-30 bg-black text-white text-center py-0.5 px-1">
                             <span>Ładowanie...</span>
                         </div>
                     )
@@ -117,7 +117,7 @@ function App() {
                         event: ({event}) => (
                             <div className="relative px-1 py-0.5 cursor-pointer" style={{background: 'transparent'}}>
                                 <div style={{background: event.color}}
-                                     className="absolute top-0 left-0 w-full h-full rounded-lg opacity-10 z-10"/>
+                                     className="absolute top-0 left-0 w-full h-full rounded-lg opacity-20 z-10"/>
                                 <span className="relative text-black/80 z-20 ">
                                     {event.title}
                                 </span>
