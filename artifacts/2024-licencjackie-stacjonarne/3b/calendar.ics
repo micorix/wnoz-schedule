@@ -2,1221 +2,1424 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241007T073000Z
 DTSTART:20241007T060000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:07f0e27c-d25e-4a2f-bc0a-98cdcd37c3a7@07f0.org
+UID:b791879d-c1f5-49e8-9c4f-ee9700eca34b@b791.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241007T091500Z
 DTSTART:20241007T074500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:87f362a7-fc4a-4023-afc0-476cf348091b@87f3.org
+UID:85024f56-4e4f-424b-9e61-58bfd12568b3@8502.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14.00 -17.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241007T150000Z
 DTSTART:20241007T120000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:7c2335cf-be6d-449c-a215-fb27aecd83a5@7c23.org
+UID:6aef7f6d-9b92-4c0a-8bf2-6c40ae8bec0e@6aef.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PRAWA (NZQA)  - wykład 17.15 - 18.45 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241007T164500Z
 DTSTART:20241007T151500Z
 SUMMARY:PODSTAWY PRAWA (NZQA) (wykład)
-UID:49ddee2b-56df-4c56-8531-e2f7895389ae@49dd.org
+UID:2aa4fc9c-b3b2-4c50-b337-e13963a5759e@2aa4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241014T073000Z
 DTSTART:20241014T060000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:2dcc9a00-5ec1-4fcd-8671-eb7ab0150930@2dcc.org
+UID:10b985e8-44dd-43ad-a867-355ddd026ac9@10b9.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241014T091500Z
 DTSTART:20241014T074500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:a3bd0313-e0d8-45e5-b746-ac1cbd3f4a58@a3bd.org
+UID:934daf16-1675-448e-9a98-827a71fd8dad@934d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14.00 -17.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241014T150000Z
 DTSTART:20241014T120000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:6c21cc5e-5995-4e65-8e38-291dc554f7f1@6c21.org
+UID:6c3cb5a4-dfff-459d-b298-f2428d0c41cc@6c3c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PRAWA (NZQA)  - wykład 17.15 - 18.45 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241014T164500Z
 DTSTART:20241014T151500Z
 SUMMARY:PODSTAWY PRAWA (NZQA) (wykład)
-UID:9a8c0829-658b-49c3-944a-ef52ee67e6c8@9a8c.org
+UID:de535a97-af19-4af5-a924-e6706bdadf95@de53.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241021T073000Z
 DTSTART:20241021T060000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:96ef0d89-592d-4236-b472-e7ea77fb48f9@96ef.org
+UID:7d96ab6f-59ce-437a-b9df-bae5c2f399d1@7d96.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241021T091500Z
 DTSTART:20241021T074500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:83c83c8b-053e-438f-b4f1-da0cef875230@83c8.org
+UID:d27806fd-f15b-449d-a5fd-2b75080b730c@d278.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14.00 -17.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241021T150000Z
 DTSTART:20241021T120000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:7ae94f7c-6285-40ce-bde9-6967a8386c0c@7ae9.org
+UID:4664aefd-1042-4474-aade-e4ebaad94016@4664.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PRAWA (NZQA)  - wykład 17.15 - 18.45 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241021T164500Z
 DTSTART:20241021T151500Z
 SUMMARY:PODSTAWY PRAWA (NZQA) (wykład)
-UID:c96a86d1-e4f1-4f98-b332-1f56dcd7a78a@c96a.org
+UID:804c0324-aa34-4eae-b999-37b093fea423@804c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241028T083000Z
 DTSTART:20241028T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:f433fe8e-3060-4b92-b336-c07885b4927f@f433.org
+UID:5c8585f6-6910-486a-b195-2e77d2fc84c7@5c85.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241028T101500Z
 DTSTART:20241028T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:4d30c45e-8125-4499-929d-b6172830d413@4d30.org
+UID:3f71aaf6-00f5-4384-b770-32904ef3a3a5@3f71.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14.00 -17.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241028T160000Z
 DTSTART:20241028T130000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:8f268197-e84a-44ef-b336-6c41f3df55aa@8f26.org
+UID:82dd8e85-9435-4c7d-a67e-e0a7f051a880@82dd.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PRAWA (NZQA)  - wykład 17.15 - 18.45 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241028T174500Z
 DTSTART:20241028T161500Z
 SUMMARY:PODSTAWY PRAWA (NZQA) (wykład)
-UID:1e35e6d0-43de-42ea-a010-ad7339ff8a38@1e35.org
+UID:dd87b327-4ac9-4c2f-9b05-77efcd394dcd@dd87.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241104T083000Z
 DTSTART:20241104T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:8e221ddc-7910-4b24-b17f-974d2c005073@8e22.org
+UID:50c12a4f-c4f1-49f5-9599-72cebbfe9532@50c1.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241104T101500Z
 DTSTART:20241104T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:cc5f624b-898c-4ca4-b8c3-8f1c3eea05b1@cc5f.org
+UID:11ab1bc0-be96-4de1-9d90-1d5eb441ded0@11ab.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PSYCHOLOGII - wykład (NZPS) 11:30 - 14:30 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241104T133000Z
 DTSTART:20241104T103000Z
 SUMMARY:PODSTAWY PSYCHOLOGII (NZPS) (wykład)
-UID:a31e1fb9-f7bf-4cf5-a50b-3312fcbbda16@a31e.org
+UID:1b008f1d-b319-445e-bf3e-4d2015188e7c@1b00.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14:45 - 17:00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241104T160000Z
 DTSTART:20241104T134500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:fb4729e4-6c37-45aa-8891-7c47e22f0eeb@fb47.org
+UID:36001049-e7a9-4c8b-b8f7-155547496888@3600.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PRAWA (NZQA)  - wykład 17.00 - 18.30 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241104T173000Z
 DTSTART:20241104T160000Z
 SUMMARY:PODSTAWY PRAWA (NZQA) (wykład)
-UID:3df89bdc-8a63-444b-ac25-4a5f7c917438@3df8.org
+UID:6177a98d-b476-444f-a712-5986193687ac@6177.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241118T083000Z
 DTSTART:20241118T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:f01fd633-e7f0-4938-b822-3e4cc959e58b@f01f.org
+UID:8021704e-9e4d-4579-9996-15dee724ff7d@8021.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241118T101500Z
 DTSTART:20241118T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:0b68f61b-8f54-411a-aa14-dc915dd77963@0b68.org
+UID:28ac8ca8-30db-473b-b270-2e716230de56@28ac.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PSYCHOLOGII - wykład (NZPS) 11:30 - 14:30 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241118T133000Z
 DTSTART:20241118T103000Z
 SUMMARY:PODSTAWY PSYCHOLOGII (NZPS) (wykład)
-UID:012ebab0-ed1e-41d6-86e8-df6f81f5c586@012e.org
+UID:3e3f41d8-9ed0-410e-975f-97b1442a98d3@3e3f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14:45 - 17:00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241118T160000Z
 DTSTART:20241118T134500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:ff82ae8f-df5d-4c5e-a811-d8312f8dea2f@ff82.org
+UID:c6e0b9d6-ba86-45aa-beb7-ab07f08fadde@c6e0.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241125T083000Z
 DTSTART:20241125T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:d100acfe-31b0-4995-8557-1c1771d8678f@d100.org
+UID:e84f4c31-9f5e-4541-941f-5706ae236db6@e84f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241125T101500Z
 DTSTART:20241125T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:65ae0411-91a2-4cf9-b9dc-b1dc606b5e5d@65ae.org
+UID:b5a3a22e-f0c0-4fab-b535-25aeae18e85d@b5a3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PSYCHOLOGII - wykład (NZPS) 11:30 - 14:30 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241125T133000Z
 DTSTART:20241125T103000Z
 SUMMARY:PODSTAWY PSYCHOLOGII (NZPS) (wykład)
-UID:0a65ebf5-fa11-4637-bf04-91704aea3e1a@0a65.org
+UID:34cf92f1-4a01-42bc-9a18-7e88bad76b8c@34cf.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14:45 - 17:00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241125T160000Z
 DTSTART:20241125T134500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:940988ba-18a1-4824-8661-3a4ec70de615@9409.org
+UID:6bde291a-5453-4dcd-bd48-b3ec8d67455a@6bde.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241202T083000Z
 DTSTART:20241202T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:e85e5c2c-d5dc-4a67-96c1-e5e8366c847c@e85e.org
+UID:e68cf6d3-1df6-48a9-86e7-2a0e04ff3f80@e68c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241202T101500Z
 DTSTART:20241202T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:10088d12-4c4b-4789-8a13-fe95b37ed329@1008.org
+UID:2c6ce943-5721-46fe-a782-50846d6df02e@2c6c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PSYCHOLOGII - wykład (NZPS) 11:30 - 14:30 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241202T133000Z
 DTSTART:20241202T103000Z
 SUMMARY:PODSTAWY PSYCHOLOGII (NZPS) (wykład)
-UID:c492637a-82c2-4a5f-9485-3083555f288d@c492.org
+UID:8d8c8214-5510-4736-a879-5f4974e79dc0@8d8c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14:45 - 17:00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241202T160000Z
 DTSTART:20241202T134500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:a0843335-1f6c-49f8-94f1-021cbca851b7@a084.org
+UID:bb1be095-1d6f-453e-b8f8-8805cb55e3c5@bb1b.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241209T083000Z
 DTSTART:20241209T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:42857734-5a6a-4e8f-90c8-72cd56300e68@4285.org
+UID:222ce888-b02f-4ed2-83e5-4d6612ade169@222c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241209T101500Z
 DTSTART:20241209T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:3cefd820-f0ee-49d5-8130-59b6b1224981@3cef.org
+UID:1b4f11d2-5e62-438f-b736-46662a83ed0e@1b4f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY PSYCHOLOGII - wykład (NZPS) 11:30 - 14:30 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241209T133000Z
 DTSTART:20241209T103000Z
 SUMMARY:PODSTAWY PSYCHOLOGII (NZPS) (wykład)
-UID:1e1dd2c4-6e75-4ae5-9ed8-8cc70780374e@1e1d.org
+UID:6fe5ee1c-20ba-45c6-8e8a-01b4e3d1f3b4@6fe5.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 14:45 - 17:00 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241209T160000Z
 DTSTART:20241209T134500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:b5ae0fe5-3241-41b4-8b5f-c005e81212c5@b5ae.org
+UID:237bffe0-6254-49ea-81c2-352060d8bc24@237b.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241216T083000Z
 DTSTART:20241216T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:e3d3c1b5-def4-451b-b821-fbf750947488@e3d3.org
+UID:14fa19e5-69a8-4cb5-9a85-7452d620801a@14fa.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (NZQA)* 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241216T101500Z
 DTSTART:20241216T084500Z
 SUMMARY:Podstawy ekonomii (NZQA)* (wykład)
-UID:64a2ab87-bfb5-4cf7-9c78-657dba41ce75@64a2.org
+UID:a230771a-94ad-4570-a664-f77913429f10@a230.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 11.30 - 13.45 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241216T124500Z
 DTSTART:20241216T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:c4e232c1-ae09-4e8a-af78-1cb7259334a5@c4e2.org
+UID:fee493c5-17e7-45a2-aff6-5e9effeeec93@fee4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:15.45 - 17.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241216T161500Z
 DTSTART:20241216T144500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:c953e1fa-b77c-4e23-8de6-f3635fe0f616@c953.org
+UID:0d507967-f886-4908-9b3e-8ea7e1c595bd@0d50.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:17.30 - 19.00 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241216T180000Z
 DTSTART:20241216T163000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:8ee50dc0-414b-4fd5-b147-784f58b30f62@8ee5.org
+UID:f9472723-7384-4e6b-9559-3608cb3e2bdb@f947.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240113T083000Z
 DTSTART:20240113T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:4f355119-013e-4aa2-bbfe-d855ac9c41e7@4f35.org
+UID:d6f30406-84ec-4587-9151-585e1a5b164a@d6f3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 09.45 - 11.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240113T101500Z
 DTSTART:20240113T084500Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:34706b1b-1fc4-4568-8076-e2873017bd91@3470.org
+UID:a3638ef0-0104-4a2c-9b8b-3f3bf0da2e41@a363.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 11.30 - 13.45 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240113T124500Z
 DTSTART:20240113T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:59f94140-f320-418a-b29b-d4752167ca2f@59f9.org
+UID:761c40b7-fdcf-412c-be71-429ab6d0075d@761c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:14.00 - 15.30 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20240113T143000Z
 DTSTART:20240113T130000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:1782d562-f9cd-4b10-8628-0219e479868d@1782.org
+UID:195d9409-c7aa-48b3-a534-3f3d1ac53eb2@195d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NAUKA O CZŁOWIEKU (NZME) - wykład w e-learningu 15:45 - 17:15 wykłady odbywać się będą na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240113T163000Z
 DTSTART:20240113T150000Z
 SUMMARY:NAUKA O CZŁOWIEKU (NZME) w elearningu (wykład)
-UID:457eb35c-a326-43a5-bbf7-378f3ec453c6@457e.org
+UID:46879d0c-7e5f-454d-9803-625b3711b3be@4687.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240120T083000Z
 DTSTART:20240120T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:15982fb1-60e9-44cb-bf88-eeec8ff13c57@1598.org
+UID:dfdc9e04-f469-4a18-86f4-6b0e677ee3f4@dfdc.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 09.45 - 11.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240120T101500Z
 DTSTART:20240120T084500Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:f2e57d3b-2c92-4d06-9cf4-268ed6bfaa3c@f2e5.org
+UID:457c3273-9070-44f4-9a1f-d4a115ac4cec@457c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 11.30 - 13.45 wykłady realizowane za pomocą metod i technik kształcenia na odległość\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240120T124500Z
 DTSTART:20240120T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:f3b4bac2-15ac-4310-a3eb-da2567011e6c@f3b4.org
+UID:47167690-6e3e-4da7-b6be-b28b564b24d6@4716.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:14.00 - 15.30 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20240120T143000Z
 DTSTART:20240120T130000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:1dafe62e-dcc9-4736-bbc7-62adfc68e17b@1daf.org
+UID:ef61f744-424d-40a6-adb2-bb2f43debb69@ef61.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:15.45 - 17.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20240120T161500Z
 DTSTART:20240120T144500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:281e8ba1-8626-48ca-ac01-07b065f4937b@281e.org
+UID:419b707d-9128-4717-89a4-dae23cedf08a@419b.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241001T073000Z
 DTSTART:20241001T060000Z
 SUMMARY:Techniki studiowania
-UID:c617d996-25bb-4220-960b-2ae835a66a2e@c617.org
+UID:56322b19-717e-479d-8830-89b47623552a@5632.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241001T091500Z
 DTSTART:20241001T074500Z
 SUMMARY:Nauka o człowieku
-UID:3fc4fa0e-c971-473f-b599-572491969d6a@3fc4.org
+UID:87e48332-56f4-4189-b4b4-6f43900fa52f@87e4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241001T110000Z
 DTSTART:20241001T093000Z
 SUMMARY:P.eko
-UID:6c651ff1-99f0-47b4-b873-137767839436@6c65.org
+UID:aa3f0514-fa5a-40f0-b384-5f549882c317@aa3f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241001T124500Z
 DTSTART:20241001T111500Z
 SUMMARY:Podstawy epidemiologii
-UID:bf39b339-182e-4e3a-9ea9-c446169a5390@bf39.org
+UID:68414bff-7071-4322-98a3-a78aa870848b@6841.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241001T160000Z
 DTSTART:20241001T143000Z
 SUMMARY:Język angielski
-UID:e2ff2bb0-4b47-43e2-ba2e-7c044e572dfe@e2ff.org
+UID:4ef750ee-c3ed-4dbd-a4f5-a36b69135313@4ef7.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241008T073000Z
 DTSTART:20241008T060000Z
 SUMMARY:Techniki studiowania
-UID:15936b79-c3dd-4fa8-bb3e-96b79a42f033@1593.org
+UID:12ae85d1-4c62-48aa-b358-ca1efdefa22d@12ae.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241008T091500Z
 DTSTART:20241008T074500Z
 SUMMARY:Nauka o człowieku
-UID:f15c48ef-9377-4010-93a5-0c2b90227830@f15c.org
+UID:12abbb42-43ff-4949-95bb-7ae86ad5eb4f@12ab.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241008T110000Z
 DTSTART:20241008T093000Z
 SUMMARY:P.eko
-UID:3430558a-54d6-48bd-9f3f-0a39eb191fc9@3430.org
+UID:64953441-e115-40de-acee-3d3170928212@6495.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241008T124500Z
 DTSTART:20241008T111500Z
 SUMMARY:Podstawy epidemiologii
-UID:8506b8c4-68bc-4478-9599-e6510144ca06@8506.org
+UID:78d7e816-1f08-4c4a-a546-947e31820fec@78d7.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241008T160000Z
 DTSTART:20241008T143000Z
 SUMMARY:Język angielski
-UID:e1563b70-83ef-454d-81c4-3c45be9ca53d@e156.org
+UID:a0675a4f-c352-4928-b1a5-423abf92ce65@a067.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241015T073000Z
 DTSTART:20241015T060000Z
 SUMMARY:Techniki studiowania
-UID:ec11912b-e307-4f5e-a321-cd6142e9eb33@ec11.org
+UID:06e22d87-136c-4b99-8d1f-9b31e33c084e@06e2.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241015T091500Z
 DTSTART:20241015T074500Z
 SUMMARY:Nauka o człowieku
-UID:83bc1c76-2370-474d-84aa-d5809faebc36@83bc.org
+UID:db9daa83-d5db-4f9a-8dbf-e4b0591eae38@db9d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241015T110000Z
 DTSTART:20241015T093000Z
 SUMMARY:P.eko
-UID:ecb34e3c-5788-4f45-9637-cc20e96caa84@ecb3.org
+UID:6693c4e8-a02e-48fc-ae05-619bcc34714d@6693.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241015T124500Z
 DTSTART:20241015T111500Z
 SUMMARY:Podstawy epidemiologii
-UID:fdce2fb1-69a6-46cd-83de-d0bae5372966@fdce.org
+UID:f2c64c97-6d69-4ce6-9ffe-a2ea771b39d3@f2c6.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241015T160000Z
 DTSTART:20241015T143000Z
 SUMMARY:Język angielski
-UID:31b6f2ce-2f2e-4c10-98ef-b760aecbbc0f@31b6.org
+UID:510dac02-60db-4d20-9e03-418d7fb4e48b@510d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241022T073000Z
 DTSTART:20241022T060000Z
 SUMMARY:Techniki studiowania
-UID:2dbd36ed-6dff-4239-bb19-dd54459e1a1e@2dbd.org
+UID:93f0e4f8-bc68-4b7c-837f-89d8a2cefa4d@93f0.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241022T091500Z
 DTSTART:20241022T074500Z
 SUMMARY:Nauka o człowieku
-UID:bff9e90a-ef12-43c1-ab4b-e5a4e0b5f944@bff9.org
+UID:8c478d37-27e8-4bc0-a954-f67c8f758464@8c47.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241022T110000Z
 DTSTART:20241022T093000Z
 SUMMARY:P.eko
-UID:0cac50bd-7033-4482-8c3f-9ab217e67bf8@0cac.org
+UID:bc11181b-2cc4-43c7-b2a6-5b2758623cf4@bc11.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241022T124500Z
 DTSTART:20241022T111500Z
 SUMMARY:Podstawy epidemiologii
-UID:5ed1c255-dbdb-4ea9-966e-fb4f9fff9e9f@5ed1.org
+UID:72698ea8-fd47-4d39-87ac-02ac09163feb@7269.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241022T160000Z
 DTSTART:20241022T143000Z
 SUMMARY:Język angielski
-UID:80bb936c-00cd-47f4-8c69-1df9c5419e64@80bb.org
+UID:a8da96dd-b6f0-4f38-8713-f9a89b8068df@a8da.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241029T083000Z
 DTSTART:20241029T070000Z
 SUMMARY:Techniki studiowania
-UID:694ab355-cc44-4b4c-81a2-0a39f7e799fb@694a.org
+UID:cdb2d89f-31f4-4cbc-9d64-6976f602eea7@cdb2.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241029T101500Z
 DTSTART:20241029T084500Z
 SUMMARY:Nauka o człowieku
-UID:78f779fa-4443-4403-ad44-0ad487370f8c@78f7.org
+UID:12fadcdf-96e9-4832-abfb-e2bb72974f11@12fa.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241029T120000Z
 DTSTART:20241029T103000Z
 SUMMARY:P.eko
-UID:27340def-d76c-4675-ba4e-6cdd9f8ffc2e@2734.org
+UID:cf357167-551b-40f5-b49a-9a97084edc14@cf35.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241029T134500Z
 DTSTART:20241029T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:d580dd23-d30a-41e8-8606-83ec90afdac2@d580.org
+UID:bce5fa19-c88f-41e8-8682-1feb4826714e@bce5.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241029T170000Z
 DTSTART:20241029T153000Z
 SUMMARY:Język angielski
-UID:79bf4674-08f9-4a93-b7cf-2095bb629dc2@79bf.org
+UID:11c386a8-e93b-4a32-8ca1-b9928e0f03b2@11c3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241105T083000Z
 DTSTART:20241105T070000Z
 SUMMARY:Techniki studiowania
-UID:ec4910b9-2e6b-4d52-9244-2b3ef2191995@ec49.org
+UID:e7130cdc-4850-4280-a38f-6d17a19ecd3f@e713.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241105T101500Z
 DTSTART:20241105T084500Z
 SUMMARY:Nauka o człowieku
-UID:285ecc0c-7981-4ab5-b9a0-d322cb8b498d@285e.org
+UID:54591a1b-f2e0-42b9-8bd7-e75c3f37cda8@5459.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241105T120000Z
 DTSTART:20241105T103000Z
 SUMMARY:P.eko
-UID:11e2cb71-ca26-4ae4-9ebd-43e3f3b4d4bb@11e2.org
+UID:91bfeb28-853e-4aed-8ccf-cd5071da3d36@91bf.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241105T134500Z
 DTSTART:20241105T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:1e8ba225-6df2-471a-8ef5-708fda83ee77@1e8b.org
+UID:99e80569-401f-433e-8217-00310379d066@99e8.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241105T170000Z
 DTSTART:20241105T153000Z
 SUMMARY:Język angielski
-UID:91cad69c-4ab7-4351-9be1-5de9ace4409e@91ca.org
+UID:dcb781cb-86c3-4fbd-bc45-91b73a2b0957@dcb7.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241112T083000Z
 DTSTART:20241112T070000Z
 SUMMARY:Techniki studiowania
-UID:b90d0a69-744b-428b-8e49-13b90ef88e2a@b90d.org
+UID:b5bac8bf-3eb4-4061-91ee-096ebb7bc248@b5ba.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241112T101500Z
 DTSTART:20241112T084500Z
 SUMMARY:Nauka o człowieku
-UID:2759a7e7-b96c-4cbe-b100-da08ff6bbabb@2759.org
+UID:9da44b6e-5a2f-4f93-8b2d-af00ad446731@9da4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241112T120000Z
 DTSTART:20241112T103000Z
 SUMMARY:P.eko
-UID:36e7963f-4e24-4140-bb40-d7fdd9d4b5fd@36e7.org
+UID:fd843878-821b-4621-a5db-7d19ce5cf175@fd84.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241112T134500Z
 DTSTART:20241112T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:361f7ac6-2713-4f4d-88f3-7bb47f22ec08@361f.org
+UID:02f6dd17-2c04-4995-ade0-967d867e5cb4@02f6.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241112T170000Z
 DTSTART:20241112T153000Z
 SUMMARY:Język angielski
-UID:247419bf-a480-4851-ace6-e045fa31c6a9@2474.org
+UID:d61082e1-b73a-42d2-aa07-bd1f0422789e@d610.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241119T083000Z
 DTSTART:20241119T070000Z
 SUMMARY:Techniki studiowania
-UID:cf255fcc-dd33-415c-aa3b-396a5c5909b8@cf25.org
+UID:6841f69f-33c9-47b3-ac9a-b009d8f7a213@6841.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241119T101500Z
 DTSTART:20241119T084500Z
 SUMMARY:Nauka o człowieku
-UID:c0aed88e-93a7-48d5-bcb8-e52349fac8c7@c0ae.org
+UID:ce9c0472-def2-4118-87cf-156e279fe858@ce9c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241119T120000Z
 DTSTART:20241119T103000Z
 SUMMARY:P.eko
-UID:97a20e2d-be28-4cd2-990d-82c7c18b716c@97a2.org
+UID:d03f8603-5659-49dd-933f-bd6a118beb26@d03f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241119T134500Z
 DTSTART:20241119T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:4b4105c2-5faa-4f0b-8c25-164b020c80bf@4b41.org
+UID:30d934e3-b0e5-422a-881c-be4bbd674f48@30d9.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241119T170000Z
 DTSTART:20241119T153000Z
 SUMMARY:Język angielski
-UID:9e1d7720-2d56-4a83-bb0e-ddb947a7247f@9e1d.org
+UID:9a577bdc-2c99-4da3-a6bf-0af3be1ef71f@9a57.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241126T083000Z
 DTSTART:20241126T070000Z
 SUMMARY:Techniki studiowania
-UID:a9d44e08-ccf3-41fd-84b1-428a82fe25c5@a9d4.org
+UID:24753223-1a23-4f6b-9b99-9b08131aa6a7@2475.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241126T101500Z
 DTSTART:20241126T084500Z
 SUMMARY:Nauka o człowieku
-UID:a9abef78-89d5-4874-b756-f42b1bc6ea80@a9ab.org
+UID:e2647091-c0b4-4b8f-8426-297f772b1dc4@e264.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241126T120000Z
 DTSTART:20241126T103000Z
 SUMMARY:P.eko
-UID:cf5f7639-7bab-4384-bccb-b50580aafbf6@cf5f.org
+UID:13727cd6-eae4-40c4-acac-4b7ef0cf0184@1372.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241126T134500Z
 DTSTART:20241126T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:ca0df87a-ed5d-4756-9fe5-8d0050139cce@ca0d.org
+UID:8862392c-c778-466b-a0e7-2627135d8e78@8862.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241126T170000Z
 DTSTART:20241126T153000Z
 SUMMARY:Język angielski
-UID:5c70c4ed-7276-45e5-81d5-18eedd7e0c42@5c70.org
+UID:cb0f81b3-dbbc-4d69-9bb3-3c3f2ddc5e1c@cb0f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241203T083000Z
 DTSTART:20241203T070000Z
 SUMMARY:Techniki studiowania
-UID:09562777-dc6c-44ab-a5d9-bb354347eb52@0956.org
+UID:8fec6136-cd87-4d2a-8bce-17c52aa7f302@8fec.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NoCz g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241203T101500Z
 DTSTART:20241203T084500Z
 SUMMARY:Nauka o człowieku
-UID:d4342601-a46c-44b3-97a1-3a326fa3373d@d434.org
+UID:3fff7b4c-403f-466f-b206-c87ac51fc8bc@3fff.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241203T120000Z
 DTSTART:20241203T103000Z
 SUMMARY:P.eko
-UID:3efd8254-6ae3-4938-be13-76899bf547de@3efd.org
+UID:17cb11c3-96af-4e85-9f24-2acb93ea7e65@17cb.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241203T134500Z
 DTSTART:20241203T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:a6593eb1-9ade-47ea-9c83-76475606b507@a659.org
+UID:8bdf41c2-7ad6-433b-8495-32c751a7fc90@8bdf.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241203T170000Z
 DTSTART:20241203T153000Z
 SUMMARY:Język angielski
-UID:155dadec-17e0-4464-8bd6-a4bbccf6d60c@155d.org
+UID:c427fb17-0370-4448-9781-bdefca63d594@c427.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241210T083000Z
 DTSTART:20241210T070000Z
 SUMMARY:Techniki studiowania
-UID:262d23f2-35a6-4284-9997-c2b93618c9f8@262d.org
+UID:28d1f42c-cb72-4bbf-9473-6f0ad0c312c0@28d1.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241210T120000Z
 DTSTART:20241210T103000Z
 SUMMARY:P.eko
-UID:2be943b1-2a44-484c-9c35-001e5d99a595@2be9.org
+UID:c2fb66ba-8d9e-46e4-9da7-c9acb9663a9d@c2fb.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241210T134500Z
 DTSTART:20241210T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:312860cd-8e18-4803-91e0-c00bc0815859@3128.org
+UID:e3343c21-62b5-42af-9632-f1ca3705db88@e334.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241210T170000Z
 DTSTART:20241210T153000Z
 SUMMARY:Język angielski
-UID:33f0d55b-3382-4b80-97e7-60dba5808f82@33f0.org
+UID:44e3eced-cd4f-480a-b2bf-29c5aa8a2901@44e3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241217T083000Z
 DTSTART:20241217T070000Z
 SUMMARY:Techniki studiowania
-UID:cfdd41ab-1b89-4b0c-846a-e40a89121a2e@cfdd.org
+UID:dfef8608-25a3-4824-b8fa-9b837e627c8a@dfef.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 09.45 - 11. 15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241217T101500Z
 DTSTART:20241217T084500Z
 SUMMARY:Podstawy epidemiologii 09.45 11. 15
-UID:45ff82ae-2786-43f6-8f2d-c59725b91abe@45ff.org
+UID:a9011eea-a69c-4f2b-9577-19cef2c9c8f3@a901.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241217T120000Z
 DTSTART:20241217T103000Z
 SUMMARY:P.eko
-UID:3842c5c6-9321-4c22-965c-2ec8902fbfc0@3842.org
+UID:78c924aa-18bd-45a7-858c-97aa2e80c7c5@78c9.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241217T170000Z
 DTSTART:20241217T153000Z
 SUMMARY:Język angielski
-UID:f055057e-3d59-4b86-90a9-884c8f36c2eb@f055.org
+UID:c37a5709-3c1f-4ba3-a71e-0eff84693d40@c37a.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240107T083000Z
 DTSTART:20240107T070000Z
 SUMMARY:Techniki studiowania
-UID:3b273c36-6b37-4340-97d9-7b606d50ad4a@3b27.org
+UID:6734ab1b-d227-4e40-bc87-914da101e51e@6734.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 09.45 - 11. 15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240107T101500Z
 DTSTART:20240107T084500Z
 SUMMARY:Podstawy epidemiologii 09.45 11. 15
-UID:ee3416b2-87ea-4b00-b95e-d65cdf17bc3c@ee34.org
+UID:706af0d3-5e56-47b9-84bd-1a28a0dd56ca@706a.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240107T120000Z
 DTSTART:20240107T103000Z
 SUMMARY:P.eko
-UID:8b515e81-6a87-4bb7-a6ee-1bf8b117963b@8b51.org
+UID:53e3873a-ec13-4f3f-8866-850f87349840@53e3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240107T170000Z
 DTSTART:20240107T153000Z
 SUMMARY:Język angielski
-UID:42aec887-21ef-40d4-934a-5e0d47ef0e00@42ae.org
+UID:2b18e3f9-abc0-4a00-b561-f72de7d75fd8@2b18.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - NZB 09.45 - 11. 15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240114T101500Z
 DTSTART:20240114T084500Z
 SUMMARY:Podstawy epidemiologii NZB 09.45 11. 15
-UID:3fd6162d-0b8e-4ed8-a04c-9081cde48974@3fd6.org
+UID:e7e97497-cea8-4326-92e6-d605318c6482@e7e9.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240114T120000Z
 DTSTART:20240114T103000Z
 SUMMARY:P.eko
-UID:608731bf-8a48-4a23-b19e-3779ab581ae2@6087.org
+UID:94ab0ed4-1052-4490-ae61-616579f1742f@94ab.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240114T170000Z
 DTSTART:20240114T153000Z
 SUMMARY:Język angielski
-UID:d7bba820-fca4-4132-9f76-1d64f7b99202@d7bb.org
+UID:b7e44784-ecba-42f8-977d-3c5ae164f5aa@b7e4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - NZB 09.45 - 11. 15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240121T101500Z
 DTSTART:20240121T084500Z
 SUMMARY:Podstawy epidemiologii NZB 09.45 11. 15
-UID:7eca006c-5919-41bb-baa5-98010ed36be3@7eca.org
+UID:75c0ff21-bc23-458c-bcbd-872b3371f4bf@75c0.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:P.eko g. 11:30 - 13:00 s.  204 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240121T120000Z
 DTSTART:20240121T103000Z
 SUMMARY:P.eko
-UID:25ed729f-0b47-4ec0-95fd-17141cd12536@25ed.org
+UID:5ab39197-bde3-4a8a-920a-cb17d9d44036@5ab3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JA 16:15 - 17:45 s. 139 CD (p. Rogoziński)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240121T170000Z
 DTSTART:20240121T153000Z
 SUMMARY:Język angielski
-UID:651ac545-488e-4606-b11f-9f57c6e2185e@651a.org
+UID:2cab2c1a-3404-4676-ab54-c44199be69a3@2cab.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 -10.45 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241002T084500Z
 DTSTART:20241002T054500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:1896ff15-0fe5-4194-bad1-c5f66856df9d@1896.org
+UID:9bc1e409-18dd-4e2f-bd3a-41ebddc8709d@9bc1.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mikrobiologia - wykład\, godz. 11.30-14.30\, MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241002T123000Z
 DTSTART:20241002T093000Z
-SUMMARY:Mikrobiologia godz. MsTeams w czasie rzeczywistym (wykład)
-UID:8afc089e-ce3d-410b-9ffd-65a2393ed154@8afc.org
+SUMMARY:Mikrobiologia MsTeams w czasie rzeczywistym (wykład)
+UID:da6b985a-4f8c-4efe-9ece-d41c2eb2a6d0@da6b.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 -10.45 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241009T084500Z
 DTSTART:20241009T054500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:57b3816d-b877-4e54-9fe5-fbbedad284aa@57b3.org
+UID:818ae5c4-c82a-4606-a448-346ab2914481@818a.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mikrobiologia - wykład\, godz. 11.30-14.30\, MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241009T123000Z
 DTSTART:20241009T093000Z
-SUMMARY:Mikrobiologia godz. MsTeams w czasie rzeczywistym (wykład)
-UID:1c08c269-74cf-494f-b4e2-138b72442e6b@1c08.org
+SUMMARY:Mikrobiologia MsTeams w czasie rzeczywistym (wykład)
+UID:79acfb6e-1132-437b-a680-aae744e9c33f@79ac.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 - 09.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241016T071500Z
 DTSTART:20241016T054500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:b2cc1317-46b7-4b31-ba83-a56012361bf9@b2cc.org
+UID:b266622e-b313-4963-9359-23ab2331a6ba@b266.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:13:30 - 16:00 MB ćw\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241016T140000Z
 DTSTART:20241016T113000Z
 SUMMARY:MB ćw
-UID:812add19-6c16-40d1-affe-47179d1bff68@812a.org
+UID:c0fb20b5-68f1-4342-a6d3-a13f9b4e43ed@c0fb.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mikrobiologia - wykład on- line w czasie rzeczywistym godz. 18.30-20\, MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241016T180000Z
 DTSTART:20241016T163000Z
-SUMMARY:Mikrobiologia on line w czasie rzeczywistym godz. 18.3020 MsTeams w czasie rzeczywistym (wykład)
-UID:31b56cc0-ab46-4c35-af70-06062f329490@31b5.org
+SUMMARY:Mikrobiologia on line w czasie rzeczywistym 18.3020 MsTeams w czasie rzeczywistym (wykład)
+UID:62ac47d2-c41f-4946-91d2-81bec9691c78@62ac.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 - 09.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241023T071500Z
 DTSTART:20241023T054500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:eb154189-a448-4e41-9f0a-dcba1fd34238@eb15.org
+UID:483e1d69-378d-41ca-8266-78d6d458ab43@483e.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:13:30 - 16:00 MB ćw\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241023T140000Z
 DTSTART:20241023T113000Z
 SUMMARY:MB ćw
-UID:e175765e-70f9-4277-b8dd-5d905b42be18@e175.org
+UID:b592adb8-3760-4621-b317-e4497ff6febc@b592.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 - 09.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241030T081500Z
 DTSTART:20241030T064500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:fbb38445-fa03-4264-bb61-b3fc5c3903c3@fbb3.org
+UID:a5aa0161-9436-4c5b-b80a-e8e9c323acdf@a5aa.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:13:30 - 16:00 MB ćw\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241030T150000Z
 DTSTART:20241030T123000Z
 SUMMARY:MB ćw
-UID:e1feae2c-8dbd-4fd6-afcf-0423ec42ae8b@e1fe.org
+UID:6d0b5d2d-32e7-4cf6-8672-c3ab17da0aad@6d0b.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 10:15 - 11:45 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241113T104500Z
 DTSTART:20241113T091500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:7acdb42c-2857-4de0-aa1d-ed802d51bb3b@7acd.org
+UID:d2fbf613-1909-4233-9b5b-ddb82980bfb2@d2fb.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PPS 12:00 - 13:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241113T123000Z
 DTSTART:20241113T110000Z
 SUMMARY:Podstawy psychologii
-UID:c5558b5d-655b-4ab2-ade6-be7f28db698f@c555.org
+UID:62b8a228-0d4f-434d-ae21-4ecb713138e5@62b8.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 13:45 - 15:15 s. 212 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241120T141500Z
 DTSTART:20241120T124500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:8aecf63a-5d95-4982-a0cd-91a93ecf01a6@8aec.org
+UID:4927a559-5fbc-4513-8ed7-507312215fc2@4927.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241120T160000Z
 DTSTART:20241120T143000Z
 SUMMARY:Podstawy psychologii
-UID:c0194abf-a121-4642-8e57-b2de87dcfab5@c019.org
+UID:4a986eb4-da64-46f8-871b-62e9407af688@4a98.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 - 09.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241127T081500Z
 DTSTART:20241127T064500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:474f6f0f-f28b-4f37-a98a-83bdf1471cdf@474f.org
+UID:c411f3bf-8d44-474a-9df6-975ec5d7e5a1@c411.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 13:45 - 15:15 s. 212 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241127T141500Z
 DTSTART:20241127T124500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:9fe0686f-9f54-45b9-87f2-90eef803413b@9fe0.org
+UID:353cc299-9ff3-422e-b407-58e9da029e7d@353c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241127T160000Z
 DTSTART:20241127T143000Z
 SUMMARY:Podstawy psychologii
-UID:f373ab1b-6620-4bbd-9ef7-1c9f4fdc17b3@f373.org
+UID:f08f6f1a-9076-45e1-9b3d-a4eea83fbae9@f08f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 - 09.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241204T081500Z
 DTSTART:20241204T064500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:08a29f8a-eb1c-4b15-9dd8-d51b8a62973e@08a2.org
+UID:c61ff8c2-67d7-4acc-bd9c-3c08cc1cd1a9@c61f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 13:45 - 15:15 s. 212 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241204T141500Z
 DTSTART:20241204T124500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:404918ea-ba80-46ec-8f86-6fd514617d1e@4049.org
+UID:13ac815c-5392-4792-9765-c6dff51dae63@13ac.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241204T160000Z
 DTSTART:20241204T143000Z
 SUMMARY:Podstawy psychologii
-UID:4506f6ed-7af6-44e2-99f6-0a47b0da256f@4506.org
+UID:d649c15a-7be5-462d-8ace-7f095f681d73@d649.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:07.45 - 09.15 Podstawy ochrony środowiska i zdrowia środowiskowego - wykład realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b\nWykład odbywa się na platformie MS Teams
 DTEND:20241211T081500Z
 DTSTART:20241211T064500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego (wykład)
-UID:d2a55daf-56d1-4240-98d0-ee759951c0b7@d2a5.org
+UID:89e78160-ffe1-4990-99b7-ae3cb5ac72f1@89e7.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 13:45 - 15:15 s. 212 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241211T141500Z
 DTSTART:20241211T124500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:28f6baa1-0baa-4295-a1e4-73fad21a7d35@28f6.org
+UID:a7d401a2-bb4c-4cec-a0cc-53b5c7d53308@a7d4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241211T160000Z
 DTSTART:20241211T143000Z
 SUMMARY:Podstawy psychologii
-UID:03778c0c-922e-47ef-bcb3-a577ea0904c0@0377.org
+UID:db90ca07-1f70-4550-80b5-7072a1288c5c@db90.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 15:00 - 16:30 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241218T153000Z
 DTSTART:20241218T140000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:6512cffe-3661-488c-835c-17cb25bfe655@6512.org
+UID:f76f99a5-f696-4ddd-85cd-fc54e94d5509@f76f.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 16:45 - 18:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240108T171500Z
 DTSTART:20240108T154500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:afea02df-0545-4a95-a506-f0595712370b@afea.org
+UID:1ffbf9d4-caa6-43ee-a4e2-643d8d16f5af@1ffb.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - ćw 09.45 - 11.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240115T101500Z
 DTSTART:20240115T084500Z
 SUMMARY:Podstawy epidemiologii ćw
-UID:aad69d83-50a0-49db-aa13-1b64c7b71209@aad6.org
+UID:836a227e-404c-4f0f-a264-09f553686225@836a.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 11:30 - 13:00 s. 120 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240115T120000Z
 DTSTART:20240115T103000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:fd238ed4-b2d8-4350-b3e8-df8abbeeaccf@fd23.org
+UID:3e84eebb-62b4-4868-8be0-54b62cc8f1c9@3e84.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 13:15 - 14:45 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240122T134500Z
 DTSTART:20240122T121500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:35c7ed1b-e650-47cc-a801-15cc36c0d32f@35c7.org
+UID:1076e8fe-6db9-45e4-bd48-586e87ba07bb@1076.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 08:15 - 11:15 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241003T091500Z
 DTSTART:20241003T061500Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:46650c38-fbb7-4d85-b920-b397f67df948@4665.org
+UID:e303602e-8041-4768-9953-35c22f68ad84@e303.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 08:15 - 11:15 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241010T091500Z
 DTSTART:20241010T061500Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:89d2da94-fd82-4141-b335-d01c6280f547@89d2.org
+UID:e7d3a158-d7d4-4dbb-b282-100ad90cdb7f@e7d3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 08:15 - 11:15 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241017T091500Z
 DTSTART:20241017T061500Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:826b887d-4bd4-499a-9782-09afd36b5ac9@826b.org
+UID:620cc60a-28a9-4cf5-8e3a-660c76f31ac5@620c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 08:15 - 11:15 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241024T091500Z
 DTSTART:20241024T061500Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:e9f98ccd-f7f9-446f-9cb8-b4591a1fc79e@e9f9.org
+UID:dd8c1a98-c3ef-4ebc-b95e-0e790dd3f510@dd8c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 11:30 - 13:00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241031T120000Z
 DTSTART:20241031T103000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:a226c5c4-4cfa-4e9a-a9ce-78a9442fbbdd@a226.org
+UID:3ae34626-2044-44b0-9ccf-b6f2f5bedcb5@3ae3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13:15 - 14:45 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241031T134500Z
 DTSTART:20241031T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:a367a27e-0b07-43e9-9918-7d42525c449a@a367.org
+UID:2b8a00f9-a3f1-42e9-a1a9-c9881d2513ee@2b8a.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241107T101500Z
 DTSTART:20241107T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:29d86b53-dd35-4758-b7a5-8e42d844dd3c@29d8.org
+UID:15de8d32-9d9b-4e81-92ba-ab600858fc63@15de.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241107T133000Z
 DTSTART:20241107T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:fdcfc73f-6623-4751-9672-1d4c827dd111@fdcf.org
+UID:9550e384-1001-4362-9bfd-f6d6fe682f27@9550.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241114T101500Z
 DTSTART:20241114T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:326674d6-8c9c-4417-a9f9-ec51b9ef239d@3266.org
+UID:306c096f-483f-472f-9863-894d70683abc@306c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241114T133000Z
 DTSTART:20241114T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:23103a62-82f8-49a6-978a-0e344e824155@2310.org
+UID:a645718f-9520-4b97-a521-5d0df37d9ace@a645.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241121T101500Z
 DTSTART:20241121T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:16d1a529-1e7a-46fc-af0a-117148728469@16d1.org
+UID:7bf827a2-b12c-4b06-bcfb-a584d4d7eb77@7bf8.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241121T133000Z
 DTSTART:20241121T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:f4aec872-6197-40ad-801a-387b46dd40f6@f4ae.org
+UID:2426c590-b661-4009-a08d-7ce2c7138281@2426.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241128T101500Z
 DTSTART:20241128T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:49bd7792-942f-4475-a0f1-6b85789e8785@49bd.org
+UID:55dbe7ee-5202-4c86-8881-e06a05bb13f3@55db.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241128T133000Z
 DTSTART:20241128T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:cd56689d-f906-4772-a903-dc0b50d230df@cd56.org
+UID:2c89ff2f-cd2b-4376-bef0-96462b1e68a2@2c89.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241205T101500Z
 DTSTART:20241205T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:4e232f8f-60d5-4116-88b9-62741ffe90b7@4e23.org
+UID:5c927b1d-f030-4d53-9f4c-12e0fd5d13e5@5c92.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241205T133000Z
 DTSTART:20241205T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:f7f54faa-acbc-4ea9-bfb3-4987a41c0b0d@f7f5.org
+UID:304d1585-41ec-4471-a58b-bd0674d58aa3@304d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 08:00 - 09:30 s. 211 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241212T083000Z
 DTSTART:20241212T070000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:9dad5731-c1f5-4e53-9c5c-817afa2fb0e1@9dad.org
+UID:81925f60-669a-4dde-98e5-e4e4dc3f28a3@8192.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 09.45 - 11.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241212T101500Z
 DTSTART:20241212T084500Z
 SUMMARY:Podstawy epidemiologii
-UID:b08a7445-eeb0-4d34-ab37-b6e6ac698c72@b08a.org
+UID:3077816d-8554-47ea-bb74-b1d83cc5ff5d@3077.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241212T133000Z
 DTSTART:20241212T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:75118acf-9173-417c-8c3e-56a0aee3c3da@7511.org
+UID:f1f6fd91-18c1-467b-b4f6-d5a522bc956f@f1f6.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 08:00 - 09:30 s. 211 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241219T083000Z
 DTSTART:20241219T070000Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:b5d576b2-6758-43b0-a426-39d6fc51283d@b5d5.org
+UID:1b701c41-84af-40e1-839b-c83cd8929dfc@1b70.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  g. 11:30 - 14:30 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241219T133000Z
 DTSTART:20241219T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:b4308a10-e1be-4136-b0d3-255efea54bca@b430.org
+UID:8307cf34-4bed-4f5b-828a-fabe1d8f3248@8307.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - ćw 08.00 - 09.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240109T083000Z
 DTSTART:20240109T070000Z
 SUMMARY:Podstawy epidemiologii ćw
-UID:cfb7736f-5383-4dbe-ae3e-5cc3385f26cf@cfb7.org
+UID:66210e60-873c-4d25-81e3-1429a17ee9a9@6621.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240109T101500Z
 DTSTART:20240109T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:928de81f-89ca-498d-8090-efa395abd8ae@928d.org
+UID:01f3c676-d995-4ee3-9179-455e67eba46e@01f3.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  11:30 - 13:00 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240109T120000Z
 DTSTART:20240109T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:f8a3230a-a66f-49cd-b39d-5e08e7bbd1fa@f8a3.org
+UID:cf3647f9-8e01-4c15-a476-73575663257d@cf36.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240116T101500Z
 DTSTART:20240116T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:01133964-cce3-4948-be71-2a9bd90f1c72@0113.org
+UID:2aa68e17-9330-4d08-ba6b-8f06be7ffaa2@2aa6.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  11:30 - 13:00 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240116T120000Z
 DTSTART:20240116T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:bb96d600-946d-45cd-9332-ee18a4611912@bb96.org
+UID:6069fe4a-709f-4eb0-944f-ab8d368010b3@6069.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:POŚ 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240123T101500Z
 DTSTART:20240123T084500Z
 SUMMARY:Podstawy ochrony środowiska i zdrowia środowiskowego
-UID:5823ebbf-c850-4446-a439-409062c6fe92@5823.org
+UID:3d446ddc-ea83-4198-bd3d-209d2bd61f9d@3d44.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PZP  11:30 - 13:00 sala 19\, ul. Pawińskiego 3c\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240123T120000Z
 DTSTART:20240123T103000Z
 SUMMARY:Propedeutyka zdrowia publicznego
-UID:3e18fecb-f129-4baa-b589-0db46404f4c7@3e18.org
+UID:1890ef5b-61f0-4751-93b3-6fc0dc2a2c49@1890.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - ćw 13.15 - 14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240123T134500Z
 DTSTART:20240123T121500Z
 SUMMARY:Podstawy epidemiologii ćw
-UID:ab3097cd-9f9d-4935-9f48-50d53916a5b6@ab30.org
+UID:8cec02d2-cc16-47de-9fd0-ee2eb2dcaec7@8cec.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 -14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241004T124500Z
 DTSTART:20241004T111500Z
 SUMMARY:Podstawy epidemiologii
-UID:48c8494c-44fa-47ae-bb21-2ef9fce847c0@48c8.org
+UID:aa200648-38c1-4d1c-9182-dfa258f22678@aa20.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:11:30 - 14:30\, IT gr 3b\, s. 233 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241011T123000Z
 DTSTART:20241011T093000Z
 SUMMARY:Praktyczne podstawy IT gr 3b
-UID:64eea523-bd3f-4f05-9a99-dd1bdc7d92e6@64ee.org
+UID:a58e815c-48e6-4cc1-9fb6-4a272e6d3812@a58e.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241011T143000Z
 DTSTART:20241011T130000Z
 SUMMARY:Podstawy epidemiologii
-UID:eea2b96c-996e-4661-ba7f-f506668e82da@eea2.org
+UID:845ca189-f502-43c8-baf8-2bf39e740a20@845c.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 13.15 -14.45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241018T124500Z
 DTSTART:20241018T111500Z
 SUMMARY:Podstawy epidemiologii
-UID:ed5a87dd-4a93-46da-8e80-1f3f3e0a9c24@ed5a.org
+UID:f391098e-6de0-455d-a689-8c778e1e37de@f391.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:11:30 - 14:30\, IT gr 3b\, s. 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241025T123000Z
 DTSTART:20241025T093000Z
 SUMMARY:Praktyczne podstawy IT gr 3b
-UID:a741170b-9833-4a3d-b65f-7ade0294f454@a741.org
+UID:84cd4fd3-15d9-485d-b929-666a6bc9f571@84cd.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241025T143000Z
 DTSTART:20241025T130000Z
 SUMMARY:Podstawy epidemiologii
-UID:f834af0e-7d46-4a71-8cb6-3781977db889@f834.org
+UID:4aa48d41-d1f5-4609-b55a-4972f0edb8b1@4aa4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:g. 12:00 - 15:45 KPP 3b\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241108T144500Z
 DTSTART:20241108T110000Z
 SUMMARY:KPP 3b
-UID:159f7e06-0b36-4456-97c2-88eff3be0ed9@159f.org
+UID:3689fb42-7697-4a42-8c5e-3ae000e7c214@3689.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241108T171500Z
 DTSTART:20241108T154500Z
 SUMMARY:Podstawy epidemiologii
-UID:4bbe7730-64ba-4061-a334-07f921adac91@4bbe.org
+UID:87a92968-7d89-4e04-8fcf-b466c8769f50@87a9.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:11:30 - 14:30\, IT gr 3b\, s. 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241115T133000Z
 DTSTART:20241115T103000Z
 SUMMARY:Praktyczne podstawy IT gr 3b
-UID:6af022f3-da6e-4a2c-b593-5340dfd11296@6af0.org
+UID:29a0a375-7119-4c25-a1b1-cec62459cbec@29a0.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241115T153000Z
 DTSTART:20241115T140000Z
 SUMMARY:Podstawy epidemiologii
-UID:26976619-7fde-432c-9267-e8196a776dd8@2697.org
+UID:1ea104f3-2c8b-404a-ba2d-2f87bdaa5cd5@1ea1.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:g. 12:00 - 15:45 KPP 4b\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241122T150000Z
 DTSTART:20241122T111500Z
 SUMMARY:KPP 4b
-UID:012bc5f2-4ef7-4679-8d33-6993b8f7201e@012b.org
+UID:48fb5131-8e94-4c85-823c-0353778f9b84@48fb.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241122T171500Z
 DTSTART:20241122T154500Z
 SUMMARY:Podstawy epidemiologii
-UID:e72415c3-0687-4e4d-98b8-8da40275fdde@e724.org
+UID:5162baa2-ec6c-434c-9d59-eb3d7782f643@5162.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:11:30 - 14:30\, IT gr 3b sala komp. W CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241129T133000Z
 DTSTART:20241129T103000Z
 SUMMARY:Praktyczne podstawy IT gr 3b
-UID:e0f969d9-dde1-48e3-b58c-e5235e6c49b9@e0f9.org
+UID:8ed03c5f-d8f1-47aa-92d0-cf4116b4d565@8ed0.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241129T151500Z
 DTSTART:20241129T134500Z
 SUMMARY:Podstawy epidemiologii
-UID:e9d881cd-7bfb-4d14-8009-5638af162cfc@e9d8.org
+UID:13da5020-7ad3-4780-9a7a-53fbf68b54b8@13da.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PP g. 11:30 - 13:00 s. 124 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241206T120000Z
 DTSTART:20241206T103000Z
 SUMMARY:Podstawy prawa
-UID:a18b6489-24d7-4a0d-bac0-f41c80cd84a9@a18b.org
+UID:4d52b75f-846c-48f4-be8e-a6b8a1a44570@4d52.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe g.13:15 - 14:45 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241206T134500Z
 DTSTART:20241206T121500Z
 SUMMARY:Podstawy epidemiologii
-UID:73bc2634-86f4-46af-a8e6-cee257c73335@73bc.org
+UID:a5ce3fc5-6769-488f-9878-c4bc9f8b6f12@a5ce.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PP g.13:15 - 14:45 s. 124 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241213T134500Z
 DTSTART:20241213T121500Z
 SUMMARY:Podstawy prawa
-UID:53b4343c-010c-42eb-b9f0-42a14722afca@53b4.org
+UID:17f7f287-2943-49f0-bef8-0d57ce29c21c@17f7.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241213T153000Z
 DTSTART:20241213T140000Z
 SUMMARY:Podstawy epidemiologii
-UID:20b21f39-c38a-447e-a9a3-dffee19bbb78@20b2.org
+UID:db3dcdc0-d4d6-41aa-9f1c-8457f8d300ea@db3d.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PP g.13:15 - 14:45 s. 124 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241220T134500Z
 DTSTART:20241220T121500Z
 SUMMARY:Podstawy prawa
-UID:3cd295e3-4c02-4a79-bf90-29b5958e1f8f@3cd2.org
+UID:77c47eca-178d-4909-8d4a-b068630afdbf@77c4.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20241220T153000Z
 DTSTART:20241220T140000Z
 SUMMARY:Podstawy epidemiologii
-UID:b41bce68-84b1-4a9b-984c-7874b848eb5a@b41b.org
+UID:dcc2e022-ab45-4d09-94ba-314418fd741d@dcc2.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - NZB 08.00 - 09.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240110T083000Z
 DTSTART:20240110T070000Z
 SUMMARY:Podstawy epidemiologii NZB
-UID:86a23f83-8020-477b-b67c-fb2530edcf1e@86a2.org
+UID:90a2e4f7-f1de-4d42-b1e9-d3fcc7b2d92b@90a2.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PP g. 09:45 - 11:15 s. 124 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240110T101500Z
 DTSTART:20240110T084500Z
 SUMMARY:Podstawy prawa
-UID:70422425-1459-44bc-a8b0-8479f745a481@7042.org
+UID:2d11df2e-0872-4c81-812c-307aefe1dac7@2d11.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - NZB 08.00 - 09.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240117T083000Z
 DTSTART:20240117T070000Z
 SUMMARY:Podstawy epidemiologii NZB
-UID:bae21183-eb62-40dc-a309-a3f6bc7f152a@bae2.org
+UID:9429e703-c218-49b2-a476-c36e0e5a2ac5@9429.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:PP g. 09:45 - 11:15 s. 124 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240117T101500Z
 DTSTART:20240117T084500Z
 SUMMARY:Podstawy prawa
-UID:fcb0f75a-089e-452e-8267-762d307aee62@fcb0.org
+UID:8689a319-e15c-4d03-9f74-feb189ab3813@8689.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Pe - NZB 11.30 - 13.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wykładowa: 3b
 DTEND:20240124T120000Z
 DTSTART:20240124T103000Z
 SUMMARY:Podstawy epidemiologii NZB
-UID:9bc968a2-eea6-4651-bab2-a6373e868565@9bc9.org
+UID:28b302b6-4931-4581-a0ef-72d80b6349da@28b3.org
 END:VEVENT
 END:VCALENDAR
