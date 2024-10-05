@@ -1548,6 +1548,15 @@
     "color": "0 255 0"
   },
   {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2024-01-16T09:45:00+01:00",
+    "end_date": "2024-01-16T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
@@ -1560,9 +1569,9 @@
     "title": "Propedeutyka zdrowia publicznego",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-01-16T13:15:00+01:00",
-    "end_date": "2024-01-16T14:45:00+01:00",
-    "description": "PZP  13:15 - 14:45 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2024-01-23T09:45:00+01:00",
+    "end_date": "2024-01-23T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "255 204 0"
   },
   {
@@ -1573,15 +1582,6 @@
     "end_date": "2024-01-23T13:00:00+01:00",
     "description": "PO\u015a 11:30 - 13:00 s. 203 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-23T13:15:00+01:00",
-    "end_date": "2024-01-23T14:45:00+01:00",
-    "description": "PZP  13:15 - 14:45 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
   },
   {
     "title": "Podstawy epidemiologii",
@@ -1598,7 +1598,7 @@
     "exercise_group": "4b",
     "start_date": "2024-10-04T11:30:00+02:00",
     "end_date": "2024-10-04T14:30:00+02:00",
-    "description": "11:30 - 14:30, IT gr 4b, sala 17a, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "description": "11:30 - 14:30, IT gr 4b\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "128 0 128"
   },
   {
@@ -1607,7 +1607,7 @@
     "exercise_group": "4b",
     "start_date": "2024-10-11T13:15:00+02:00",
     "end_date": "2024-10-11T14:45:00+02:00",
-    "description": "Pe 13.15 -14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "description": "Pe 13.15 -14.45 s. 121, bl08.11, 08ok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 128 0"
   },
   {
@@ -1616,7 +1616,7 @@
     "exercise_group": "4b",
     "start_date": "2024-10-18T11:30:00+02:00",
     "end_date": "2024-10-18T14:30:00+02:00",
-    "description": "11:30 - 14:30, IT gr 4b, s. 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "description": "11:30 - 14:30, IT gr 4b, s. 233 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "128 0 128"
   },
   {
@@ -1643,7 +1643,7 @@
     "exercise_group": "4b",
     "start_date": "2024-11-08T11:30:00+01:00",
     "end_date": "2024-11-08T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 4bsala komp. W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "description": "11:30 - 14:30, IT gr 4bsala komp. 233 W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "128 0 128"
   },
   {
@@ -1679,7 +1679,7 @@
     "exercise_group": "4b",
     "start_date": "2024-11-22T11:30:00+01:00",
     "end_date": "2024-11-22T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 4b, sala komp. W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "description": "11:30 - 14:30, IT gr 4b, sala 233. W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "128 0 128"
   },
   {
@@ -1715,7 +1715,7 @@
     "exercise_group": "4b",
     "start_date": "2024-12-06T11:30:00+01:00",
     "end_date": "2024-12-06T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 3b sala komp. W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "description": "11:30 - 14:30, IT gr 3b sala brak Sali\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "128 0 128"
   },
   {

@@ -1202,7 +1202,7 @@
     "exercise_group": "3b",
     "start_date": "2024-11-20T15:30:00+01:00",
     "end_date": "2024-11-20T17:00:00+01:00",
-    "description": "PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "description": "PPS 15.30 - 17.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "153 51 0"
   },
   {
@@ -1229,7 +1229,7 @@
     "exercise_group": "3b",
     "start_date": "2024-11-27T15:30:00+01:00",
     "end_date": "2024-11-27T17:00:00+01:00",
-    "description": "PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "description": "PPS 15.30 - 17.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "153 51 0"
   },
   {
@@ -1256,7 +1256,7 @@
     "exercise_group": "3b",
     "start_date": "2024-12-04T15:30:00+01:00",
     "end_date": "2024-12-04T17:00:00+01:00",
-    "description": "PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "description": "PPS 15.30 - 17.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "153 51 0"
   },
   {
@@ -1283,7 +1283,7 @@
     "exercise_group": "3b",
     "start_date": "2024-12-11T15:30:00+01:00",
     "end_date": "2024-12-11T17:00:00+01:00",
-    "description": "PPS 15.30 - 17.00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "description": "PPS 15.30 - 17.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "153 51 0"
   },
   {
@@ -1632,9 +1632,9 @@
     "title": "Praktyczne podstawy IT gr 3b",
     "seminar_group": "gr. 3",
     "exercise_group": "3b",
-    "start_date": "2024-10-25T11:30:00+02:00",
-    "end_date": "2024-10-25T14:30:00+02:00",
-    "description": "11:30 - 14:30, IT gr 3b, s. 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "start_date": "2024-10-25T11:00:00+02:00",
+    "end_date": "2024-10-25T14:00:00+02:00",
+    "description": "11:00 - 14:00, IT gr 3b, s. 233 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "128 0 128"
   },
   {
@@ -1665,12 +1665,12 @@
     "color": "0 128 0"
   },
   {
-    "title": "Praktyczne podstawy IT gr 3b",
+    "title": "Praktyczne podstawy IT gr 3b 233 CD",
     "seminar_group": "gr. 3",
     "exercise_group": "3b",
     "start_date": "2024-11-15T11:30:00+01:00",
     "end_date": "2024-11-15T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 3b, s. 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "description": "11:30 - 14:30, IT gr 3b, 233 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "128 0 128"
   },
   {
@@ -1706,7 +1706,7 @@
     "exercise_group": "3b",
     "start_date": "2024-11-29T11:30:00+01:00",
     "end_date": "2024-11-29T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 3b sala komp. W CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "description": "11:30 - 14:30, IT gr 3b sala brak Sali\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "128 0 128"
   },
   {
