@@ -639,15 +639,6 @@
     "color": "255 255 0"
   },
   {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2024-10-29T09:45:00+01:00",
-    "end_date": "2024-10-29T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "192 192 192"
-  },
-  {
     "title": "Nauka o cz\u0142owieku",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -1024,6 +1015,15 @@
     "end_date": "2024-01-14T09:30:00+01:00",
     "description": "Pe - NZB 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 128 0"
+  },
+  {
+    "title": "Techniki studiowania",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4a",
+    "start_date": "2024-01-14T09:45:00+01:00",
+    "end_date": "2024-01-14T11:15:00+01:00",
+    "description": "TS g. 09:45 - 11:15 s. 205 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "192 192 192"
   },
   {
     "title": "P.eko",

@@ -639,15 +639,6 @@
     "color": "255 255 0"
   },
   {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2024-10-29T08:00:00+01:00",
-    "end_date": "2024-10-29T09:30:00+01:00",
-    "description": "TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
     "title": "Nauka o cz\u0142owieku",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
@@ -1015,6 +1006,15 @@
     "end_date": "2024-01-07T18:00:00+01:00",
     "description": "JA 16:15 - 17:45 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 255 0"
+  },
+  {
+    "title": "Techniki studiowania",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2024-01-14T08:00:00+01:00",
+    "end_date": "2024-01-14T09:30:00+01:00",
+    "description": "TS g. 08:00 - 09:30 s. 205 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
     "title": "Podstawy epidemiologii NZB 09.45 11. 15",
