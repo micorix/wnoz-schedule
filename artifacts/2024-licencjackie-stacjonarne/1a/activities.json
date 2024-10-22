@@ -621,15 +621,6 @@
     "color": "0 128 0"
   },
   {
-    "title": "Techniki studiowania s.125 CD",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1a",
-    "start_date": "2024-10-29T11:30:00+01:00",
-    "end_date": "2024-10-29T13:00:00+01:00",
-    "description": "TS g. 11:30 - 13:00 s.125 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
-    "color": "192 192 192"
-  },
-  {
     "title": "Nauka o cz\u0142owieku 5.DE 002 Sala dydaktyczna (jasna) Szpital Pediatryczny",
     "seminar_group": "gr. 1",
     "exercise_group": "1a",
@@ -907,6 +898,15 @@
     "end_date": "2024-01-14T09:30:00+01:00",
     "description": "P.eko g. 08:00 - 09:30 s. 204 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
     "color": "204 153 255"
+  },
+  {
+    "title": "Techniki studiowania",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1a",
+    "start_date": "2024-01-14T11:30:00+01:00",
+    "end_date": "2024-01-14T13:00:00+01:00",
+    "description": "TS g. 11:30 - 13:00 s. 205 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
+    "color": "192 192 192"
   },
   {
     "title": "Podstawy epidemiologii NZB",
