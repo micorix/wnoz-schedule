@@ -945,15 +945,6 @@
     "color": "192 192 192"
   },
   {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3b",
-    "start_date": "2024-12-17T09:45:00+01:00",
-    "end_date": "2024-12-17T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
-    "color": "0 128 0"
-  },
-  {
     "title": "P.eko",
     "seminar_group": "gr. 3",
     "exercise_group": "3b",
@@ -972,6 +963,15 @@
     "color": "255 255 0"
   },
   {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3b",
+    "start_date": "2024-12-17T18:15:00+01:00",
+    "end_date": "2024-12-17T19:45:00+01:00",
+    "description": "Pe 18.00 - 19.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "color": "0 128 0"
+  },
+  {
     "title": "Techniki studiowania",
     "seminar_group": "gr. 3",
     "exercise_group": "3b",
@@ -979,15 +979,6 @@
     "end_date": "2024-01-07T09:30:00+01:00",
     "description": "TS g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "192 192 192"
-  },
-  {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3b",
-    "start_date": "2024-01-07T09:45:00+01:00",
-    "end_date": "2024-01-07T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
-    "color": "0 128 0"
   },
   {
     "title": "P.eko",
@@ -1006,6 +997,15 @@
     "end_date": "2024-01-07T18:00:00+01:00",
     "description": "JA 16:15 - 17:45 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "255 255 0"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3b",
+    "start_date": "2024-01-07T18:15:00+01:00",
+    "end_date": "2024-01-07T19:45:00+01:00",
+    "description": "Pe 18.00 - 19.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
+    "color": "0 128 0"
   },
   {
     "title": "Techniki studiowania",
