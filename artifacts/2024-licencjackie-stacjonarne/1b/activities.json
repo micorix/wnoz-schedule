@@ -612,15 +612,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-10-29T09:45:00+01:00",
-    "end_date": "2024-10-29T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "0 128 0"
-  },
-  {
     "title": "Nauka o cz\u0142owieku 5.DE 002 Sala dydaktyczna (jasna) Szpital Pediatryczny",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -630,6 +621,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-10-29T18:15:00+01:00",
+    "end_date": "2024-10-29T19:45:00+01:00",
+    "description": "Pe 18.00 - 19.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -637,15 +637,6 @@
     "end_date": "2024-11-05T09:30:00+01:00",
     "description": "P.eko g. 08:00 - 09:30 s. 204 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-11-05T09:45:00+01:00",
-    "end_date": "2024-11-05T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "0 128 0"
   },
   {
     "title": "Techniki studiowania s.125 CD",
@@ -664,6 +655,15 @@
     "end_date": "2024-11-05T14:45:00+01:00",
     "description": "NoCz g. 13:15 - 14:45 5.DE 002 Sala dydaktyczna (jasna) Szpital Pediatryczny\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 204 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-05T18:15:00+01:00",
+    "end_date": "2024-11-05T19:45:00+01:00",
+    "description": "Pe 18.00 - 19.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
   },
   {
     "title": "P.eko",
@@ -747,15 +747,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-11-26T09:45:00+01:00",
-    "end_date": "2024-11-26T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "0 128 0"
-  },
-  {
     "title": "Techniki studiowania s.125 CD",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -774,6 +765,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-26T18:15:00+01:00",
+    "end_date": "2024-11-26T19:45:00+01:00",
+    "description": "Pe 18.00 - 19.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -781,15 +781,6 @@
     "end_date": "2024-12-03T09:30:00+01:00",
     "description": "P.eko g. 08:00 - 09:30 s. 204 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-12-03T09:45:00+01:00",
-    "end_date": "2024-12-03T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "0 128 0"
   },
   {
     "title": "Techniki studiowania s.125 CD",
@@ -819,15 +810,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "Podstawy epidemiologii 09.45 11. 15",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-12-10T09:45:00+01:00",
-    "end_date": "2024-12-10T11:15:00+01:00",
-    "description": "Pe 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "0 128 0"
-  },
-  {
     "title": "Techniki studiowania s.125 CD",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -835,6 +817,15 @@
     "end_date": "2024-12-10T13:00:00+01:00",
     "description": "TS g. 11:30 - 13:00 s.125 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "192 192 192"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-12-10T18:15:00+01:00",
+    "end_date": "2024-12-10T19:45:00+01:00",
+    "description": "Pe 18.00 - 19.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
   },
   {
     "title": "P.eko",
@@ -1620,15 +1611,6 @@
     "color": "255 204 0"
   },
   {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-11-15T09:45:00+01:00",
-    "end_date": "2024-11-15T11:15:00+01:00",
-    "description": "Pe 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "0 128 0"
-  },
-  {
     "title": "Propedeutyka zdrowia publicznego",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -1641,9 +1623,27 @@
     "title": "Podstawy epidemiologii",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
-    "start_date": "2024-11-22T09:45:00+01:00",
-    "end_date": "2024-11-22T11:15:00+01:00",
-    "description": "Pe 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "start_date": "2024-11-15T18:30:00+01:00",
+    "end_date": "2024-11-15T19:00:00+01:00",
+    "description": "Pe\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-15T18:30:00+01:00",
+    "end_date": "2024-11-15T20:00:00+01:00",
+    "description": "18.30 - 20.00\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-15T19:30:00+01:00",
+    "end_date": "2024-11-15T20:00:00+01:00",
+    "description": "s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 128 0"
   },
   {
@@ -1654,6 +1654,33 @@
     "end_date": "2024-11-22T14:30:00+01:00",
     "description": "PZP  g. 11:30 - 14:30 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-22T18:30:00+01:00",
+    "end_date": "2024-11-22T19:00:00+01:00",
+    "description": "Pe\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-22T18:30:00+01:00",
+    "end_date": "2024-11-22T20:00:00+01:00",
+    "description": "18.30 - 20.00\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-11-22T19:30:00+01:00",
+    "end_date": "2024-11-22T20:00:00+01:00",
+    "description": "s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "0 128 0"
   },
   {
     "title": "Podstawy epidemiologii",

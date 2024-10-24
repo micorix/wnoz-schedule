@@ -1368,15 +1368,6 @@
     "color": "255 204 0"
   },
   {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2024-10-31T09:45:00+01:00",
-    "end_date": "2024-10-31T11:15:00+01:00",
-    "description": "Pe 09:45 - 11:15 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "0 128 0"
-  },
-  {
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -1384,6 +1375,15 @@
     "end_date": "2024-10-31T14:45:00+01:00",
     "description": "PO\u015a 13:15 - 14:45 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 255 0"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4a",
+    "start_date": "2024-10-31T15:00:00+01:00",
+    "end_date": "2024-10-31T16:30:00+01:00",
+    "description": "Pe 15.00 - 16.30 s. 141 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "0 128 0"
   },
   {
     "title": "Propedeutyka zdrowia publicznego",
