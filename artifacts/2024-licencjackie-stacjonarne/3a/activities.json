@@ -1701,22 +1701,22 @@
     "color": "0 128 0"
   },
   {
-    "title": "Praktyczne podstawy IT gr 3a",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2024-11-29T08:15:00+01:00",
-    "end_date": "2024-11-29T11:15:00+01:00",
-    "description": "08:15 - 11:15, IT gr 3a,sala brak Sali\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "128 0 128"
-  },
-  {
     "title": "Podstawy epidemiologii",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2024-11-29T14:45:00+01:00",
-    "end_date": "2024-11-29T16:15:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2024-11-29T09:45:00+01:00",
+    "end_date": "2024-11-29T11:15:00+01:00",
+    "description": "Pe 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 128 0"
+  },
+  {
+    "title": "Praktyczne podstawy IT gr 3a",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2024-11-29T13:15:00+01:00",
+    "end_date": "2024-11-29T16:15:00+01:00",
+    "description": "13:15 - 16:15, IT gr 3a,sala 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
   },
   {
     "title": "Podstawy prawa",
