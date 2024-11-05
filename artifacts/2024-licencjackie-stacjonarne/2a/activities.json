@@ -1377,22 +1377,22 @@
     "color": "0 128 0"
   },
   {
-    "title": "Praktyczne podstawy IT gr 2a",
-    "seminar_group": "gr. 2",
-    "exercise_group": "2a",
-    "start_date": "2024-11-07T08:00:00+01:00",
-    "end_date": "2024-11-07T11:00:00+01:00",
-    "description": "08:00 - 11:00, IT gr 2a, , s. 6 CBI\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
-    "color": "128 0 128"
-  },
-  {
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
     "seminar_group": "gr. 2",
     "exercise_group": "2a",
-    "start_date": "2024-11-07T11:30:00+01:00",
-    "end_date": "2024-11-07T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
+    "start_date": "2024-11-07T08:00:00+01:00",
+    "end_date": "2024-11-07T09:30:00+01:00",
+    "description": "PO\u015a 08:00 - 09:30 s. 211 CD\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
     "color": "0 255 0"
+  },
+  {
+    "title": "Praktyczne podstawy IT gr 2a",
+    "seminar_group": "gr. 2",
+    "exercise_group": "2a",
+    "start_date": "2024-11-07T10:00:00+01:00",
+    "end_date": "2024-11-07T13:00:00+01:00",
+    "description": "10:00 - 13:00, IT gr 2a, , s. 6 CBI\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
+    "color": "128 0 128"
   },
   {
     "title": "KPP 2a",
@@ -1434,9 +1434,9 @@
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
     "seminar_group": "gr. 2",
     "exercise_group": "2a",
-    "start_date": "2024-11-28T08:00:00+01:00",
-    "end_date": "2024-11-28T09:30:00+01:00",
-    "description": "PO\u015a 08:00 - 09:30 s. 211 CD\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
+    "start_date": "2024-11-28T11:15:00+01:00",
+    "end_date": "2024-11-28T12:45:00+01:00",
+    "description": "PO\u015a 11:30 - 13:00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
     "color": "0 255 0"
   },
   {
@@ -1656,15 +1656,6 @@
     "color": "0 128 0"
   },
   {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 2",
-    "exercise_group": "2a",
-    "start_date": "2024-11-29T09:45:00+01:00",
-    "end_date": "2024-11-29T11:15:00+01:00",
-    "description": "Pe 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
-    "color": "0 128 0"
-  },
-  {
     "title": "Propedeutyka zdrowia publicznego",
     "seminar_group": "gr. 2",
     "exercise_group": "2a",
@@ -1672,6 +1663,15 @@
     "end_date": "2024-11-29T14:30:00+01:00",
     "description": "PZP  g. 11:30 - 14:30 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
     "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 2",
+    "exercise_group": "2a",
+    "start_date": "2024-11-29T14:45:00+01:00",
+    "end_date": "2024-11-29T16:15:00+01:00",
+    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
+    "color": "0 128 0"
   },
   {
     "title": "Podstawy epidemiologii",
