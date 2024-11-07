@@ -1107,15 +1107,6 @@
     "color": "255 255 0"
   },
   {
-    "title": "Podstawy psychologii",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1b",
-    "start_date": "2024-11-20T13:45:00+01:00",
-    "end_date": "2024-11-20T15:15:00+01:00",
-    "description": "PPS 13:45 - 15:15 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
-    "color": "153 51 0"
-  },
-  {
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -1240,6 +1231,15 @@
     "end_date": "2024-12-11T19:15:00+01:00",
     "description": "JA 17:45 - 19:15 s. 124 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "255 255 0"
+  },
+  {
+    "title": "Podstawy psychologii",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2024-12-18T11:30:00+01:00",
+    "end_date": "2024-12-18T13:00:00+01:00",
+    "description": "PPS 11:30 - 13:00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "153 51 0"
   },
   {
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
