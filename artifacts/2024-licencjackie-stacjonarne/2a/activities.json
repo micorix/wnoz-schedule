@@ -414,6 +414,15 @@
     "color": "0 255 0"
   },
   {
+    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
+    "seminar_group": "gr. 2",
+    "exercise_group": "2a",
+    "start_date": "2024-01-13T15:45:00+01:00",
+    "end_date": "2024-01-13T17:15:00+01:00",
+    "description": "15.45 - 17.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "0 255 0"
+  },
+  {
     "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
     "seminar_group": "gr. 2",
     "exercise_group": "2a",
@@ -1186,15 +1195,6 @@
     "end_date": "2024-12-04T17:30:00+01:00",
     "description": "JA 16:00 - 17:30 s. 124 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a",
     "color": "255 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 2",
-    "exercise_group": "2a",
-    "start_date": "2024-12-11T07:45:00+01:00",
-    "end_date": "2024-12-11T09:15:00+01:00",
-    "description": "07.45 - 09.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2a\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
   },
   {
     "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
