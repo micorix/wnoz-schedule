@@ -1,1820 +1,974 @@
 [
   {
+    "title": "Dzie\u0144 Rektorski",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-06T08:00:00+02:00",
+    "end_date": "2025-10-06T20:45:00+02:00",
+    "description": "Dzie\u0144 Rektorski\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": null
+  },
+  {
     "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-10-07T08:00:00+02:00",
-    "end_date": "2024-10-07T09:30:00+02:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T08:00:00+02:00",
+    "end_date": "2025-10-13T09:30:00+02:00",
+    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 128 0"
   },
   {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
+    "title": "Podstawy ekonomii (NZQA) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-10-07T09:45:00+02:00",
-    "end_date": "2024-10-07T11:15:00+02:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T09:45:00+02:00",
+    "end_date": "2025-10-13T11:15:00+02:00",
+    "description": "Podstawy ekonomii (NZQA) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "255 0 255"
   },
   {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-10-07T14:00:00+02:00",
-    "end_date": "2024-10-07T17:00:00+02:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14.00 -17.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY PRAWA (NZQA) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-07T17:15:00+02:00",
-    "end_date": "2024-10-07T18:45:00+02:00",
-    "description": "PODSTAWY PRAWA (NZQA)  - wyk\u0142ad 17.15 - 18.45 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-14T08:00:00+02:00",
-    "end_date": "2024-10-14T09:30:00+02:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-14T09:45:00+02:00",
-    "end_date": "2024-10-14T11:15:00+02:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-14T14:00:00+02:00",
-    "end_date": "2024-10-14T17:00:00+02:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14.00 -17.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY PRAWA (NZQA) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-14T17:15:00+02:00",
-    "end_date": "2024-10-14T18:45:00+02:00",
-    "description": "PODSTAWY PRAWA (NZQA)  - wyk\u0142ad 17.15 - 18.45 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-21T08:00:00+02:00",
-    "end_date": "2024-10-21T09:30:00+02:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-21T09:45:00+02:00",
-    "end_date": "2024-10-21T11:15:00+02:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-21T14:00:00+02:00",
-    "end_date": "2024-10-21T17:00:00+02:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14.00 -17.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY PRAWA (NZQA) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-21T17:15:00+02:00",
-    "end_date": "2024-10-21T18:45:00+02:00",
-    "description": "PODSTAWY PRAWA (NZQA)  - wyk\u0142ad 17.15 - 18.45 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-28T08:00:00+01:00",
-    "end_date": "2024-10-28T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-28T09:45:00+01:00",
-    "end_date": "2024-10-28T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-28T14:00:00+01:00",
-    "end_date": "2024-10-28T17:00:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14.00 -17.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY PRAWA (NZQA) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-28T17:15:00+01:00",
-    "end_date": "2024-10-28T18:45:00+01:00",
-    "description": "PODSTAWY PRAWA (NZQA)  - wyk\u0142ad 17.15 - 18.45 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-04T08:00:00+01:00",
-    "end_date": "2024-11-04T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-04T09:45:00+01:00",
-    "end_date": "2024-11-04T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "PODSTAWY PSYCHOLOGII (NZPS) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-04T11:30:00+01:00",
-    "end_date": "2024-11-04T14:30:00+01:00",
-    "description": "PODSTAWY PSYCHOLOGII - wyk\u0142ad (NZPS) 11:30 - 14:30 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-04T14:45:00+01:00",
-    "end_date": "2024-11-04T17:00:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14:45 - 17:00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY PRAWA (NZQA) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-04T17:00:00+01:00",
-    "end_date": "2024-11-04T18:30:00+01:00",
-    "description": "PODSTAWY PRAWA (NZQA)  - wyk\u0142ad 17.00 - 18.30 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-18T08:00:00+01:00",
-    "end_date": "2024-11-18T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-18T09:45:00+01:00",
-    "end_date": "2024-11-18T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "PODSTAWY PSYCHOLOGII (NZPS) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-18T11:30:00+01:00",
-    "end_date": "2024-11-18T14:30:00+01:00",
-    "description": "PODSTAWY PSYCHOLOGII - wyk\u0142ad (NZPS) 11:30 - 14:30 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-18T14:45:00+01:00",
-    "end_date": "2024-11-18T17:00:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14:45 - 17:00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-25T08:00:00+01:00",
-    "end_date": "2024-11-25T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-25T09:45:00+01:00",
-    "end_date": "2024-11-25T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "PODSTAWY PSYCHOLOGII (NZPS) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-25T11:30:00+01:00",
-    "end_date": "2024-11-25T14:30:00+01:00",
-    "description": "PODSTAWY PSYCHOLOGII - wyk\u0142ad (NZPS) 11:30 - 14:30 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-25T14:45:00+01:00",
-    "end_date": "2024-11-25T17:00:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14:45 - 17:00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-02T08:00:00+01:00",
-    "end_date": "2024-12-02T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-02T09:45:00+01:00",
-    "end_date": "2024-12-02T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "PODSTAWY PSYCHOLOGII (NZPS) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-02T11:30:00+01:00",
-    "end_date": "2024-12-02T14:30:00+01:00",
-    "description": "PODSTAWY PSYCHOLOGII - wyk\u0142ad (NZPS) 11:30 - 14:30 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-02T14:45:00+01:00",
-    "end_date": "2024-12-02T17:00:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14:45 - 17:00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-09T08:00:00+01:00",
-    "end_date": "2024-12-09T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-09T09:45:00+01:00",
-    "end_date": "2024-12-09T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "PODSTAWY PSYCHOLOGII (NZPS) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-09T11:30:00+01:00",
-    "end_date": "2024-12-09T14:30:00+01:00",
-    "description": "PODSTAWY PSYCHOLOGII - wyk\u0142ad (NZPS) 11:30 - 14:30 wyk\u0142ady odbywa\u0107 si\u0119 b\u0119d\u0105 na platformie MS Teams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-09T14:45:00+01:00",
-    "end_date": "2024-12-09T17:00:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 14:45 - 17:00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-16T08:00:00+01:00",
-    "end_date": "2024-12-16T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ekonomii (NZQA)* (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-16T09:45:00+01:00",
-    "end_date": "2024-12-16T11:15:00+01:00",
-    "description": "Podstawy ekonomii (NZQA)* 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin) oraz na platformie e-learningowej (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 0 255"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-16T11:30:00+01:00",
-    "end_date": "2024-12-16T13:45:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 11.30 - 13.45 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-16T15:45:00+01:00",
-    "end_date": "2024-12-16T17:15:00+01:00",
-    "description": "15.45 - 17.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-16T17:30:00+01:00",
-    "end_date": "2024-12-16T19:00:00+01:00",
-    "description": "17.30 - 19.00 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-13T08:00:00+01:00",
-    "end_date": "2024-01-13T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-13T09:45:00+01:00",
-    "end_date": "2024-01-13T11:15:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 09.45 - 11.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-13T11:30:00+01:00",
-    "end_date": "2024-01-13T13:45:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 11.30 - 13.45 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-13T14:00:00+01:00",
-    "end_date": "2024-01-13T15:30:00+01:00",
-    "description": "14.00 - 15.30 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-13T15:45:00+01:00",
-    "end_date": "2024-01-13T17:15:00+01:00",
-    "description": "15.45 - 17.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-20T08:00:00+01:00",
-    "end_date": "2024-01-20T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-20T09:45:00+01:00",
-    "end_date": "2024-01-20T11:15:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 09.45 - 11.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-20T11:30:00+01:00",
-    "end_date": "2024-01-20T13:45:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 11.30 - 13.45 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-20T14:00:00+01:00",
-    "end_date": "2024-01-20T15:30:00+01:00",
-    "description": "14.00 - 15.30 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-20T15:45:00+01:00",
-    "end_date": "2024-01-20T17:15:00+01:00",
-    "description": "15.45 - 17.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-01T09:45:00+02:00",
-    "end_date": "2024-10-01T11:15:00+02:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-01T11:30:00+02:00",
-    "end_date": "2024-10-01T13:00:00+02:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T11:30:00+02:00",
+    "end_date": "2025-10-13T13:00:00+02:00",
+    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-10-01T13:15:00+02:00",
-    "end_date": "2024-10-01T14:45:00+02:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-01T15:00:00+02:00",
-    "end_date": "2024-10-01T16:30:00+02:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-01T18:15:00+02:00",
-    "end_date": "2024-10-01T19:45:00+02:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-08T09:45:00+02:00",
-    "end_date": "2024-10-08T11:15:00+02:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-08T11:30:00+02:00",
-    "end_date": "2024-10-08T13:00:00+02:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-08T13:15:00+02:00",
-    "end_date": "2024-10-08T14:45:00+02:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-08T15:00:00+02:00",
-    "end_date": "2024-10-08T16:30:00+02:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-08T18:15:00+02:00",
-    "end_date": "2024-10-08T19:45:00+02:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-15T09:45:00+02:00",
-    "end_date": "2024-10-15T11:15:00+02:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-15T11:30:00+02:00",
-    "end_date": "2024-10-15T13:00:00+02:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-15T13:15:00+02:00",
-    "end_date": "2024-10-15T14:45:00+02:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-15T15:00:00+02:00",
-    "end_date": "2024-10-15T16:30:00+02:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-15T18:15:00+02:00",
-    "end_date": "2024-10-15T19:45:00+02:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-22T09:45:00+02:00",
-    "end_date": "2024-10-22T11:15:00+02:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-22T11:30:00+02:00",
-    "end_date": "2024-10-22T13:00:00+02:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-22T13:15:00+02:00",
-    "end_date": "2024-10-22T14:45:00+02:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-22T15:00:00+02:00",
-    "end_date": "2024-10-22T16:30:00+02:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-22T18:15:00+02:00",
-    "end_date": "2024-10-22T19:45:00+02:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-29T11:30:00+01:00",
-    "end_date": "2024-10-29T13:00:00+01:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-29T13:15:00+01:00",
-    "end_date": "2024-10-29T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-29T15:00:00+01:00",
-    "end_date": "2024-10-29T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-29T18:15:00+01:00",
-    "end_date": "2024-10-29T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-05T09:45:00+01:00",
-    "end_date": "2024-11-05T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-05T11:30:00+01:00",
-    "end_date": "2024-11-05T13:00:00+01:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-05T13:15:00+01:00",
-    "end_date": "2024-11-05T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-05T15:00:00+01:00",
-    "end_date": "2024-11-05T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-05T18:15:00+01:00",
-    "end_date": "2024-11-05T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-12T09:45:00+01:00",
-    "end_date": "2024-11-12T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-12T11:30:00+01:00",
-    "end_date": "2024-11-12T13:00:00+01:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-12T13:15:00+01:00",
-    "end_date": "2024-11-12T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-12T15:00:00+01:00",
-    "end_date": "2024-11-12T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-12T18:15:00+01:00",
-    "end_date": "2024-11-12T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-19T09:45:00+01:00",
-    "end_date": "2024-11-19T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-19T11:30:00+01:00",
-    "end_date": "2024-11-19T13:00:00+01:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-19T13:15:00+01:00",
-    "end_date": "2024-11-19T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-19T15:00:00+01:00",
-    "end_date": "2024-11-19T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-19T18:15:00+01:00",
-    "end_date": "2024-11-19T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-26T09:45:00+01:00",
-    "end_date": "2024-11-26T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-26T11:30:00+01:00",
-    "end_date": "2024-11-26T13:00:00+01:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 221 w CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-26T13:15:00+01:00",
-    "end_date": "2024-11-26T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-26T15:00:00+01:00",
-    "end_date": "2024-11-26T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-26T18:15:00+01:00",
-    "end_date": "2024-11-26T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-03T09:45:00+01:00",
-    "end_date": "2024-12-03T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "Nauka o cz\u0142owieku",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-03T11:30:00+01:00",
-    "end_date": "2024-12-03T13:00:00+01:00",
-    "description": "NoCz g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-03T13:15:00+01:00",
-    "end_date": "2024-12-03T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 221 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-03T15:00:00+01:00",
-    "end_date": "2024-12-03T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-03T18:15:00+01:00",
-    "end_date": "2024-12-03T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-10T09:45:00+01:00",
-    "end_date": "2024-12-10T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-10T13:15:00+01:00",
-    "end_date": "2024-12-10T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-10T15:00:00+01:00",
-    "end_date": "2024-12-10T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-10T18:15:00+01:00",
-    "end_date": "2024-12-10T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-17T09:45:00+01:00",
-    "end_date": "2024-12-17T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 202 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-17T13:15:00+01:00",
-    "end_date": "2024-12-17T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-17T15:00:00+01:00",
-    "end_date": "2024-12-17T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-17T18:15:00+01:00",
-    "end_date": "2024-12-17T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-07T09:45:00+01:00",
-    "end_date": "2024-01-07T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 202 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-07T13:15:00+01:00",
-    "end_date": "2024-01-07T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-07T15:00:00+01:00",
-    "end_date": "2024-01-07T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-07T18:15:00+01:00",
-    "end_date": "2024-01-07T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Podstawy epidemiologii NZB",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-14T08:00:00+01:00",
-    "end_date": "2024-01-14T09:30:00+01:00",
-    "description": "Pe - NZB 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Techniki studiowania",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-14T09:45:00+01:00",
-    "end_date": "2024-01-14T11:15:00+01:00",
-    "description": "TS g. 09:45 - 11:15 s. 205 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "192 192 192"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-14T13:15:00+01:00",
-    "end_date": "2024-01-14T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-14T18:15:00+01:00",
-    "end_date": "2024-01-14T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Podstawy epidemiologii NZB",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-21T08:00:00+01:00",
-    "end_date": "2024-01-21T09:30:00+01:00",
-    "description": "Pe - NZB 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-21T13:15:00+01:00",
-    "end_date": "2024-01-21T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
-  },
-  {
-    "title": "J\u0119zyk angielski",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-21T18:15:00+01:00",
-    "end_date": "2024-01-21T19:45:00+01:00",
-    "description": "JA g.18.00 - 19.30 s. 139 CD (p. Rogozi\u0144ski)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-02T07:45:00+02:00",
-    "end_date": "2024-10-02T10:45:00+02:00",
-    "description": "07.45 -10.45 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Mikrobiologia MsTeams w czasie rzeczywistym (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-02T11:30:00+02:00",
-    "end_date": "2024-10-02T14:30:00+02:00",
-    "description": "Mikrobiologia - wyk\u0142ad, godz. 11.30-14.30, MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-09T07:45:00+02:00",
-    "end_date": "2024-10-09T10:45:00+02:00",
-    "description": "07.45 -10.45 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Mikrobiologia MsTeams w czasie rzeczywistym (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-09T11:30:00+02:00",
-    "end_date": "2024-10-09T14:30:00+02:00",
-    "description": "Mikrobiologia - wyk\u0142ad, godz. 11.30-14.30, MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-16T07:45:00+02:00",
-    "end_date": "2024-10-16T09:15:00+02:00",
-    "description": "07.45 - 09.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "MB \u0107w",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-16T13:30:00+02:00",
-    "end_date": "2024-10-16T16:00:00+02:00",
-    "description": "13:30 - 16:00 MB \u0107w\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 204 255"
-  },
-  {
-    "title": "Mikrobiologia on line w czasie rzeczywistym 18.3020 MsTeams w czasie rzeczywistym (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-16T18:30:00+02:00",
-    "end_date": "2024-10-16T20:00:00+02:00",
-    "description": "Mikrobiologia - wyk\u0142ad on- line w czasie rzeczywistym godz. 18.30-20, MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-23T07:45:00+02:00",
-    "end_date": "2024-10-23T09:15:00+02:00",
-    "description": "07.45 - 09.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "MB \u0107w",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-23T13:30:00+02:00",
-    "end_date": "2024-10-23T16:00:00+02:00",
-    "description": "13:30 - 16:00 MB \u0107w\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 204 255"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-30T07:45:00+01:00",
-    "end_date": "2024-10-30T09:15:00+01:00",
-    "description": "07.45 - 09.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "MB \u0107w",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-30T13:30:00+01:00",
-    "end_date": "2024-10-30T16:00:00+01:00",
-    "description": "13:30 - 16:00 MB \u0107w\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 204 255"
-  },
-  {
-    "title": "Podstawy psychologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-13T10:15:00+01:00",
-    "end_date": "2024-11-13T11:45:00+01:00",
-    "description": "PPS 10:15 - 11:45 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-13T12:00:00+01:00",
-    "end_date": "2024-11-13T13:30:00+01:00",
-    "description": "PO\u015a 12:00 - 13:30 s. 126 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-20T12:00:00+01:00",
-    "end_date": "2024-11-20T13:30:00+01:00",
-    "description": "PO\u015a 12:00 - 13:30 s. 126 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-27T07:45:00+01:00",
-    "end_date": "2024-11-27T09:15:00+01:00",
-    "description": "07.45 - 09.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy psychologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-27T10:15:00+01:00",
-    "end_date": "2024-11-27T11:45:00+01:00",
-    "description": "PPS 10:15 - 11:45 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-27T12:00:00+01:00",
-    "end_date": "2024-11-27T13:30:00+01:00",
-    "description": "PO\u015a 12:00 - 13:30 s. 126 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego (wyk\u0142ad)",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-04T07:45:00+01:00",
-    "end_date": "2024-12-04T09:15:00+01:00",
-    "description": "07.45 - 09.15 Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego - wyk\u0142ad realizowany przez NZC na MsTeams w czasie rzeczywistym\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy psychologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-04T10:15:00+01:00",
-    "end_date": "2024-12-04T11:45:00+01:00",
-    "description": "PPS 10:15 - 11:45 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-04T12:00:00+01:00",
-    "end_date": "2024-12-04T13:30:00+01:00",
-    "description": "PO\u015a 12:00 - 13:30 s. 126 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy psychologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-11T10:15:00+01:00",
-    "end_date": "2024-12-11T11:45:00+01:00",
-    "description": "PPS 10:15 - 11:45 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-11T12:00:00+01:00",
-    "end_date": "2024-12-11T13:30:00+01:00",
-    "description": "PO\u015a 12:00 - 13:30 s. 126 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy psychologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-18T15:00:00+01:00",
-    "end_date": "2024-12-18T16:30:00+01:00",
-    "description": "PPS 15:00 - 16:30 s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "153 51 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-18T16:45:00+01:00",
-    "end_date": "2024-12-18T18:15:00+01:00",
-    "description": "PO\u015a 16:45 - 18:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-08T11:30:00+01:00",
-    "end_date": "2024-01-08T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 120 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy epidemiologii \u0107w",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-15T13:15:00+01:00",
-    "end_date": "2024-01-15T14:45:00+01:00",
-    "description": "Pe - \u0107w 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-15T15:00:00+01:00",
-    "end_date": "2024-01-15T16:30:00+01:00",
-    "description": "PO\u015a 15:00 - 16:30 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-22T11:30:00+01:00",
-    "end_date": "2024-01-22T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 120 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-03T11:30:00+02:00",
-    "end_date": "2024-10-03T14:30:00+02:00",
-    "description": "PZP  g. 11:30 - 14:30 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T13:15:00+02:00",
+    "end_date": "2025-10-13T16:15:00+02:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "255 204 0"
   },
   {
-    "title": "Propedeutyka zdrowia publicznego",
+    "title": "Propedeutyka medycyny (NZR)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-10-10T11:30:00+02:00",
-    "end_date": "2024-10-10T14:30:00+02:00",
-    "description": "PZP  g. 11:30 - 14:30 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-17T11:30:00+02:00",
-    "end_date": "2024-10-17T14:30:00+02:00",
-    "description": "PZP  g. 11:30 - 14:30 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-24T11:30:00+02:00",
-    "end_date": "2024-10-24T14:30:00+02:00",
-    "description": "PZP  g. 11:30 - 14:30 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-31T13:15:00+01:00",
-    "end_date": "2024-10-31T14:45:00+01:00",
-    "description": "PO\u015a 13:15 - 14:45 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-31T15:00:00+01:00",
-    "end_date": "2024-10-31T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 141 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-07T08:15:00+01:00",
-    "end_date": "2024-11-07T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-07T13:15:00+01:00",
-    "end_date": "2024-11-07T14:45:00+01:00",
-    "description": "PO\u015a 13:15 - 14:45 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-14T08:15:00+01:00",
-    "end_date": "2024-11-14T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-14T11:30:00+01:00",
-    "end_date": "2024-11-14T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-21T08:15:00+01:00",
-    "end_date": "2024-11-21T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-21T11:30:00+01:00",
-    "end_date": "2024-11-21T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-28T08:15:00+01:00",
-    "end_date": "2024-11-28T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-28T13:15:00+01:00",
-    "end_date": "2024-11-28T14:45:00+01:00",
-    "description": "PO\u015a 13:15 - 14:45 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-05T08:15:00+01:00",
-    "end_date": "2024-12-05T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-05T11:30:00+01:00",
-    "end_date": "2024-12-05T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-12T08:15:00+01:00",
-    "end_date": "2024-12-12T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-12T11:30:00+01:00",
-    "end_date": "2024-12-12T13:00:00+01:00",
-    "description": "Pe 11.30 - 13.00 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-12T13:15:00+01:00",
-    "end_date": "2024-12-12T14:45:00+01:00",
-    "description": "PO\u015a 13:15 - 14:45 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-19T08:15:00+01:00",
-    "end_date": "2024-12-19T11:15:00+01:00",
-    "description": "PZP  g. 08:15 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-12-19T11:30:00+01:00",
-    "end_date": "2024-12-19T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-09T09:45:00+01:00",
-    "end_date": "2024-01-09T11:15:00+01:00",
-    "description": "PZP  g. 09:45 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy epidemiologii \u0107w",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-09T11:30:00+01:00",
-    "end_date": "2024-01-09T13:00:00+01:00",
-    "description": "Pe - \u0107w 11.30 - 13.00 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-09T13:15:00+01:00",
-    "end_date": "2024-01-09T14:45:00+01:00",
-    "description": "PO\u015a 13:15 - 14:45 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-16T09:45:00+01:00",
-    "end_date": "2024-01-16T11:15:00+01:00",
-    "description": "PZP  g. 09:45 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-16T11:30:00+01:00",
-    "end_date": "2024-01-16T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 203 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-23T09:45:00+01:00",
-    "end_date": "2024-01-23T11:15:00+01:00",
-    "description": "PZP  g. 09:45 - 11:15 sala 19, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy ochrony \u015brodowiska i zdrowia \u015brodowiskowego",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-01-23T11:30:00+01:00",
-    "end_date": "2024-01-23T13:00:00+01:00",
-    "description": "PO\u015a 11:30 - 13:00 s. 203 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 255 0"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-04T09:45:00+02:00",
-    "end_date": "2024-10-04T11:15:00+02:00",
-    "description": "Pe 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Praktyczne podstawy IT gr 4b",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-04T11:30:00+02:00",
-    "end_date": "2024-10-04T14:30:00+02:00",
-    "description": "11:30 - 14:30, IT gr 4b\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "128 0 128"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-11T13:15:00+02:00",
-    "end_date": "2024-10-11T14:45:00+02:00",
-    "description": "Pe 13.15 -14.45 s. 121, bl08.11, 08ok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Praktyczne podstawy IT gr 4b",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-18T11:30:00+02:00",
-    "end_date": "2024-10-18T14:30:00+02:00",
-    "description": "11:30 - 14:30, IT gr 4b, s. 233 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "128 0 128"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-18T15:00:00+02:00",
-    "end_date": "2024-10-18T16:30:00+02:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-10-25T13:15:00+02:00",
-    "end_date": "2024-10-25T14:45:00+02:00",
-    "description": "Pe 13.15 -14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Praktyczne podstawy IT gr 4b",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-08T11:30:00+01:00",
-    "end_date": "2024-11-08T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 4bsala komp. 233 W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "128 0 128"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-08T15:00:00+01:00",
-    "end_date": "2024-11-08T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KPP 4b",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-15T12:00:00+01:00",
-    "end_date": "2024-11-15T15:45:00+01:00",
-    "description": "g. 12:00 - 15:45 KPP 4b\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T16:30:00+02:00",
+    "end_date": "2025-10-13T17:15:00+02:00",
+    "description": "Propedeutyka medycyny (NZR)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "51 204 204"
   },
   {
-    "title": "Podstawy epidemiologii",
+    "title": "",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-11-15T16:45:00+01:00",
-    "end_date": "2024-11-15T18:15:00+01:00",
-    "description": "Pe 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "Praktyczne podstawy IT gr 4b",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-22T11:30:00+01:00",
-    "end_date": "2024-11-22T14:30:00+01:00",
-    "description": "11:30 - 14:30, IT gr 4b, sala 233. W CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "128 0 128"
-  },
-  {
-    "title": "Podstawy epidemiologii",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-22T15:00:00+01:00",
-    "end_date": "2024-11-22T16:30:00+01:00",
-    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KPP 4b",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2024-11-29T12:00:00+01:00",
-    "end_date": "2024-11-29T15:45:00+01:00",
-    "description": "g. 12:00 - 15:45 KPP 4b\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T16:30:00+02:00",
+    "end_date": "2025-10-13T20:15:00+02:00",
+    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "51 204 204"
   },
   {
-    "title": "Podstawy epidemiologii",
+    "title": " (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-11-29T16:30:00+01:00",
-    "end_date": "2024-11-29T18:00:00+01:00",
-    "description": "Pe 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-13T18:00:00+02:00",
+    "end_date": "2025-10-13T20:00:00+02:00",
+    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "51 204 204"
+  },
+  {
+    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-20T08:00:00+02:00",
+    "end_date": "2025-10-20T09:30:00+02:00",
+    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 128 0"
   },
   {
-    "title": "Podstawy prawa",
+    "title": "Podstawy ekonomii (NZQA) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-06T15:00:00+01:00",
-    "end_date": "2024-12-06T16:30:00+01:00",
-    "description": "PP g.15:00 - 16:30 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
+    "start_date": "2025-10-20T09:45:00+02:00",
+    "end_date": "2025-10-20T11:15:00+02:00",
+    "description": "Podstawy ekonomii (NZQA) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 0 255"
   },
   {
-    "title": "Podstawy epidemiologii",
+    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-06T16:45:00+01:00",
-    "end_date": "2024-12-06T18:15:00+01:00",
-    "description": "Pe 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-20T11:30:00+02:00",
+    "end_date": "2025-10-20T13:00:00+02:00",
+    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-20T13:15:00+02:00",
+    "end_date": "2025-10-20T16:15:00+02:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Kompetencje efektywnego studiowania (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-20T16:30:00+02:00",
+    "end_date": "2025-10-20T17:15:00+02:00",
+    "description": "Kompetencje efektywnego studiowania (NZB)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-20T16:30:00+02:00",
+    "end_date": "2025-10-20T20:15:00+02:00",
+    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": " (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-20T18:00:00+02:00",
+    "end_date": "2025-10-20T20:00:00+02:00",
+    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-27T08:00:00+01:00",
+    "end_date": "2025-10-27T09:30:00+01:00",
+    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 128 0"
   },
   {
-    "title": "Podstawy prawa",
+    "title": "Podstawy ekonomii (NZQA) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-13T09:45:00+01:00",
-    "end_date": "2024-12-13T11:15:00+01:00",
-    "description": "PP g. 09:45 - 11:15 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
+    "start_date": "2025-10-27T09:45:00+01:00",
+    "end_date": "2025-10-27T11:15:00+01:00",
+    "description": "Podstawy ekonomii (NZQA) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 0 255"
   },
   {
-    "title": "Podstawy epidemiologii",
+    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-13T11:30:00+01:00",
-    "end_date": "2024-12-13T13:00:00+01:00",
-    "description": "Pe 11.30 - 13.00 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-10-27T11:30:00+01:00",
+    "end_date": "2025-10-27T13:00:00+01:00",
+    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-27T13:15:00+01:00",
+    "end_date": "2025-10-27T16:15:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Kompetencje efektywnego studiowania (NZC)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-27T16:30:00+01:00",
+    "end_date": "2025-10-27T17:15:00+01:00",
+    "description": "Kompetencje efektywnego studiowania (NZC)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 255 0"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-27T16:30:00+01:00",
+    "end_date": "2025-10-27T20:15:00+01:00",
+    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 255 0"
+  },
+  {
+    "title": " (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-27T18:00:00+01:00",
+    "end_date": "2025-10-27T20:00:00+01:00",
+    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 255 0"
+  },
+  {
+    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-03T08:00:00+01:00",
+    "end_date": "2025-11-03T09:30:00+01:00",
+    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 128 0"
   },
   {
-    "title": "16:30 19.30 IT gr 4b",
+    "title": "Podstawy ekonomii (NZQA) (wyk\u0142ad)",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-13T16:30:00+01:00",
-    "end_date": "2024-12-13T19:30:00+01:00",
-    "description": "16:30 - 19.30, IT gr 4b,sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "start_date": "2025-11-03T09:45:00+01:00",
+    "end_date": "2025-11-03T11:15:00+01:00",
+    "description": "Podstawy ekonomii (NZQA) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 0 255"
+  },
+  {
+    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-03T11:30:00+01:00",
+    "end_date": "2025-11-03T13:00:00+01:00",
+    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-03T13:15:00+01:00",
+    "end_date": "2025-11-03T16:15:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Dzie\u0144 Rektorski",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-10T08:00:00+01:00",
+    "end_date": "2025-11-10T20:45:00+01:00",
+    "description": "Dzie\u0144 Rektorski\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": null
+  },
+  {
+    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-17T08:00:00+01:00",
+    "end_date": "2025-11-17T09:30:00+01:00",
+    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Podstawy ekonomii (NZQA) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-17T09:45:00+01:00",
+    "end_date": "2025-11-17T11:15:00+01:00",
+    "description": "Podstawy ekonomii (NZQA) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 0 255"
+  },
+  {
+    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-17T11:30:00+01:00",
+    "end_date": "2025-11-17T13:00:00+01:00",
+    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-17T13:15:00+01:00",
+    "end_date": "2025-11-17T16:15:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-07T08:00:00+02:00",
+    "end_date": "2025-10-07T09:30:00+02:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-07T09:45:00+02:00",
+    "end_date": "2025-10-07T11:15:00+02:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-07T11:30:00+02:00",
+    "end_date": "2025-10-07T13:00:00+02:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-07T13:15:00+02:00",
+    "end_date": "2025-10-07T14:45:00+02:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-07T15:00:00+02:00",
+    "end_date": "2025-10-07T16:30:00+02:00",
+    "description": "KES (NZB) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-14T08:00:00+02:00",
+    "end_date": "2025-10-14T09:30:00+02:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-14T09:45:00+02:00",
+    "end_date": "2025-10-14T11:15:00+02:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-14T11:30:00+02:00",
+    "end_date": "2025-10-14T13:00:00+02:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-14T13:15:00+02:00",
+    "end_date": "2025-10-14T14:45:00+02:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-14T15:00:00+02:00",
+    "end_date": "2025-10-14T16:30:00+02:00",
+    "description": "KES (NZB) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-21T08:00:00+02:00",
+    "end_date": "2025-10-21T09:30:00+02:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-21T09:45:00+02:00",
+    "end_date": "2025-10-21T11:15:00+02:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-21T11:30:00+02:00",
+    "end_date": "2025-10-21T13:00:00+02:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-21T13:15:00+02:00",
+    "end_date": "2025-10-21T14:45:00+02:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-21T15:00:00+02:00",
+    "end_date": "2025-10-21T16:30:00+02:00",
+    "description": "KES (NZB) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-28T08:00:00+01:00",
+    "end_date": "2025-10-28T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-28T09:45:00+01:00",
+    "end_date": "2025-10-28T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-28T11:30:00+01:00",
+    "end_date": "2025-10-28T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-28T13:15:00+01:00",
+    "end_date": "2025-10-28T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-28T15:00:00+01:00",
+    "end_date": "2025-10-28T16:30:00+01:00",
+    "description": "KES (NZB) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-04T08:00:00+01:00",
+    "end_date": "2025-11-04T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-04T09:45:00+01:00",
+    "end_date": "2025-11-04T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-04T11:30:00+01:00",
+    "end_date": "2025-11-04T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-04T13:15:00+01:00",
+    "end_date": "2025-11-04T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-04T15:00:00+01:00",
+    "end_date": "2025-11-04T16:30:00+01:00",
+    "description": "KES (NZB) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-18T08:00:00+01:00",
+    "end_date": "2025-11-18T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-18T09:45:00+01:00",
+    "end_date": "2025-11-18T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-18T11:30:00+01:00",
+    "end_date": "2025-11-18T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-18T13:15:00+01:00",
+    "end_date": "2025-11-18T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-18T15:00:00+01:00",
+    "end_date": "2025-11-18T16:30:00+01:00",
+    "description": "KES (NZB) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-25T08:00:00+01:00",
+    "end_date": "2025-11-25T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-25T09:45:00+01:00",
+    "end_date": "2025-11-25T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-25T11:30:00+01:00",
+    "end_date": "2025-11-25T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-25T13:15:00+01:00",
+    "end_date": "2025-11-25T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZC)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-25T15:00:00+01:00",
+    "end_date": "2025-11-25T16:30:00+01:00",
+    "description": "KES (NZC) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 102 0"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-02T08:00:00+01:00",
+    "end_date": "2025-12-02T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-02T09:45:00+01:00",
+    "end_date": "2025-12-02T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-02T11:30:00+01:00",
+    "end_date": "2025-12-02T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-02T13:15:00+01:00",
+    "end_date": "2025-12-02T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZC)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-02T15:00:00+01:00",
+    "end_date": "2025-12-02T16:30:00+01:00",
+    "description": "KES (NZC) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 102 0"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-09T08:00:00+01:00",
+    "end_date": "2025-12-09T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-09T09:45:00+01:00",
+    "end_date": "2025-12-09T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-09T11:30:00+01:00",
+    "end_date": "2025-12-09T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-09T13:15:00+01:00",
+    "end_date": "2025-12-09T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZC)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-09T15:00:00+01:00",
+    "end_date": "2025-12-09T16:30:00+01:00",
+    "description": "KES (NZC) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 102 0"
+  },
+  {
+    "title": "Pe",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-16T08:00:00+01:00",
+    "end_date": "2025-12-16T09:30:00+01:00",
+    "description": "Pe 08.00 - 09.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-16T09:45:00+01:00",
+    "end_date": "2025-12-16T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 127 w CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 204 255"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-16T11:30:00+01:00",
+    "end_date": "2025-12-16T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-16T13:15:00+01:00",
+    "end_date": "2025-12-16T14:45:00+01:00",
+    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "KES (NZC)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-16T15:00:00+01:00",
+    "end_date": "2025-12-16T16:30:00+01:00",
+    "description": "KES (NZC) g. 15:00 - 16:30 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 102 0"
+  },
+  {
+    "title": "Pe NZB 09.45 11. 15",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-01-13T09:45:00+01:00",
+    "end_date": "2025-01-13T11:15:00+01:00",
+    "description": "Pe - NZB 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-01-13T11:30:00+01:00",
+    "end_date": "2025-01-13T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-01-13T15:00:00+01:00",
+    "end_date": "2025-01-13T16:30:00+01:00",
+    "description": "P.eko g. 15:00 - 16:30 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Pe NZB 09.45 11. 15",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-01-20T09:45:00+01:00",
+    "end_date": "2025-01-20T11:15:00+01:00",
+    "description": "Pe - NZB 09.45 - 11. 15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "0 128 0"
+  },
+  {
+    "title": "JA",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-01-20T11:30:00+01:00",
+    "end_date": "2025-01-20T13:00:00+01:00",
+    "description": "JA g. 11:30 - 13:00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 255 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-01-20T15:00:00+01:00",
+    "end_date": "2025-01-20T16:30:00+01:00",
+    "description": "P.eko g. 15:00 - 16:30 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "204 153 255"
+  },
+  {
+    "title": "PZP sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-09T08:45:00+02:00",
+    "end_date": "2025-10-09T11:45:00+02:00",
+    "description": "PZP  g. 08:45 - 11:45 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "PPZ sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-09T12:00:00+02:00",
+    "end_date": "2025-10-09T15:00:00+02:00",
+    "description": "PPZ g. 12.00 - 15.00 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "128 0 128"
   },
   {
-    "title": "Podstawy prawa",
+    "title": "PM (NZR) sem. s.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-20T09:45:00+01:00",
-    "end_date": "2024-12-20T11:15:00+01:00",
-    "description": "PP g. 09:45 - 11:15 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
+    "start_date": "2025-10-16T08:00:00+02:00",
+    "end_date": "2025-10-16T11:45:00+02:00",
+    "description": "PM (NZR) 08.00 -11.45 sem. s.\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "51 204 204"
   },
   {
-    "title": "Podstawy epidemiologii",
+    "title": "PPZ sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-12-20T11:30:00+01:00",
-    "end_date": "2024-12-20T13:00:00+01:00",
-    "description": "Pe 11.30 - 13.00 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
+    "start_date": "2025-10-23T08:45:00+02:00",
+    "end_date": "2025-10-23T11:45:00+02:00",
+    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
   },
   {
-    "title": "Podstawy prawa",
+    "title": "PZP sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-01-10T08:00:00+01:00",
-    "end_date": "2024-01-10T09:30:00+01:00",
-    "description": "PP g. 08:00 - 09:30 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
+    "start_date": "2025-10-23T12:00:00+02:00",
+    "end_date": "2025-10-23T15:00:00+02:00",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
   },
   {
-    "title": "Podstawy epidemiologii NZB",
+    "title": "PPZ sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-01-10T09:45:00+01:00",
-    "end_date": "2024-01-10T11:15:00+01:00",
-    "description": "Pe - NZB 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
+    "start_date": "2025-11-06T08:45:00+01:00",
+    "end_date": "2025-11-06T11:45:00+01:00",
+    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
   },
   {
-    "title": "Podstawy prawa",
+    "title": "PZP sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-01-17T08:00:00+01:00",
-    "end_date": "2024-01-17T09:30:00+01:00",
-    "description": "PP g. 08:00 - 09:30 s. 124 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "51 51 153"
+    "start_date": "2025-11-06T12:00:00+01:00",
+    "end_date": "2025-11-06T15:00:00+01:00",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
   },
   {
-    "title": "Podstawy epidemiologii NZB",
+    "title": "PPZ sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-01-17T09:45:00+01:00",
-    "end_date": "2024-01-17T11:15:00+01:00",
-    "description": "Pe - NZB 09.45 - 11.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
+    "start_date": "2025-11-13T08:45:00+01:00",
+    "end_date": "2025-11-13T11:45:00+01:00",
+    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
   },
   {
-    "title": "Podstawy epidemiologii NZB",
+    "title": "PZP sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
-    "start_date": "2024-01-24T13:15:00+01:00",
-    "end_date": "2024-01-24T14:45:00+01:00",
-    "description": "Pe - NZB 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "0 128 0"
+    "start_date": "2025-11-13T12:00:00+01:00",
+    "end_date": "2025-11-13T15:00:00+01:00",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "PZP sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-20T12:00:00+01:00",
+    "end_date": "2025-11-20T15:00:00+01:00",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "PZP",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-27T11:30:00+01:00",
+    "end_date": "2025-11-27T13:00:00+01:00",
+    "description": "PZP  11:30 - 13:00 sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "PPZ sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-17T08:00:00+02:00",
+    "end_date": "2025-10-17T11:00:00+02:00",
+    "description": "PPZ g. 08:00 - 11:00 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
+  },
+  {
+    "title": "PZP sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-17T11:15:00+02:00",
+    "end_date": "2025-10-17T14:15:00+02:00",
+    "description": "PZP  g. 11.05 - 14.05 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "PPZ sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-31T08:00:00+01:00",
+    "end_date": "2025-10-31T11:00:00+01:00",
+    "description": "PPZ g. 08:00 - 11:00 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
+  },
+  {
+    "title": "PZP sem.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-10-31T11:15:00+01:00",
+    "end_date": "2025-10-31T14:15:00+01:00",
+    "description": "PZP  g. 11.05 - 14.05 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 204 0"
+  },
+  {
+    "title": "PPZ \u0107w.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-28T15:30:00+01:00",
+    "end_date": "2025-11-28T17:45:00+01:00",
+    "description": "PPZ 15.30 - 17.45 \u0107w. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
+  },
+  {
+    "title": "PPZ \u0107w.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-05T15:30:00+01:00",
+    "end_date": "2025-12-05T17:45:00+01:00",
+    "description": "PPZ 15.30 - 17.45 \u0107w. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "128 0 128"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-19T08:00:00+01:00",
+    "end_date": "2025-12-19T10:15:00+01:00",
+    "description": "KES (NZB) g. 08.00 - 11.45\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "\u0107w.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-19T10:15:00+01:00",
+    "end_date": "2025-12-19T11:00:00+01:00",
+    "description": "\u0107w.\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "150 150 150"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-19T11:00:00+01:00",
+    "end_date": "2025-12-19T11:45:00+01:00",
+    "description": "s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "192 192 192"
+  },
+  {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-12-19T12:00:00+01:00",
+    "end_date": "2025-12-19T15:45:00+01:00",
+    "description": "KES (NZC) g.12.00 - 15.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
+    "color": "255 102 0"
   }
 ]
