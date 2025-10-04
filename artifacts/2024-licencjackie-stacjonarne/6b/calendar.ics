@@ -1,0 +1,897 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Dzień Rektorski\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251006T184500Z
+DTSTART:20251006T060000Z
+SUMMARY:Dzień Rektorski
+UID:c95be04d-815c-4128-a0b3-02252da04675@c95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T073000Z
+DTSTART:20251013T060000Z
+SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
+UID:f0942479-5e97-42c8-922f-7a65f38b4a68@f094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T091500Z
+DTSTART:20251013T074500Z
+SUMMARY:Podstawy ekonomii (3MC) (wykład)
+UID:bd90646f-f76c-4e20-a029-f6dea2ead5f5@bd90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T110000Z
+DTSTART:20251013T093000Z
+SUMMARY:Propedeutyka medycyny (NZME) (wykład)
+UID:c53607ef-4c27-42b7-a2b3-663d412f3489@c536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T141500Z
+DTSTART:20251013T111500Z
+SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
+UID:538e8b4d-2ab5-496a-9fb2-9015507d5685@538e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka medycyny (NZR)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T151500Z
+DTSTART:20251013T143000Z
+SUMMARY:Propedeutyka medycyny (NZR)
+UID:96b82e3f-e5b0-4cca-9b3e-407dd3bc177d@96b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T181500Z
+DTSTART:20251013T143000Z
+UID:3c0bb825-b524-44cc-b92e-76ece4f9dc3a@3c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251013T180000Z
+DTSTART:20251013T160000Z
+SUMMARY: (wykład)
+UID:52437b76-9540-4f11-be64-30b7e6f9f98a@5243.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T073000Z
+DTSTART:20251020T060000Z
+SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
+UID:9994ae87-5e26-4b26-b821-76aed70774e3@9994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T091500Z
+DTSTART:20251020T074500Z
+SUMMARY:Podstawy ekonomii (3MC) (wykład)
+UID:34ed18f1-d5a0-4481-aa4d-f0fd437f9da5@34ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T110000Z
+DTSTART:20251020T093000Z
+SUMMARY:Propedeutyka medycyny (NZME) (wykład)
+UID:dc788cfd-b89c-4995-9192-121ba3a1466a@dc78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T141500Z
+DTSTART:20251020T111500Z
+SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
+UID:1d3fca1a-5713-43cd-a159-4899855d4f58@1d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kompetencje efektywnego studiowania (NZB)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T151500Z
+DTSTART:20251020T143000Z
+SUMMARY:Kompetencje efektywnego studiowania (NZB)
+UID:152ea92e-4eb1-45dc-b29e-3ad8c3d32f67@152e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T181500Z
+DTSTART:20251020T143000Z
+UID:be3f9de7-4d84-46ed-a2d9-9e73939d7c86@be3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251020T180000Z
+DTSTART:20251020T160000Z
+SUMMARY: (wykład)
+UID:4a004bbd-bff2-463e-8708-fdf3553e0735@4a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T083000Z
+DTSTART:20251027T070000Z
+SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
+UID:5b3637e1-5cf1-45bb-91fd-5a7814e8da55@5b36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T101500Z
+DTSTART:20251027T084500Z
+SUMMARY:Podstawy ekonomii (3MC) (wykład)
+UID:ada43a35-c920-4445-b6c0-50703796c0a2@ada4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T120000Z
+DTSTART:20251027T103000Z
+SUMMARY:Propedeutyka medycyny (NZME) (wykład)
+UID:eb70efa4-cc11-42e8-a947-270755b26825@eb70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T151500Z
+DTSTART:20251027T121500Z
+SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
+UID:5b01c57c-7751-415c-9d28-84c6216922e6@5b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kompetencje efektywnego studiowania (NZC)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T161500Z
+DTSTART:20251027T153000Z
+SUMMARY:Kompetencje efektywnego studiowania (NZC)
+UID:f9ad585c-4cef-43be-9489-f154f3f92b37@f9ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T191500Z
+DTSTART:20251027T153000Z
+UID:3107cccd-3562-4af5-9c01-ec9ee4f70c28@3107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251027T190000Z
+DTSTART:20251027T170000Z
+SUMMARY: (wykład)
+UID:66f6d937-c767-4bb7-9fe7-b917582d7e7f@66f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T083000Z
+DTSTART:20251103T070000Z
+SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
+UID:dfb050e0-d4d3-4487-9c92-cf52ed85e569@dfb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T101500Z
+DTSTART:20251103T084500Z
+SUMMARY:Podstawy ekonomii (3MC) (wykład)
+UID:63f883de-6429-4fc8-bd0d-dd4a54f74fef@63f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T120000Z
+DTSTART:20251103T103000Z
+SUMMARY:Propedeutyka medycyny (NZME) (wykład)
+UID:4f961f6f-f36a-4559-a06e-85281033ba33@4f96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T151500Z
+DTSTART:20251103T121500Z
+SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
+UID:497b48ae-5a80-472a-9298-090834f41f9d@497b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy promocji zdrowia (NZB)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T161500Z
+DTSTART:20251103T153000Z
+SUMMARY:Podstawy promocji zdrowia (NZB)
+UID:42488042-cbb5-4091-aba0-f781233b687c@4248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T191500Z
+DTSTART:20251103T153000Z
+UID:de8c094a-2dab-4a78-a7f6-fd0ef9d42f07@de8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251103T190000Z
+DTSTART:20251103T170000Z
+SUMMARY: (wykład)
+UID:e8959e46-3673-4e00-9fb6-d1e1a09b72a8@e895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dzień Rektorski\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251110T194500Z
+DTSTART:20251110T070000Z
+SUMMARY:Dzień Rektorski
+UID:f1820d1f-4fea-4309-9c62-14c395c69e54@f182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T083000Z
+DTSTART:20251117T070000Z
+SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
+UID:c27b30c0-12ed-4a30-8601-45ece1162bb4@c27b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T101500Z
+DTSTART:20251117T084500Z
+SUMMARY:Podstawy ekonomii (3MC) (wykład)
+UID:1a43025a-1b11-4499-9850-e27089f093fd@1a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T120000Z
+DTSTART:20251117T103000Z
+SUMMARY:Propedeutyka medycyny (NZME) (wykład)
+UID:facad8f0-46c1-4426-a523-f59e2a17539d@faca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T151500Z
+DTSTART:20251117T121500Z
+SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
+UID:e038cfe9-8467-4aea-8afe-cfad9e77ad6c@e038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podstawy promocji zdrowia (NZB)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T161500Z
+DTSTART:20251117T153000Z
+SUMMARY:Podstawy promocji zdrowia (NZB)
+UID:a3e82ac6-1450-4cb9-9ae2-78268d3443ca@a3e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T191500Z
+DTSTART:20251117T153000Z
+UID:0d30e09e-6f00-487e-84ee-b214c0b1df47@0d30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251117T190000Z
+DTSTART:20251117T170000Z
+SUMMARY: (wykład)
+UID:ad3c9e4f-b213-44b0-89ad-33ed30d2f5c5@ad3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251007T143000Z
+DTSTART:20251007T130000Z
+SUMMARY:PM (NZME)
+UID:44de4a48-0d5e-4f66-891d-c54ea9ef2e15@44de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251007T161500Z
+DTSTART:20251007T144500Z
+SUMMARY:Pe
+UID:bd387b48-c650-44d5-96bf-8daea8eb1aa8@bd38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251007T180000Z
+DTSTART:20251007T163000Z
+SUMMARY:P.eko
+UID:6874369f-8895-4910-9379-2eaef71a3e9a@6874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251014T143000Z
+DTSTART:20251014T130000Z
+SUMMARY:PM (NZME)
+UID:2abbd085-ec69-4872-9a7f-a9b97bc75d20@2abb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251014T161500Z
+DTSTART:20251014T144500Z
+SUMMARY:Pe
+UID:329126f8-108d-49bf-be0f-2dd8979702d3@3291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251014T180000Z
+DTSTART:20251014T163000Z
+SUMMARY:P.eko
+UID:8d0c11bd-9eaf-4de2-956d-d351c4b68fc1@8d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251021T143000Z
+DTSTART:20251021T130000Z
+SUMMARY:PM (NZME)
+UID:8b046b07-292e-49d5-9563-690e8d0d46c1@8b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251021T161500Z
+DTSTART:20251021T144500Z
+SUMMARY:Pe
+UID:b2b195ff-3bac-43de-ba0b-2d55a308530d@b2b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251021T180000Z
+DTSTART:20251021T163000Z
+SUMMARY:P.eko
+UID:7694fc41-f340-4432-a916-eb1f228059b6@7694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251028T153000Z
+DTSTART:20251028T140000Z
+SUMMARY:PM (NZME)
+UID:ecbcfc78-3bbc-495b-b2cc-f2ea576aec3f@ecbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251028T171500Z
+DTSTART:20251028T154500Z
+SUMMARY:Pe
+UID:d5927a4c-b0d6-4c67-8add-04ec4d0c5d34@d592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251028T190000Z
+DTSTART:20251028T173000Z
+SUMMARY:P.eko
+UID:31f41596-c722-4132-ba40-d44f3b354074@31f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251104T153000Z
+DTSTART:20251104T140000Z
+SUMMARY:PM (NZME)
+UID:1f0bdd91-be8e-4fbc-8c4b-c8caa0cc9c98@1f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251104T171500Z
+DTSTART:20251104T154500Z
+SUMMARY:Pe
+UID:4821d571-97c2-490f-b1b0-42a85adb6d98@4821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251104T190000Z
+DTSTART:20251104T173000Z
+SUMMARY:P.eko
+UID:87bcff0a-f68b-46ab-8d6a-ca4e830a2f35@87bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251118T153000Z
+DTSTART:20251118T140000Z
+SUMMARY:PM (NZME)
+UID:9fb89ad6-104c-47cb-80e6-2f387709ed1f@9fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251118T171500Z
+DTSTART:20251118T154500Z
+SUMMARY:Pe
+UID:fd10a7e5-10e4-43c3-8b28-fd4d5f3726a4@fd10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251118T190000Z
+DTSTART:20251118T173000Z
+SUMMARY:P.eko
+UID:a6a73cc0-b29f-4ade-965e-df10b25f210e@a6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251125T153000Z
+DTSTART:20251125T140000Z
+SUMMARY:PM (NZME)
+UID:d032cef0-1a3e-4b64-9ec6-3f233d53873d@d032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251125T171500Z
+DTSTART:20251125T154500Z
+SUMMARY:Pe
+UID:d38e49b1-21d4-41ca-bc95-60e62ade22a1@d38e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251125T190000Z
+DTSTART:20251125T173000Z
+SUMMARY:P.eko
+UID:7fba1cd5-3e7f-4370-82a4-59c616cafb2a@7fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251202T153000Z
+DTSTART:20251202T140000Z
+SUMMARY:PM (NZME)
+UID:272ef9b5-8c95-49cf-a676-f862fa7cf6af@272e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251202T171500Z
+DTSTART:20251202T154500Z
+SUMMARY:Pe
+UID:0d896034-f148-46d8-9e30-9d374d19bece@0d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251202T190000Z
+DTSTART:20251202T173000Z
+SUMMARY:P.eko
+UID:9303718d-99c7-49af-bf88-ead167a71b29@9303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251209T153000Z
+DTSTART:20251209T140000Z
+SUMMARY:PM (NZME)
+UID:78d7c83f-7e82-4ecf-b756-9ad27d5b3ff6@78d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251209T171500Z
+DTSTART:20251209T154500Z
+SUMMARY:Pe
+UID:15714241-4489-4dc6-a072-f055b5a4e84f@1571.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251209T190000Z
+DTSTART:20251209T173000Z
+SUMMARY:P.eko
+UID:bb5176a4-259d-4742-922f-5988ccfbd225@bb51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 15:00 - 16:30  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251216T153000Z
+DTSTART:20251216T140000Z
+SUMMARY:PM (NZME)
+UID:1bb62619-be35-4678-b940-f7fa5bc75b34@1bb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251216T171500Z
+DTSTART:20251216T154500Z
+SUMMARY:Pe
+UID:13ce5d9a-08a3-4030-a86b-992b8fd93769@13ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 18.30 - 20.00 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251216T190000Z
+DTSTART:20251216T173000Z
+SUMMARY:P.eko
+UID:faed3eea-1a47-4168-ba01-942ba1af1b58@faed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 16.45 - 18.15 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250113T171500Z
+DTSTART:20250113T154500Z
+SUMMARY:P.eko
+UID:db4affa0-2e4e-4aec-86de-5ba7090e400b@db4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250113T190000Z
+DTSTART:20250113T173000Z
+SUMMARY:Pe
+UID:948e4c07-3c9f-4ca3-9a6a-981eca256efe@948e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250120T171500Z
+DTSTART:20250120T154500Z
+SUMMARY:Pe
+UID:a8bba17c-e62d-45fa-9780-5a2bf9f46e8a@a8bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:P.eko g. 16.45 - 18.15 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250120T190000Z
+DTSTART:20250120T173000Z
+SUMMARY:P.eko
+UID:911414a9-4330-4cb9-8bf4-400846994bb4@9114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251009T073000Z
+DTSTART:20251009T060000Z
+SUMMARY:KES (NZB)
+UID:913ed12a-1656-4713-9a98-04f85e9a33e1@913e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251009T091500Z
+DTSTART:20251009T074500Z
+SUMMARY:JA
+UID:95e2f428-215c-4717-958f-7ed3901b8a2e@95e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251016T073000Z
+DTSTART:20251016T060000Z
+SUMMARY:KES (NZB)
+UID:507c64f1-e0a8-4283-906a-448e34a148e0@507c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251016T091500Z
+DTSTART:20251016T074500Z
+SUMMARY:JA
+UID:a9f4bc8b-71a9-4f07-8317-95a0f2586772@a9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251023T073000Z
+DTSTART:20251023T060000Z
+SUMMARY:KES (NZB)
+UID:c5bea2fe-eebe-453f-83b7-91eb1059809c@c5be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251023T091500Z
+DTSTART:20251023T074500Z
+SUMMARY:JA
+UID:359ae59a-6852-4e0d-95cf-304c460e2380@359a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZR)  sem. s.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251023T134500Z
+DTSTART:20251023T100000Z
+SUMMARY:PM (NZR) sem. s.
+UID:f4e6a588-7c8a-4889-bab0-3b10d253b2db@f4e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251030T083000Z
+DTSTART:20251030T070000Z
+SUMMARY:KES (NZB)
+UID:af9f364e-ece2-4d14-b235-15f965fbe5f6@af9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251030T101500Z
+DTSTART:20251030T084500Z
+SUMMARY:JA
+UID:ddd90dca-01a8-485a-94fe-862d37658b11@ddd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251106T083000Z
+DTSTART:20251106T070000Z
+SUMMARY:KES (NZB)
+UID:a7bf9dc5-d72e-41f3-960a-4100cc13f3e7@a7bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251106T101500Z
+DTSTART:20251106T084500Z
+SUMMARY:JA
+UID:7aad05f0-a1d5-471a-95a7-eb50699ce076@7aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251113T101500Z
+DTSTART:20251113T084500Z
+SUMMARY:JA
+UID:1cfe7093-17bb-404a-bbd6-4e7aa7bd4168@1cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZC) g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251120T083000Z
+DTSTART:20251120T070000Z
+SUMMARY:KES (NZC)
+UID:3d5b9707-9606-423a-a3ca-6a7e44600025@3d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251120T101500Z
+DTSTART:20251120T084500Z
+SUMMARY:JA
+UID:f7d435e5-9152-47f6-8b4d-3d55e954efec@f7d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZC) g. 08:00 - 09:30 s. 140 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251127T083000Z
+DTSTART:20251127T070000Z
+SUMMARY:KES (NZC)
+UID:bdf48846-1c35-4707-bf28-2682e120c88d@bdf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251127T101500Z
+DTSTART:20251127T084500Z
+SUMMARY:JA
+UID:98902cd2-80fc-4fa5-afdc-c0ccb410a07d@9890.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251204T101500Z
+DTSTART:20251204T084500Z
+SUMMARY:JA
+UID:b5a1866f-365a-4de6-b691-912c5fef9f7e@b5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZC) g.11.30 - 13.00 s. 140 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251204T120000Z
+DTSTART:20251204T103000Z
+SUMMARY:KES (NZC)
+UID:daf4e5fb-b7b8-4200-9e68-3ee1d6771a24@daf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ 15.30 - 17.45 ćw. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251204T164500Z
+DTSTART:20251204T143000Z
+SUMMARY:PPZ ćw.
+UID:147e6bd5-edf9-4f16-a547-6df0e28c20d7@147e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 08.00 - 09.30 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251211T083000Z
+DTSTART:20251211T070000Z
+SUMMARY:JA
+UID:7ea9b02e-d8a2-40dd-a807-0bbdc399049b@7ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZC) 09:45 - 11:15 s. 140 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251211T101500Z
+DTSTART:20251211T084500Z
+SUMMARY:KES (NZC)
+UID:dde2df93-d452-4310-974b-98fd6add7797@dde2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 08.00 - 09.30 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251218T083000Z
+DTSTART:20251218T070000Z
+SUMMARY:JA
+UID:a96ea4e2-6b56-4202-b873-719e30bf4d72@a96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZC) 09:45 - 11:15 s. 140 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251218T101500Z
+DTSTART:20251218T084500Z
+SUMMARY:KES (NZC)
+UID:65105bd9-4180-4833-85fd-b40e43106272@6510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250108T101500Z
+DTSTART:20250108T084500Z
+SUMMARY:JA
+UID:3d2d0735-d23a-4482-97ea-1ad48f2eb56f@3d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250115T101500Z
+DTSTART:20250115T084500Z
+SUMMARY:JA
+UID:190f6c2f-8f2e-4026-85c5-1d6ebe271583@190f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:JA 09.45 - 11.15 s. 124 CD (p. JM)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20250122T101500Z
+DTSTART:20250122T084500Z
+SUMMARY:JA
+UID:35cf1427-6a74-48b6-af00-14bd4b19c7f3@35cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251010T153000Z
+DTSTART:20251010T123000Z
+SUMMARY:PZP sem.
+UID:5784f689-84b0-4d5a-8903-e26db1321d99@5784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251010T161500Z
+DTSTART:20251010T153000Z
+SUMMARY:PPZ
+UID:b9bb927b-a1f3-465c-b6c0-611e801e4239@b9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:g. 17.15 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251010T171500Z
+DTSTART:20251010T161500Z
+UID:68c2c6ee-6c5a-4342-a0c9-16e0b0e35401@68c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sem.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251010T174500Z
+DTSTART:20251010T171500Z
+SUMMARY:sem.
+UID:35079688-8e91-49e3-acc4-4e2911340d74@3507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251010T184500Z
+DTSTART:20251010T174500Z
+UID:b28bc6fe-2003-42f7-81bc-d72f1c84b286@b28b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251017T153000Z
+DTSTART:20251017T123000Z
+SUMMARY:PZP sem.
+UID:541569cf-c434-4084-a2ca-e89005c38582@5415.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251017T161500Z
+DTSTART:20251017T153000Z
+SUMMARY:PPZ
+UID:77390d21-da3e-46dc-a24c-ba4540320492@7739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:g. 17.15 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251017T171500Z
+DTSTART:20251017T161500Z
+UID:42c5a3da-ec1d-497e-a424-344cfecf2c41@42c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sem.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251017T174500Z
+DTSTART:20251017T171500Z
+SUMMARY:sem.
+UID:32a9226a-a9bc-4ab0-8917-5c98feeec5fb@32a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251017T184500Z
+DTSTART:20251017T174500Z
+UID:a98cca48-bcc1-415d-bcb5-9640194e25a0@a98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251024T153000Z
+DTSTART:20251024T123000Z
+SUMMARY:PZP sem.
+UID:b3dd4514-93e0-4c5e-b97d-3fc431bfa5d5@b3dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251024T161500Z
+DTSTART:20251024T153000Z
+SUMMARY:PPZ
+UID:ede722bf-f7ca-4f69-bf44-cfb000118420@ede7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:g. 17.15 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251024T171500Z
+DTSTART:20251024T161500Z
+UID:6b2bb6ea-5ae2-4841-9e93-0df4c53c68ef@6b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sem.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251024T174500Z
+DTSTART:20251024T171500Z
+SUMMARY:sem.
+UID:57335c56-1be9-483c-8c88-edb348becdfe@5733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251024T184500Z
+DTSTART:20251024T174500Z
+UID:81ddb5af-a454-4623-8ec4-e9ae7ce0b6c5@81dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251031T163000Z
+DTSTART:20251031T133000Z
+SUMMARY:PZP sem.
+UID:79c0f781-078f-468e-97f6-9b36864367b7@79c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251107T163000Z
+DTSTART:20251107T133000Z
+SUMMARY:PZP sem.
+UID:aca269e9-fd9d-443b-bbf0-c113761d27e3@aca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251107T171500Z
+DTSTART:20251107T163000Z
+SUMMARY:PPZ
+UID:8e2fb38c-11c8-47a4-8eed-d98b60b78f86@8e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:g. 17.15 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251107T181500Z
+DTSTART:20251107T171500Z
+UID:f8faf113-a006-477b-9358-80bb401fcf2c@f8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sem.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251107T184500Z
+DTSTART:20251107T181500Z
+SUMMARY:sem.
+UID:ba815403-029b-439a-8755-553fa3a9ed90@ba81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251107T194500Z
+DTSTART:20251107T184500Z
+UID:ce25fe49-af36-4586-aae5-af438b55225b@ce25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251114T163000Z
+DTSTART:20251114T133000Z
+SUMMARY:PZP sem.
+UID:d90f0d0f-f6f0-46c1-97a5-86e9472e3faa@d90f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251114T171500Z
+DTSTART:20251114T163000Z
+SUMMARY:PPZ
+UID:464571ce-0c9f-4338-920a-0ed8621eed03@4645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:g. 17.15 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251114T181500Z
+DTSTART:20251114T171500Z
+UID:771e977c-3995-41f8-8e40-b2b1cde59fcd@771e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sem.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251114T184500Z
+DTSTART:20251114T181500Z
+SUMMARY:sem.
+UID:d35f0160-c5fd-47c4-a359-020097812ec4@d35f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251114T194500Z
+DTSTART:20251114T184500Z
+UID:5be7e3cb-8645-4e25-8704-bbf9e7df5142@5be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 14.10 - 17.10 sem. sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251121T163000Z
+DTSTART:20251121T133000Z
+SUMMARY:PZP sem.
+UID:ba9ee4bc-7f80-4ebe-a0e8-4304fd8c3dc7@ba9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251121T171500Z
+DTSTART:20251121T163000Z
+SUMMARY:PPZ
+UID:3bcdba46-49bd-4fd8-9060-7fded8daab47@3bcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:g. 17.15 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251121T181500Z
+DTSTART:20251121T171500Z
+UID:d9e203ce-4402-4f0b-adaa-dd38068f8ce5@d9e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sem.\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251121T184500Z
+DTSTART:20251121T181500Z
+SUMMARY:sem.
+UID:8580ca70-17f6-46fa-b5eb-3fb20df9bfcb@8580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251121T194500Z
+DTSTART:20251121T184500Z
+UID:2c2a6044-e99f-41c0-87e6-8be45c36090d@2c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  11:30 - 13:00 sala 40\, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251128T120000Z
+DTSTART:20251128T103000Z
+SUMMARY:PZP
+UID:5eda109f-e1fb-4726-b1b6-90dc36e4b434@5eda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ 15.30 - 17.45 ćw. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wykładowa: 6b
+DTEND:20251212T164500Z
+DTSTART:20251212T143000Z
+SUMMARY:PPZ ćw.
+UID:6c54a4df-b00c-496d-9daf-0a6a5d22c44e@6c54.org
+END:VEVENT
+END:VCALENDAR
