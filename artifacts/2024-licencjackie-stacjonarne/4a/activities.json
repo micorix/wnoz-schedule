@@ -351,12 +351,12 @@
     "color": "192 192 192"
   },
   {
-    "title": "PM (NZME) 206 CBI",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-10-07T11:30:00+02:00",
     "end_date": "2025-10-07T13:00:00+02:00",
-    "description": "PM (NZME) g. 11:30 - 13:00 206 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 204 255"
   },
   {
@@ -367,15 +367,6 @@
     "end_date": "2025-10-07T14:45:00+02:00",
     "description": "P.eko g. 13:15 - 14:45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-10-07T16:45:00+02:00",
-    "end_date": "2025-10-07T18:15:00+02:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -414,15 +405,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-10-14T16:45:00+02:00",
-    "end_date": "2025-10-14T18:15:00+02:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
-  },
-  {
     "title": "Pe",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -457,15 +439,6 @@
     "end_date": "2025-10-21T14:45:00+02:00",
     "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-10-21T16:45:00+02:00",
-    "end_date": "2025-10-21T18:15:00+02:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -504,15 +477,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-10-28T16:45:00+01:00",
-    "end_date": "2025-10-28T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
-  },
-  {
     "title": "Pe",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -549,15 +513,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-11-04T16:45:00+01:00",
-    "end_date": "2025-11-04T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
-  },
-  {
     "title": "Pe",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -567,13 +522,13 @@
     "color": "0 128 0"
   },
   {
-    "title": "KES (NZC)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-11-18T09:45:00+01:00",
     "end_date": "2025-11-18T11:15:00+01:00",
-    "description": "KES (NZC) g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
+    "description": "KES (NZB) g. 09:45 - 11:15 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "192 192 192"
   },
   {
     "title": "PM (NZME)",
@@ -581,26 +536,17 @@
     "exercise_group": "4a",
     "start_date": "2025-11-18T11:30:00+01:00",
     "end_date": "2025-11-18T13:00:00+01:00",
-    "description": "PM (NZME) g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "P.eko 1.DE 002 Sala dydaktyczna",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-11-18T13:15:00+01:00",
     "end_date": "2025-11-18T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-11-18T16:45:00+01:00",
-    "end_date": "2025-11-18T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -612,13 +558,13 @@
     "color": "0 128 0"
   },
   {
-    "title": "KES (NZC)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-11-25T09:45:00+01:00",
     "end_date": "2025-11-25T11:15:00+01:00",
-    "description": "KES (NZC) g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
+    "description": "KES (NZB) g. 09:45 - 11:15 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "192 192 192"
   },
   {
     "title": "PM (NZME)",
@@ -626,26 +572,17 @@
     "exercise_group": "4a",
     "start_date": "2025-11-25T11:30:00+01:00",
     "end_date": "2025-11-25T13:00:00+01:00",
-    "description": "PM (NZME) g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "P.eko 1.DE 002 Sala dydaktyczna",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-11-25T13:15:00+01:00",
     "end_date": "2025-11-25T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-11-25T16:45:00+01:00",
-    "end_date": "2025-11-25T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -657,13 +594,13 @@
     "color": "0 128 0"
   },
   {
-    "title": "KES (NZC)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-12-02T09:45:00+01:00",
     "end_date": "2025-12-02T11:15:00+01:00",
-    "description": "KES (NZC) g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
+    "description": "KES (NZB) g. 09:45 - 11:15 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "192 192 192"
   },
   {
     "title": "PM (NZME)",
@@ -671,26 +608,17 @@
     "exercise_group": "4a",
     "start_date": "2025-12-02T11:30:00+01:00",
     "end_date": "2025-12-02T13:00:00+01:00",
-    "description": "PM (NZME) g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "P.eko 1.DE 002 Sala dydaktyczna",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-12-02T13:15:00+01:00",
     "end_date": "2025-12-02T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-12-02T16:45:00+01:00",
-    "end_date": "2025-12-02T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -702,13 +630,13 @@
     "color": "0 128 0"
   },
   {
-    "title": "KES (NZC)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-12-09T09:45:00+01:00",
     "end_date": "2025-12-09T11:15:00+01:00",
-    "description": "KES (NZC) g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
+    "description": "KES (NZB) g. 09:45 - 11:15 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "192 192 192"
   },
   {
     "title": "PM (NZME)",
@@ -716,26 +644,17 @@
     "exercise_group": "4a",
     "start_date": "2025-12-09T11:30:00+01:00",
     "end_date": "2025-12-09T13:00:00+01:00",
-    "description": "PM (NZME) g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "P.eko 1.DE 002 Sala dydaktyczna",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-12-09T13:15:00+01:00",
     "end_date": "2025-12-09T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-12-09T16:45:00+01:00",
-    "end_date": "2025-12-09T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -747,13 +666,13 @@
     "color": "0 128 0"
   },
   {
-    "title": "KES (NZC)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-12-16T09:45:00+01:00",
     "end_date": "2025-12-16T11:15:00+01:00",
-    "description": "KES (NZC) g. 09:45 - 11:15 s. 119 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
+    "description": "KES (NZB) g. 09:45 - 11:15 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "192 192 192"
   },
   {
     "title": "PM (NZME)",
@@ -761,26 +680,17 @@
     "exercise_group": "4a",
     "start_date": "2025-12-16T11:30:00+01:00",
     "end_date": "2025-12-16T13:00:00+01:00",
-    "description": "PM (NZME) g. 11:30 - 13:00  s. 124 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "P.eko 1.DE 002 Sala dydaktyczna",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-12-16T13:15:00+01:00",
     "end_date": "2025-12-16T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "204 153 255"
-  },
-  {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-12-16T16:45:00+01:00",
-    "end_date": "2025-12-16T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -801,15 +711,6 @@
     "color": "204 153 255"
   },
   {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-01-13T15:00:00+01:00",
-    "end_date": "2025-01-13T16:30:00+01:00",
-    "description": "JA 15:15 - 16:45 s. 127 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
-  },
-  {
     "title": "Pe",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -828,21 +729,12 @@
     "color": "204 153 255"
   },
   {
-    "title": "JA",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-01-20T16:45:00+01:00",
-    "end_date": "2025-01-20T18:15:00+01:00",
-    "description": "JA g. 16.45 - 18.15 s. 125 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 255 0"
-  },
-  {
     "title": "PPZ sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-10-09T08:45:00+02:00",
     "end_date": "2025-10-09T11:45:00+02:00",
-    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PPZ g. 08:45 - 11:45 sem. sala 113, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "128 0 128"
   },
   {
@@ -851,16 +743,16 @@
     "exercise_group": "4a",
     "start_date": "2025-10-09T12:00:00+02:00",
     "end_date": "2025-10-09T15:00:00+02:00",
-    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
   },
   {
-    "title": "PM (NZR) sem. s.",
+    "title": "PM (NZR) sem.",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
     "start_date": "2025-10-16T08:00:00+02:00",
     "end_date": "2025-10-16T11:45:00+02:00",
-    "description": "PM (NZR) 08.00 -11.45 sem. s.\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PM (NZR) 08.00 -11.45 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "51 204 204"
   },
   {
@@ -869,7 +761,7 @@
     "exercise_group": "4a",
     "start_date": "2025-10-16T12:00:00+02:00",
     "end_date": "2025-10-16T15:00:00+02:00",
-    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
   },
   {
@@ -878,7 +770,7 @@
     "exercise_group": "4a",
     "start_date": "2025-10-16T15:15:00+02:00",
     "end_date": "2025-10-16T18:15:00+02:00",
-    "description": "PPZ g. 15.15 - 18.15 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PPZ g. 15.15 - 18.15 sem. sala 113, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "128 0 128"
   },
   {
@@ -887,7 +779,7 @@
     "exercise_group": "4a",
     "start_date": "2025-10-23T08:45:00+02:00",
     "end_date": "2025-10-23T11:45:00+02:00",
-    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PPZ g. 08:45 - 11:45 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "128 0 128"
   },
   {
@@ -896,7 +788,7 @@
     "exercise_group": "4a",
     "start_date": "2025-10-23T12:00:00+02:00",
     "end_date": "2025-10-23T15:00:00+02:00",
-    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
   },
   {
@@ -905,7 +797,7 @@
     "exercise_group": "4a",
     "start_date": "2025-10-30T12:15:00+01:00",
     "end_date": "2025-10-30T15:15:00+01:00",
-    "description": "PZP  g. 12.45 - 15.45 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.45 - 15.45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
   },
   {
@@ -914,7 +806,7 @@
     "exercise_group": "4a",
     "start_date": "2025-11-06T08:45:00+01:00",
     "end_date": "2025-11-06T11:45:00+01:00",
-    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PPZ g. 08:45 - 11:45 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "128 0 128"
   },
   {
@@ -923,8 +815,17 @@
     "exercise_group": "4a",
     "start_date": "2025-11-06T12:00:00+01:00",
     "end_date": "2025-11-06T15:00:00+01:00",
-    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
+  },
+  {
+    "title": "P.eko 16 45 18.15",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4a",
+    "start_date": "2025-11-06T16:45:00+01:00",
+    "end_date": "2025-11-06T18:15:00+01:00",
+    "description": "P.eko g. 16 45 - 18.15 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "204 153 255"
   },
   {
     "title": "PPZ sem.",
@@ -932,7 +833,7 @@
     "exercise_group": "4a",
     "start_date": "2025-11-13T08:45:00+01:00",
     "end_date": "2025-11-13T11:45:00+01:00",
-    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PPZ g. 08:45 - 11:45 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "128 0 128"
   },
   {
@@ -941,8 +842,17 @@
     "exercise_group": "4a",
     "start_date": "2025-11-13T12:00:00+01:00",
     "end_date": "2025-11-13T15:00:00+01:00",
-    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
+  },
+  {
+    "title": "P.eko",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4a",
+    "start_date": "2025-11-13T16:45:00+01:00",
+    "end_date": "2025-11-13T18:15:00+01:00",
+    "description": "P.eko g. 15.00 - 16.30 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "204 153 255"
   },
   {
     "title": "PPZ sem.",
@@ -950,7 +860,7 @@
     "exercise_group": "4a",
     "start_date": "2025-11-20T08:45:00+01:00",
     "end_date": "2025-11-20T11:45:00+01:00",
-    "description": "PPZ g. 08:45 - 11:45 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PPZ g. 08:45 - 11:45 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "128 0 128"
   },
   {
@@ -959,8 +869,17 @@
     "exercise_group": "4a",
     "start_date": "2025-11-20T12:00:00+01:00",
     "end_date": "2025-11-20T15:00:00+01:00",
-    "description": "PZP  g. 12.00 - 15.00 sem. sala 40, blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "description": "PZP  g. 12.00 - 15.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 204 0"
+  },
+  {
+    "title": "P.eko 16 45 18.15",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4a",
+    "start_date": "2025-11-20T16:45:00+01:00",
+    "end_date": "2025-11-20T18:15:00+01:00",
+    "description": "P.eko g. 16 45 - 18.15 s. 210 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "204 153 255"
   },
   {
     "title": "PZP",
