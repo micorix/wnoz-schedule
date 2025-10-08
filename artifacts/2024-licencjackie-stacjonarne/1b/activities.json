@@ -36,12 +36,21 @@
     "color": "0 204 255"
   },
   {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "title": "Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim MsTeams",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
     "start_date": "2025-10-13T13:15:00+02:00",
+    "end_date": "2025-10-13T15:00:00+02:00",
+    "description": "Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim - MsTeams\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "0 0 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-10-13T15:00:00+02:00",
     "end_date": "2025-10-13T16:15:00+02:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "255 204 0"
   },
   {
@@ -369,6 +378,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-10-07T15:00:00+02:00",
+    "end_date": "2025-10-07T16:30:00+02:00",
+    "description": "JA (S1A) g. 15:00 - 16:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -403,6 +421,15 @@
     "end_date": "2025-10-14T14:45:00+02:00",
     "description": "PM (NZME) g. 13:15 - 14:45  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 204 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-10-14T15:00:00+02:00",
+    "end_date": "2025-10-14T16:30:00+02:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
   },
   {
     "title": "P.eko",
@@ -441,6 +468,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-10-21T15:00:00+02:00",
+    "end_date": "2025-10-21T16:30:00+02:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -475,6 +511,15 @@
     "end_date": "2025-10-28T14:45:00+01:00",
     "description": "PM (NZME) g. 13:15 - 14:45  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 204 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-10-28T15:00:00+01:00",
+    "end_date": "2025-10-28T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
   },
   {
     "title": "P.eko",
@@ -513,6 +558,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-11-04T15:00:00+01:00",
+    "end_date": "2025-11-04T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -547,6 +601,15 @@
     "end_date": "2025-11-18T14:45:00+01:00",
     "description": "PM (NZME) g. 13:15 - 14:45  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 204 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-11-18T15:00:00+01:00",
+    "end_date": "2025-11-18T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
   },
   {
     "title": "P.eko",
@@ -585,6 +648,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-11-25T15:00:00+01:00",
+    "end_date": "2025-11-25T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -619,6 +691,15 @@
     "end_date": "2025-12-02T14:45:00+01:00",
     "description": "PM (NZME) g. 13:15 - 14:45  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 204 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-12-02T15:00:00+01:00",
+    "end_date": "2025-12-02T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
   },
   {
     "title": "P.eko",
@@ -657,6 +738,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-12-09T15:00:00+01:00",
+    "end_date": "2025-12-09T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -693,6 +783,15 @@
     "color": "0 204 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-12-16T15:00:00+01:00",
+    "end_date": "2025-12-16T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -711,6 +810,15 @@
     "color": "0 128 0"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-01-13T15:00:00+01:00",
+    "end_date": "2025-01-13T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
@@ -727,6 +835,15 @@
     "end_date": "2025-01-20T14:45:00+01:00",
     "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "0 128 0"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1b",
+    "start_date": "2025-01-20T15:00:00+01:00",
+    "end_date": "2025-01-20T16:30:00+01:00",
+    "description": "JA (S1A)  g. 15:00 - 16:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "color": "255 255 0"
   },
   {
     "title": "JA",
@@ -864,12 +981,12 @@
     "color": "255 255 0"
   },
   {
-    "title": "PM (NZR) sem.",
+    "title": "PM (NZR) sem. b\u0119d\u0105 prowadzone w",
     "seminar_group": "gr. 1",
     "exercise_group": "1b",
     "start_date": "2025-10-09T08:00:00+02:00",
     "end_date": "2025-10-09T11:45:00+02:00",
-    "description": "PM (NZR) 08.00 -11.45 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
+    "description": "PM (NZR) 08.00 -11.45 sem. b\u0119d\u0105 prowadzone w salach Zak\u0142\u0105du Ratownictwa Medycznego przy ul.Litewskiej 14/16 . Sala znajduje si\u0119 na drugim pi\u0119trze, a szatnia studencka na -1, gdzie nale\u017cy zostawi\u0107 okrycia wierzchnie i zmieni\u0107 obuwie\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1b",
     "color": "51 204 204"
   },
   {

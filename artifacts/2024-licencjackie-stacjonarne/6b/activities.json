@@ -36,12 +36,21 @@
     "color": "0 204 255"
   },
   {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "title": "Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim MsTeams",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
     "start_date": "2025-10-13T13:15:00+02:00",
+    "end_date": "2025-10-13T15:00:00+02:00",
+    "description": "Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim - MsTeams\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "0 0 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-10-13T15:00:00+02:00",
     "end_date": "2025-10-13T16:15:00+02:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "255 204 0"
   },
   {
@@ -333,6 +342,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-10-07T11:30:00+02:00",
+    "end_date": "2025-10-07T13:00:00+02:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
+  },
+  {
     "title": "PM (NZME)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -358,6 +376,15 @@
     "end_date": "2025-10-07T20:00:00+02:00",
     "description": "P.eko g. 18.30 - 20.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
+  },
+  {
+    "title": "JA (S1A) s. Brak Sali",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-10-14T11:30:00+02:00",
+    "end_date": "2025-10-14T13:00:00+02:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. Brak Sali\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
   },
   {
     "title": "PM (NZME)",
@@ -387,6 +414,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-10-21T11:30:00+02:00",
+    "end_date": "2025-10-21T13:00:00+02:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 125 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
+  },
+  {
     "title": "PM (NZME)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -412,6 +448,15 @@
     "end_date": "2025-10-21T20:00:00+02:00",
     "description": "P.eko g. 18.30 - 20.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-10-28T11:30:00+01:00",
+    "end_date": "2025-10-28T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
   },
   {
     "title": "PM (NZME)",
@@ -441,6 +486,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-11-04T11:30:00+01:00",
+    "end_date": "2025-11-04T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 122 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
+  },
+  {
     "title": "PM (NZME)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -466,6 +520,15 @@
     "end_date": "2025-11-04T20:00:00+01:00",
     "description": "P.eko g. 18.30 - 20.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-11-18T11:30:00+01:00",
+    "end_date": "2025-11-18T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 203 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
   },
   {
     "title": "PM (NZME)",
@@ -495,6 +558,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-11-25T11:30:00+01:00",
+    "end_date": "2025-11-25T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 203 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
+  },
+  {
     "title": "PM (NZME)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -520,6 +592,15 @@
     "end_date": "2025-11-25T20:00:00+01:00",
     "description": "P.eko g. 18.30 - 20.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-12-02T11:30:00+01:00",
+    "end_date": "2025-12-02T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 203 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
   },
   {
     "title": "PM (NZME)",
@@ -549,6 +630,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-12-09T11:30:00+01:00",
+    "end_date": "2025-12-09T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 7 niski parter, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
+  },
+  {
     "title": "PM (NZME)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -574,6 +664,15 @@
     "end_date": "2025-12-09T20:00:00+01:00",
     "description": "P.eko g. 18.30 - 20.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-12-16T11:30:00+01:00",
+    "end_date": "2025-12-16T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 7 niski parter, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
   },
   {
     "title": "PM (NZME)",
@@ -603,6 +702,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-01-13T11:30:00+01:00",
+    "end_date": "2025-01-13T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 122CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -619,6 +727,15 @@
     "end_date": "2025-01-13T20:00:00+01:00",
     "description": "Pe g. 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "0 128 0"
+  },
+  {
+    "title": "JA (S1A)",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-01-20T11:30:00+01:00",
+    "end_date": "2025-01-20T13:00:00+01:00",
+    "description": "JA (S1A) g. 11:30 - 13:00 s. 122CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 255 0"
   },
   {
     "title": "Pe",
@@ -666,12 +783,12 @@
     "color": "192 192 192"
   },
   {
-    "title": "PM (NZR) sem.",
+    "title": "PM (NZR) sem. b\u0119d\u0105 prowadzone w",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
     "start_date": "2025-10-23T12:00:00+02:00",
     "end_date": "2025-10-23T15:45:00+02:00",
-    "description": "PM (NZR) 12.00 - 15.45 sem. s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "description": "PM (NZR) 12.00 - 15.45 sem. b\u0119d\u0105 prowadzone w salach Zak\u0142\u0105du Ratownictwa Medycznego przy ul.Litewskiej 14/16 . Sala znajduje si\u0119 na drugim pi\u0119trze, a szatnia studencka na -1, gdzie nale\u017cy zostawi\u0107 okrycia wierzchnie i zmieni\u0107 obuwie\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "51 204 204"
   },
   {
