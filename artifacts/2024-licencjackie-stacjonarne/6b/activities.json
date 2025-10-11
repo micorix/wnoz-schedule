@@ -378,12 +378,12 @@
     "color": "204 153 255"
   },
   {
-    "title": "JA (S1A) s. Brak Sali",
+    "title": "JA (S1A)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
     "start_date": "2025-10-14T11:30:00+02:00",
     "end_date": "2025-10-14T13:00:00+02:00",
-    "description": "JA (S1A) g. 11:30 - 13:00 s. Brak Sali\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "description": "JA (S1A) g. 11:15 - 12:45 s. 139 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "255 255 0"
   },
   {
@@ -711,22 +711,22 @@
     "color": "255 255 0"
   },
   {
+    "title": "Pe",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-01-13T15:00:00+01:00",
+    "end_date": "2025-01-13T16:30:00+01:00",
+    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "0 128 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
     "start_date": "2025-01-13T16:45:00+01:00",
     "end_date": "2025-01-13T18:15:00+01:00",
-    "description": "P.eko g. 16.45 - 18.15 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "description": "P.eko g. 16.45 - 18.15 s. 19 (w ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 6",
-    "exercise_group": "6b",
-    "start_date": "2025-01-13T18:30:00+01:00",
-    "end_date": "2025-01-13T20:00:00+01:00",
-    "description": "Pe g. 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "0 128 0"
   },
   {
     "title": "JA (S1A)",
@@ -741,18 +741,18 @@
     "title": "Pe",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
-    "start_date": "2025-01-20T16:45:00+01:00",
-    "end_date": "2025-01-20T18:15:00+01:00",
-    "description": "Pe g. 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "start_date": "2025-01-20T15:00:00+01:00",
+    "end_date": "2025-01-20T16:30:00+01:00",
+    "description": "Pe 15.00 - 16.30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "0 128 0"
   },
   {
     "title": "P.eko",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
-    "start_date": "2025-01-20T18:30:00+01:00",
-    "end_date": "2025-01-20T20:00:00+01:00",
-    "description": "P.eko g. 16.45 - 18.15 s. 127 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "start_date": "2025-01-20T16:45:00+01:00",
+    "end_date": "2025-01-20T18:15:00+01:00",
+    "description": "P.eko g. 16.45 - 18.15 s. 206 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
   },
   {
@@ -822,9 +822,9 @@
     "title": "P.eko",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
-    "start_date": "2025-11-13T11:30:00+01:00",
-    "end_date": "2025-11-13T13:00:00+01:00",
-    "description": "P.eko g. 11.30 - 13.00 s. 210 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "start_date": "2025-11-13T09:45:00+01:00",
+    "end_date": "2025-11-13T11:15:00+01:00",
+    "description": "P.eko g. 09.45 - 11.15 s. 210 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
   },
   {
@@ -840,9 +840,9 @@
     "title": "P.eko",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
-    "start_date": "2025-11-20T15:00:00+01:00",
-    "end_date": "2025-11-20T16:30:00+01:00",
-    "description": "P.eko g. 15.00 - 16.30 s. 210 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "start_date": "2025-11-20T11:30:00+01:00",
+    "end_date": "2025-11-20T13:00:00+01:00",
+    "description": "P.eko g. 11.30 - 13.00 s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "204 153 255"
   },
   {
@@ -853,6 +853,15 @@
     "end_date": "2025-11-27T09:30:00+01:00",
     "description": "KES (NZB) 08:00 - 09:30 s. 7 niski parter, Pwi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "192 192 192"
+  },
+  {
+    "title": "PZP",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-11-27T13:15:00+01:00",
+    "end_date": "2025-11-27T14:45:00+01:00",
+    "description": "PZP  13:15 - 14:45 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 204 0"
   },
   {
     "title": "KES (NZB)",
@@ -869,7 +878,7 @@
     "exercise_group": "6b",
     "start_date": "2025-12-04T15:30:00+01:00",
     "end_date": "2025-12-04T17:45:00+01:00",
-    "description": "PPZ 15.30 - 17.45 \u0107w. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "description": "PPZ 15.30 - 17.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "128 0 128"
   },
   {
@@ -1170,13 +1179,22 @@
     "color": "128 0 128"
   },
   {
-    "title": "PZP",
+    "title": "KES (NZC) \u0107w.",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
-    "start_date": "2025-11-28T11:30:00+01:00",
-    "end_date": "2025-11-28T13:00:00+01:00",
-    "description": "PZP  11:30 - 13:00 sala 40, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "255 204 0"
+    "start_date": "2025-11-28T12:00:00+01:00",
+    "end_date": "2025-11-28T15:45:00+01:00",
+    "description": "KES (NZC) g.12.00 - 15.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 102 0"
+  },
+  {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-12-12T08:00:00+01:00",
+    "end_date": "2025-12-12T11:45:00+01:00",
+    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 102 0"
   },
   {
     "title": "PPZ \u0107w.",
@@ -1186,5 +1204,23 @@
     "end_date": "2025-12-12T17:45:00+01:00",
     "description": "PPZ 15.30 - 17.45 \u0107w. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "128 0 128"
+  },
+  {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-01-09T16:00:00+01:00",
+    "end_date": "2025-01-09T19:45:00+01:00",
+    "description": "KES (NZC) g.16.00 - 18.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 102 0"
+  },
+  {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-01-23T12:00:00+01:00",
+    "end_date": "2025-01-23T15:45:00+01:00",
+    "description": "KES (NZC) g.12.00 - 15.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 102 0"
   }
 ]
