@@ -733,8 +733,17 @@
     "seminar_group": "gr. 7",
     "exercise_group": "7a",
     "start_date": "2025-11-27T11:30:00+01:00",
-    "end_date": "2025-11-27T13:00:00+01:00",
-    "description": "KES (NZC) g.11.30 - 13.00 s. 140 CD\n\n\nGrupa seminaryjna: gr. 7\nGrupa wyk\u0142adowa: 7a",
+    "end_date": "2025-11-27T12:15:00+01:00",
+    "description": "KES (NZC) g.11.30 - 13.00\n\n\nGrupa seminaryjna: gr. 7\nGrupa wyk\u0142adowa: 7a",
+    "color": "255 102 0"
+  },
+  {
+    "title": "",
+    "seminar_group": "gr. 7",
+    "exercise_group": "7a",
+    "start_date": "2025-11-27T12:30:00+01:00",
+    "end_date": "2025-11-27T12:45:00+01:00",
+    "description": "s. 140 CD\n\n\nGrupa seminaryjna: gr. 7\nGrupa wyk\u0142adowa: 7a",
     "color": "255 102 0"
   },
   {
