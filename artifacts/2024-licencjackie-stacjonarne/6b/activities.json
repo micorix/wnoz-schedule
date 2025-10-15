@@ -126,21 +126,12 @@
     "color": "192 192 192"
   },
   {
-    "title": "",
-    "seminar_group": "gr. 6",
-    "exercise_group": "6b",
-    "start_date": "2025-10-20T16:30:00+02:00",
-    "end_date": "2025-10-20T20:15:00+02:00",
-    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "192 192 192"
-  },
-  {
-    "title": " (wyk\u0142ad)",
+    "title": "zamieszczony na platformie E learningowej (wed\u0142ug wskaza\u0144 nauczyciela) (wyk\u0142ad)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
     "start_date": "2025-10-20T18:00:00+02:00",
     "end_date": "2025-10-20T20:00:00+02:00",
-    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "description": "wyk\u0142ad zamieszczony na platformie - E - learningowej (wed\u0142ug wskaza\u0144 nauczyciela)\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "192 192 192"
   },
   {
