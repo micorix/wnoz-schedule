@@ -693,6 +693,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "KES (NZC) 15.00 18.45 \u0107w.",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4a",
+    "start_date": "2025-12-16T15:00:00+01:00",
+    "end_date": "2025-12-16T19:30:00+01:00",
+    "description": "KES (NZC) g. 15.00 - - 18.45 \u0107w. s. 113 blok F\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "color": "255 102 0"
+  },
+  {
     "title": "Pe",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
@@ -894,18 +903,9 @@
     "title": "KES (NZC) \u0107w.",
     "seminar_group": "gr. 4",
     "exercise_group": "4a",
-    "start_date": "2025-12-11T08:00:00+01:00",
-    "end_date": "2025-12-11T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-01-08T08:00:00+01:00",
-    "end_date": "2025-01-08T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
+    "start_date": "2025-12-11T12:45:00+01:00",
+    "end_date": "2025-12-11T17:15:00+01:00",
+    "description": "KES (NZC) g. 12.45 - 16.30 \u0107w. s. 6 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 102 0"
   },
   {
@@ -961,15 +961,6 @@
     "end_date": "2025-11-21T11:15:00+01:00",
     "description": "JA (S1A) g. 09:45 - 11:15 s. 127 CBI\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
     "color": "255 255 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4a",
-    "start_date": "2025-11-21T16:00:00+01:00",
-    "end_date": "2025-11-21T19:45:00+01:00",
-    "description": "KES (NZC) g.16.00 - 18.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4a",
-    "color": "255 102 0"
   },
   {
     "title": "JA (S1A)",

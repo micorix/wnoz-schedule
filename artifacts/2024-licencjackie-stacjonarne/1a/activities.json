@@ -333,6 +333,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1a",
+    "start_date": "2025-12-01T08:00:00+01:00",
+    "end_date": "2025-12-01T11:45:00+01:00",
+    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 113 blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
+    "color": "255 102 0"
+  },
+  {
     "title": "P.eko",
     "seminar_group": "gr. 1",
     "exercise_group": "1a",
@@ -1008,6 +1017,15 @@
     "color": "204 153 255"
   },
   {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 1",
+    "exercise_group": "1a",
+    "start_date": "2025-11-20T12:45:00+01:00",
+    "end_date": "2025-11-20T17:15:00+01:00",
+    "description": "KES (NZC) g. 12.45 - 16.30 \u0107w. s. 6 CBI\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
+    "color": "255 102 0"
+  },
+  {
     "title": "PPZ \u0107w.",
     "seminar_group": "gr. 1",
     "exercise_group": "1a",
@@ -1017,15 +1035,6 @@
     "color": "128 0 128"
   },
   {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1a",
-    "start_date": "2025-11-27T16:00:00+01:00",
-    "end_date": "2025-11-27T19:45:00+01:00",
-    "description": "KES (NZC) g.16.00 - 18.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
-    "color": "255 102 0"
-  },
-  {
     "title": "PPZ \u0107w.",
     "seminar_group": "gr. 1",
     "exercise_group": "1a",
@@ -1033,24 +1042,6 @@
     "end_date": "2025-12-11T10:15:00+01:00",
     "description": "PPZ 08.00 - 10.15 \u0107w. s. 127 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
     "color": "128 0 128"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1a",
-    "start_date": "2025-12-18T08:00:00+01:00",
-    "end_date": "2025-12-18T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
-    "color": "255 102 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1a",
-    "start_date": "2025-01-15T08:00:00+01:00",
-    "end_date": "2025-01-15T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
-    "color": "255 102 0"
   },
   {
     "title": "PZP sem.",
@@ -1177,14 +1168,5 @@
     "end_date": "2025-11-28T13:00:00+01:00",
     "description": "PZP  11:30 - 13:00 sala 40, blok F\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
     "color": "255 204 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 1",
-    "exercise_group": "1a",
-    "start_date": "2025-12-05T08:00:00+01:00",
-    "end_date": "2025-12-05T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 1\nGrupa wyk\u0142adowa: 1a",
-    "color": "255 102 0"
   }
 ]

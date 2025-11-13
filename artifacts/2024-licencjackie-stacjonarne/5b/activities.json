@@ -333,6 +333,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr, 5",
+    "exercise_group": "5b",
+    "start_date": "2025-12-15T15:30:00+01:00",
+    "end_date": "2025-12-15T19:15:00+01:00",
+    "description": "KES (NZC) g. 15.30 - 19.15 \u0107w. s. 113 blok F\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5b",
+    "color": "255 102 0"
+  },
+  {
     "title": "JA (S1A)",
     "seminar_group": "gr, 5",
     "exercise_group": "5b",
@@ -1080,15 +1089,6 @@
     "color": "192 192 192"
   },
   {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr, 5",
-    "exercise_group": "5b",
-    "start_date": "2025-12-11T12:00:00+01:00",
-    "end_date": "2025-12-11T15:45:00+01:00",
-    "description": "KES (NZC) g.12.00 - 15.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5b",
-    "color": "255 102 0"
-  },
-  {
     "title": "PPZ",
     "seminar_group": "gr, 5",
     "exercise_group": "5b",
@@ -1137,27 +1137,9 @@
     "title": "KES (NZC) \u0107w.",
     "seminar_group": "gr, 5",
     "exercise_group": "5b",
-    "start_date": "2025-11-28T08:00:00+01:00",
-    "end_date": "2025-11-28T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5b",
-    "color": "255 102 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr, 5",
-    "exercise_group": "5b",
-    "start_date": "2025-01-09T08:00:00+01:00",
-    "end_date": "2025-01-09T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5b",
-    "color": "255 102 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr, 5",
-    "exercise_group": "5b",
-    "start_date": "2025-01-23T08:00:00+01:00",
-    "end_date": "2025-01-23T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5b",
+    "start_date": "2025-12-05T13:15:00+01:00",
+    "end_date": "2025-12-05T17:45:00+01:00",
+    "description": "KES (NZC) g. 13.15 - 17.00 \u0107w. s. 6 CBI\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5b",
     "color": "255 102 0"
   }
 ]
