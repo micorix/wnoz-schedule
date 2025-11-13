@@ -1080,15 +1080,6 @@
     "color": "255 204 0"
   },
   {
-    "title": "PZP",
-    "seminar_group": "gr. 7",
-    "exercise_group": "7a",
-    "start_date": "2025-11-28T08:00:00+01:00",
-    "end_date": "2025-11-28T09:30:00+01:00",
-    "description": "PZP  g. 08:00 - 09:30 sala 40, blok F\n\n\nGrupa seminaryjna: gr. 7\nGrupa wyk\u0142adowa: 7a",
-    "color": "255 204 0"
-  },
-  {
     "title": "PPZ \u0107w.",
     "seminar_group": "gr. 7",
     "exercise_group": "7a",

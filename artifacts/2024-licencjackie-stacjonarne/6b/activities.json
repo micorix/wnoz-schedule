@@ -891,6 +891,15 @@
     "color": "192 192 192"
   },
   {
+    "title": "KES (NZC) \u0107w.",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-01-22T15:00:00+01:00",
+    "end_date": "2025-01-22T19:30:00+01:00",
+    "description": "KES (NZC) g. 13.00 - 16.45 \u0107w. s. 113 blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "color": "255 102 0"
+  },
+  {
     "title": "PZP sem.",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -1173,18 +1182,9 @@
     "title": "KES (NZC) \u0107w.",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
-    "start_date": "2025-11-28T12:00:00+01:00",
-    "end_date": "2025-11-28T15:45:00+01:00",
-    "description": "KES (NZC) g.12.00 - 15.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "255 102 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 6",
-    "exercise_group": "6b",
-    "start_date": "2025-12-12T08:00:00+01:00",
-    "end_date": "2025-12-12T11:45:00+01:00",
-    "description": "KES (NZC) g. 08.00 - 11.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
+    "start_date": "2025-11-28T13:15:00+01:00",
+    "end_date": "2025-11-28T17:45:00+01:00",
+    "description": "KES (NZC) g. 13.15 - 17.00 \u0107w. s. 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "255 102 0"
   },
   {
@@ -1195,23 +1195,5 @@
     "end_date": "2025-12-12T17:45:00+01:00",
     "description": "PPZ 15.30 - 17.45 \u0107w. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "128 0 128"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 6",
-    "exercise_group": "6b",
-    "start_date": "2025-01-09T16:00:00+01:00",
-    "end_date": "2025-01-09T19:45:00+01:00",
-    "description": "KES (NZC) g.16.00 - 18.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "255 102 0"
-  },
-  {
-    "title": "KES (NZC) \u0107w.",
-    "seminar_group": "gr. 6",
-    "exercise_group": "6b",
-    "start_date": "2025-01-23T12:00:00+01:00",
-    "end_date": "2025-01-23T15:45:00+01:00",
-    "description": "KES (NZC) g.12.00 - 15.45 \u0107w. s. 126 CD\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "255 102 0"
   }
 ]
