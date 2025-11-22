@@ -333,6 +333,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "Podstawy Ekonomii SEMINARIA MsTeams",
+    "seminar_group": "gr. 4",
+    "exercise_group": "4b",
+    "start_date": "2025-11-24T08:30:00+01:00",
+    "end_date": "2025-11-24T10:00:00+01:00",
+    "description": "Podstawy Ekonomii SEMINARIA - MsTeams\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "204 153 255"
+  },
+  {
     "title": "Pe",
     "seminar_group": "gr. 4",
     "exercise_group": "4b",
@@ -574,15 +583,6 @@
     "end_date": "2025-11-25T13:00:00+01:00",
     "description": "PM (NZME) g. 11:30 - 13:00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
     "color": "0 204 255"
-  },
-  {
-    "title": "P.eko 1.DE 002 Sala dydaktyczna",
-    "seminar_group": "gr. 4",
-    "exercise_group": "4b",
-    "start_date": "2025-11-25T13:15:00+01:00",
-    "end_date": "2025-11-25T14:45:00+01:00",
-    "description": "P.eko g. 13:15 - 14:45 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 4\nGrupa wyk\u0142adowa: 4b",
-    "color": "204 153 255"
   },
   {
     "title": "Pe",

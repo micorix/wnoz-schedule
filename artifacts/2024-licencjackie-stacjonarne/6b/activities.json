@@ -333,6 +333,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "Podstawy Ekonomii SEMINARIA MsTeams",
+    "seminar_group": "gr. 6",
+    "exercise_group": "6b",
+    "start_date": "2025-11-24T08:30:00+01:00",
+    "end_date": "2025-11-24T10:00:00+01:00",
+    "description": "Podstawy Ekonomii SEMINARIA - MsTeams\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "204 153 255"
+  },
+  {
     "title": "JA (S1A)",
     "seminar_group": "gr. 6",
     "exercise_group": "6b",
@@ -574,15 +583,6 @@
     "end_date": "2025-11-25T18:15:00+01:00",
     "description": "Pe g. 16.45 - 18.15 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
     "color": "0 128 0"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 6",
-    "exercise_group": "6b",
-    "start_date": "2025-11-25T18:30:00+01:00",
-    "end_date": "2025-11-25T20:00:00+01:00",
-    "description": "P.eko g. 18.30 - 20.00 s. 118 CBI\n\n\nGrupa seminaryjna: gr. 6\nGrupa wyk\u0142adowa: 6b",
-    "color": "204 153 255"
   },
   {
     "title": "JA (S1A)",
