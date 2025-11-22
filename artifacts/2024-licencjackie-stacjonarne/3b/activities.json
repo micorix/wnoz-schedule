@@ -333,6 +333,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "Podstawy Ekonomii SEMINARIA MsTeams",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3b",
+    "start_date": "2025-11-24T08:30:00+01:00",
+    "end_date": "2025-11-24T10:00:00+01:00",
+    "description": "Podstawy Ekonomii SEMINARIA - MsTeams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "204 153 255"
+  },
+  {
     "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3b",
@@ -565,15 +574,6 @@
     "end_date": "2025-11-25T11:15:00+01:00",
     "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
     "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3b",
-    "start_date": "2025-11-25T11:30:00+01:00",
-    "end_date": "2025-11-25T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 126 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3b",
-    "color": "204 153 255"
   },
   {
     "title": "Pe",

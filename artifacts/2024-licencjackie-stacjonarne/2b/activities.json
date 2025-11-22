@@ -333,6 +333,15 @@
     "color": "128 0 128"
   },
   {
+    "title": "Podstawy Ekonomii SEMINARIA MsTeams",
+    "seminar_group": "gr. 2",
+    "exercise_group": "2b",
+    "start_date": "2025-11-24T08:30:00+01:00",
+    "end_date": "2025-11-24T10:00:00+01:00",
+    "description": "Podstawy Ekonomii SEMINARIA - MsTeams\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2b\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
+    "color": "204 153 255"
+  },
+  {
     "title": "PM (NZME)",
     "seminar_group": "gr. 2",
     "exercise_group": "2b",
@@ -610,15 +619,6 @@
     "end_date": "2025-11-25T09:30:00+01:00",
     "description": "PM (NZME) g. 08:00 - 09:30  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2b",
     "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 2",
-    "exercise_group": "2b",
-    "start_date": "2025-11-25T09:45:00+01:00",
-    "end_date": "2025-11-25T11:15:00+01:00",
-    "description": "P.eko g. 09:45 - 11:15 s. 7 niski parter, ul. Pawi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr. 2\nGrupa wyk\u0142adowa: 2b",
-    "color": "204 153 255"
   },
   {
     "title": "Pe",
