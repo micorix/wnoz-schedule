@@ -1035,6 +1035,15 @@
     "color": "255 204 0"
   },
   {
+    "title": "KES NZC [PS]",
+    "seminar_group": "gr, 5",
+    "exercise_group": "5a",
+    "start_date": "2025-11-27T18:00:00+01:00",
+    "end_date": "2025-11-27T20:45:00+01:00",
+    "description": "KES NZC [PS]\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5a",
+    "color": "255 102 0"
+  },
+  {
     "title": "KES (NZB)",
     "seminar_group": "gr, 5",
     "exercise_group": "5a",
@@ -1051,6 +1060,15 @@
     "end_date": "2025-12-11T11:15:00+01:00",
     "description": "KES (NZB) 09:45 - 11:15 s. 7 niski parter, Pwi\u0144skiego 3c\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5a",
     "color": "192 192 192"
+  },
+  {
+    "title": "KES NZC [FR]",
+    "seminar_group": "gr, 5",
+    "exercise_group": "5a",
+    "start_date": "2025-12-11T18:00:00+01:00",
+    "end_date": "2025-12-11T20:45:00+01:00",
+    "description": "KES NZC [FR]\n\n\nGrupa seminaryjna: gr, 5\nGrupa wyk\u0142adowa: 5a",
+    "color": "255 102 0"
   },
   {
     "title": "KES (NZB)",
