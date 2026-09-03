@@ -6,20 +6,20 @@ DESCRIPTION:Pe 15.00 - 16.30 s. 121\, blok F\n\n\nGrupa seminaryjna: gr. 7\nGrup
 DTEND:20260126T153000Z
 DTSTART:20260126T140000Z
 SUMMARY:Podstawy epidemiologii
-UID:2c6e750a-b5ac-4be6-acb3-ad5f69fb25bd@2c6e.org
+UID:dfe2e1f8-1763-4aa2-bacb-4e85b4a717c4@dfe2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:P.eko g. 16.45 - 18.15 s. 127 CD\n\n\nGrupa seminaryjna: gr. 7\nGrupa wykładowa: 7b
 DTEND:20260126T171500Z
 DTSTART:20260126T154500Z
 SUMMARY:Podstawy ekonomii
-UID:05d6d5d2-f29d-48d6-b773-fa52d5ccd8b4@05d6.org
+UID:e71e67e4-bb48-4bf0-add4-bf6bc87ad12b@e71e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:KES (NZC) g.12.00 - 15.45 ćw. s. 126 CD\n\n\nGrupa seminaryjna: gr. 7\nGrupa wykładowa: 7b
 DTEND:20260129T144500Z
 DTSTART:20260129T110000Z
 SUMMARY:KES (NZC) ćw.
-UID:5db37aaa-a50b-4611-bac7-a7f72024ede7@5db3.org
+UID:0b8d4a9d-abae-416c-9b3f-3e304644469e@0b8d.org
 END:VEVENT
 END:VCALENDAR
