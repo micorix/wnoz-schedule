@@ -2,808 +2,892 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:INAUGURACJA ROKU AKADEMICKIEGO 2026/2027\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261005T184500Z
-DTSTART:20261005T060000Z
-SUMMARY:INAUGURACJA ROKU AKADEMICKIEGO 2026/2027
-UID:29a96d3c-df0e-48ce-b1db-18a6c32eb63f@29a9.org
+DESCRIPTION:Dzień Rektorski\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251006T184500Z
+DTSTART:20251006T060000Z
+SUMMARY:Dzień Rektorski
+UID:1e5319c2-19ee-4873-b083-fa8ef6fb48f0@1e53.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261012T073000Z
-DTSTART:20261012T060000Z
+DTEND:20251013T073000Z
+DTSTART:20251013T060000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:cc2a890c-389b-42dc-aced-dd904f119aa4@cc2a.org
+UID:e74859d6-bc7f-4214-9c7c-a0bb618fc247@e748.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261012T091500Z
-DTSTART:20261012T074500Z
+DTEND:20251013T091500Z
+DTSTART:20251013T074500Z
 SUMMARY:Podstawy ekonomii (3MC) (wykład)
-UID:7be775d7-5096-4b6b-a6a5-cc1d2ef1591d@7be7.org
+UID:ddeee7d0-1075-459c-89b5-eeb0d6ba110b@ddee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261012T110000Z
-DTSTART:20261012T093000Z
+DTEND:20251013T110000Z
+DTSTART:20251013T093000Z
 SUMMARY:Propedeutyka medycyny (NZME) (wykład)
-UID:0e5179ab-00b2-409d-88a1-a2d19952c503@0e51.org
+UID:7c334a0d-948d-4f9b-b81f-ea54d588a9ec@7c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim - MsTeams\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a\nWykład odbywa się na platformie MS Teams
+DTEND:20251013T130000Z
+DTSTART:20251013T111500Z
+SUMMARY:Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim MsTeams
+UID:c14eb61a-32c2-4e4c-991c-bc62f50cc7b3@c14e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261012T134500Z
-DTSTART:20261012T121500Z
+DTEND:20251013T141500Z
+DTSTART:20251013T130000Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:7380775c-09e2-41ad-b4af-79a0e694b512@7380.org
+UID:70618631-9e47-47a2-a80e-f03d6f7c7b60@7061.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kompetencje efektywnego studiowania (NZB) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261012T153000Z
-DTSTART:20261012T140000Z
-SUMMARY:Kompetencje efektywnego studiowania (NZB) (wykład)
-UID:f2cdd01c-d895-4eab-8427-0858a58bde91@f2cd.org
+DESCRIPTION:Propedeutyka medycyny (NZR)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251013T151500Z
+DTSTART:20251013T143000Z
+SUMMARY:Propedeutyka medycyny (NZR)
+UID:e84897b3-9e74-41fc-ad9f-28c5bdf34e35@e848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251013T181500Z
+DTSTART:20251013T143000Z
+UID:19ad2e0b-c5dc-41a0-829c-eabd5d005481@19ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251013T180000Z
+DTSTART:20251013T160000Z
+SUMMARY: (wykład)
+UID:a1142066-8061-41fe-abd0-c7a8af80a9f5@a114.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261019T073000Z
-DTSTART:20261019T060000Z
+DTEND:20251020T073000Z
+DTSTART:20251020T060000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:a6f0583f-b087-46d4-a256-ddbe8c2d2b43@a6f0.org
+UID:d1a5010d-d73a-43a4-865e-920bd1329160@d1a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261019T091500Z
-DTSTART:20261019T074500Z
+DTEND:20251020T091500Z
+DTSTART:20251020T074500Z
 SUMMARY:Podstawy ekonomii (3MC) (wykład)
-UID:a98923b8-4ff1-4c78-adb5-8370778e0a23@a989.org
+UID:463d2b26-2a4d-492f-9396-c6cd1c574b76@463d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261019T110000Z
-DTSTART:20261019T093000Z
+DTEND:20251020T110000Z
+DTSTART:20251020T093000Z
 SUMMARY:Propedeutyka medycyny (NZME) (wykład)
-UID:83bfcfce-17e5-41f7-868f-870069da0937@83bf.org
+UID:9daa015d-514b-49cd-8250-91724bec83af@9daa.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261019T134500Z
-DTSTART:20261019T121500Z
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251020T141500Z
+DTSTART:20251020T111500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:58452475-de92-4597-be61-19a16da5383f@5845.org
+UID:f438a8df-c7d4-4366-b04b-af52f86e3289@f438.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kompetencje efektywnego studiowania (NZB) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261019T153000Z
-DTSTART:20261019T140000Z
-SUMMARY:Kompetencje efektywnego studiowania (NZB) (wykład)
-UID:b1f83237-5234-4133-b7c5-687515a71790@b1f8.org
+DESCRIPTION:Kompetencje efektywnego studiowania (NZB)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251020T151500Z
+DTSTART:20251020T143000Z
+SUMMARY:Kompetencje efektywnego studiowania (NZB)
+UID:de0342d1-0a09-4a21-9015-fa209af97fcc@de03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykład zamieszczony na platformie - E - learningowej (według wskazań nauczyciela)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251020T180000Z
+DTSTART:20251020T160000Z
+SUMMARY:zamieszczony na platformie E learningowej (według wskazań nauczyciela) (wykład)
+UID:786eedaf-277e-414b-bcad-49ff3510a283@786e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261026T083000Z
-DTSTART:20261026T070000Z
+DTEND:20251027T083000Z
+DTSTART:20251027T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:8a0ba2c6-4b98-486e-b044-9dc585d07e37@8a0b.org
+UID:9b2d8d1e-52ec-4b52-ac93-f54abda9e733@9b2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261026T101500Z
-DTSTART:20261026T084500Z
+DTEND:20251027T101500Z
+DTSTART:20251027T084500Z
 SUMMARY:Podstawy ekonomii (3MC) (wykład)
-UID:dd7eab13-e308-45fd-85c0-6a4fa8c366c1@dd7e.org
+UID:33a129ee-44d2-42a8-857e-86384fe9c7d4@33a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261026T120000Z
-DTSTART:20261026T103000Z
+DTEND:20251027T120000Z
+DTSTART:20251027T103000Z
 SUMMARY:Propedeutyka medycyny (NZME) (wykład)
-UID:053ec84c-4c6c-43dd-b881-9df58a7aa1ce@053e.org
+UID:4a54cf66-5119-46c0-bc67-587fa71d4a8b@4a54.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261026T144500Z
-DTSTART:20261026T131500Z
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251027T151500Z
+DTSTART:20251027T121500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:eba8c537-61fd-40c4-b96c-cf427f57b35e@eba8.org
+UID:7aa7a4ae-ccd4-4bc1-bc03-b33fec85657e@7aa7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kompetencje efektywnego studiowania (NZB) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261026T163000Z
-DTSTART:20261026T150000Z
-SUMMARY:Kompetencje efektywnego studiowania (NZB) (wykład)
-UID:17822d2f-9014-436f-9fb4-4bb7462c0271@1782.org
+DESCRIPTION:Kompetencje efektywnego studiowania (NZC)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251027T161500Z
+DTSTART:20251027T153000Z
+SUMMARY:Kompetencje efektywnego studiowania (NZC)
+UID:308ece3a-4f22-499c-9395-249d26344877@308e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251027T191500Z
+DTSTART:20251027T153000Z
+UID:9a6fff43-0025-4fd0-8996-ee2da0c28df3@9a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykład zamieszczony na platformie - E - learningowej (według wskazań nauczyciela)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251027T190000Z
+DTSTART:20251027T170000Z
+SUMMARY:zamieszczony na platformie E learningowej (według wskazań nauczyciela) (wykład)
+UID:e1ec15a4-8b90-49a3-ae7e-92442b1cd80a@e1ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261102T083000Z
-DTSTART:20261102T070000Z
+DTEND:20251103T083000Z
+DTSTART:20251103T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:586c6711-00c5-4f7f-a19b-918b2e64905f@586c.org
+UID:f1a7421d-48f2-454e-900a-9f7b6a1ce5fa@f1a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261102T101500Z
-DTSTART:20261102T084500Z
+DTEND:20251103T101500Z
+DTSTART:20251103T084500Z
 SUMMARY:Podstawy ekonomii (3MC) (wykład)
-UID:efcb6f7d-2c3f-4285-b202-26d6302abc6c@efcb.org
+UID:d4ac15c2-9015-46f4-b632-2776852f300f@d4ac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261102T120000Z
-DTSTART:20261102T103000Z
+DTEND:20251103T120000Z
+DTSTART:20251103T103000Z
 SUMMARY:Propedeutyka medycyny (NZME) (wykład)
-UID:cd1e2703-e10f-40a4-8709-874285b0f607@cd1e.org
+UID:b76dd775-8ac6-4a06-ac83-d70fd73706d2@b76d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261102T144500Z
-DTSTART:20261102T131500Z
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251103T151500Z
+DTSTART:20251103T121500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:d8ffdfdf-6e3f-4603-b18f-c6cd38590615@d8ff.org
+UID:bf0869f1-5621-4d53-ab66-7c04645b0519@bf08.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kompetencje efektywnego studiowania (NZB) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261102T163000Z
-DTSTART:20261102T150000Z
-SUMMARY:Kompetencje efektywnego studiowania (NZB) (wykład)
-UID:5b25d6bf-f0a7-436e-bd92-f8c755ad8cde@5b25.org
+DESCRIPTION:Podstawy promocji zdrowia (NZB)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251103T161500Z
+DTSTART:20251103T153000Z
+SUMMARY:Podstawy promocji zdrowia (NZB)
+UID:d2519ec7-0704-4215-893a-0e2bb7689964@d251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251103T191500Z
+DTSTART:20251103T153000Z
+UID:138ee20e-d2e8-456b-aab5-e257d280ba86@138e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251103T190000Z
+DTSTART:20251103T170000Z
+SUMMARY: (wykład)
+UID:2d006e28-151d-4176-9604-75db2203b342@2d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dzień Rektorski\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251110T194500Z
+DTSTART:20251110T070000Z
+SUMMARY:Dzień Rektorski
+UID:06ce9728-e3b5-410e-af97-083a4c844b2a@06ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PODSTAWY EPIDEMIOLOGII (NZC) - wykłady 08:00 - 09:30  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261109T083000Z
-DTSTART:20261109T070000Z
+DTEND:20251117T083000Z
+DTSTART:20251117T070000Z
 SUMMARY:PODSTAWY EPIDEMIOLOGII (NZC) (wykład)
-UID:ce7c1b9d-9362-403d-8d97-ec5dc791ca02@ce7c.org
+UID:3c493785-6846-4fc3-b044-e00b96913bef@3c49.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Podstawy ekonomii (3MC) 09:45 - 11:15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261109T101500Z
-DTSTART:20261109T084500Z
+DTEND:20251117T101500Z
+DTSTART:20251117T084500Z
 SUMMARY:Podstawy ekonomii (3MC) (wykład)
-UID:c778ee2f-4784-4d93-96cd-5e93848e9370@c778.org
+UID:4f297f5a-badf-4f20-b457-fe2100628967@4f29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Propedeutyka medycyny (NZME) 11.30 - 13.00 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261109T120000Z
-DTSTART:20261109T103000Z
+DTEND:20251117T120000Z
+DTSTART:20251117T103000Z
 SUMMARY:Propedeutyka medycyny (NZME) (wykład)
-UID:dfefbdca-bae5-4195-9ecb-520271a2c4ae@dfef.org
+UID:813759af-3f32-4c4f-b65b-0bc5bfe749d3@8137.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261109T144500Z
-DTSTART:20261109T131500Z
+DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład 13.15 - 16.15 wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251117T151500Z
+DTSTART:20251117T121500Z
 SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:31470c22-1897-43e2-9abe-01e57c505d11@3147.org
+UID:3b247cff-f2f7-4cda-8737-0991fd944d7e@3b24.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Kompetencje efektywnego studiowania (NZB) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261109T163000Z
-DTSTART:20261109T150000Z
-SUMMARY:Kompetencje efektywnego studiowania (NZB) (wykład)
-UID:967e8b81-81da-432a-9a47-45bcaffa7034@967e.org
+DESCRIPTION:Podstawy promocji zdrowia (NZB)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251117T161500Z
+DTSTART:20251117T153000Z
+SUMMARY:Podstawy promocji zdrowia (NZB)
+UID:9b8a9bd7-a561-4676-bab3-961dcdadc393@9b8a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Podstawy promocji zdrowia (NZB)  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261116T103000Z
-DTSTART:20261116T070000Z
-SUMMARY:Podstawy promocji zdrowia (NZB) (wykład)
-UID:7085a0b3-852b-44c1-921d-888ef58cbcc7@7085.org
+DESCRIPTION:16.30 - 20.15\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251117T191500Z
+DTSTART:20251117T153000Z
+UID:09a94449-2ac0-4823-bcf0-7978cb09333f@09a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261116T141500Z
-DTSTART:20261116T104500Z
-SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:d917a946-b305-456b-9d2f-813942c4ac15@d917.org
+DESCRIPTION:wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251117T190000Z
+DTSTART:20251117T170000Z
+SUMMARY: (wykład)
+UID:f7d216d1-691a-485f-afe8-e648823fb422@f7d2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka medycyny (NZR) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261116T163000Z
-DTSTART:20261116T150000Z
-SUMMARY:Propedeutyka medycyny (NZR) (wykład)
-UID:a82755f1-f538-4a78-9925-0d1e8b1c32ca@a827.org
+DESCRIPTION:Podstawy Ekonomii SEMINARIA - MsTeams\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a\nWykład odbywa się na platformie MS Teams
+DTEND:20251124T090000Z
+DTSTART:20251124T073000Z
+SUMMARY:Podstawy Ekonomii SEMINARIA MsTeams
+UID:4c747b2b-16a0-4dfa-91b5-a485bb2e1f5c@4c74.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Podstawy promocji zdrowia (NZB)  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261123T103000Z
-DTSTART:20261123T070000Z
-SUMMARY:Podstawy promocji zdrowia (NZB) (wykład)
-UID:d2c7495c-275b-49dc-a99a-e9c2419cc5d2@d2c7.org
+DESCRIPTION:KES (NZC) g. 11.30 - 15.15 ćw. s. 113 blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251215T141500Z
+DTSTART:20251215T103000Z
+SUMMARY:KES (NZC) ćw.
+UID:bc8b68f1-2f75-44f3-8ca0-aa389f492ca2@bc8b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka zdrowia publicznego (NZB) - wykład  wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261123T141500Z
-DTSTART:20261123T104500Z
-SUMMARY:Propedeutyka zdrowia publicznego (NZB) (wykład)
-UID:d19f4285-a0e8-4861-8f6a-ea3a2f5dc3d6@d19f.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251007T091500Z
+DTSTART:20251007T074500Z
+SUMMARY:JA (S1A)
+UID:c03b1ea3-61b6-4069-baba-7f8bf4c35ac3@c03b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Propedeutyka medycyny (NZR) wykłady realizowane za pomocą metod i technik kształcenia na odległość na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261123T171500Z
-DTSTART:20261123T150000Z
-SUMMARY:Propedeutyka medycyny (NZR) (wykład)
-UID:2b31d555-c680-4b06-bd1b-401cd61b848e@2b31.org
+DESCRIPTION:P.eko g. 15:00 - 16:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251007T143000Z
+DTSTART:20251007T130000Z
+SUMMARY:P.eko
+UID:6e1d927a-6b5d-4c8e-b5a2-8408d60ca6dc@6e1d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261006T073000Z
-DTSTART:20261006T060000Z
-SUMMARY:KES (NZB)
-UID:decbe439-752e-48dd-93bb-a60d5d20c30f@decb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261006T091500Z
-DTSTART:20261006T074500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:07ef890d-2504-490e-85a6-0732d55504e1@07ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261006T110000Z
-DTSTART:20261006T093000Z
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251007T161500Z
+DTSTART:20251007T144500Z
 SUMMARY:PM (NZME)
-UID:5e2507a1-5ac2-4fe1-a032-9e4604426873@5e25.org
+UID:8e04b2ab-a96e-4ef3-b39f-6c1318405508@8e04.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261013T073000Z
-DTSTART:20261013T060000Z
-SUMMARY:KES (NZB)
-UID:a68b53eb-7a68-4f68-80d5-7582dbfc642d@a68b.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251007T180000Z
+DTSTART:20251007T163000Z
+SUMMARY:Pe
+UID:6b456691-c25b-4676-a03a-2754aba099aa@6b45.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261013T091500Z
-DTSTART:20261013T074500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:349b48c1-48dc-426b-810e-e79de8850530@349b.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251014T091500Z
+DTSTART:20251014T074500Z
+SUMMARY:JA (S1A)
+UID:014a1282-ba01-47de-8a35-b83e3084fedd@014a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261013T110000Z
-DTSTART:20261013T093000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251014T143000Z
+DTSTART:20251014T130000Z
+SUMMARY:P.eko 1.DE 002 Sala dydaktyczna
+UID:88865a0c-a790-4e8c-b6c2-bef09dd68bcc@8886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251014T161500Z
+DTSTART:20251014T144500Z
 SUMMARY:PM (NZME)
-UID:ece1ad7e-8ae0-4f52-9f3e-1e2fdd2cd806@ece1.org
+UID:306d844a-7772-4330-a824-44ba0f9eeb73@306d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261020T073000Z
-DTSTART:20261020T060000Z
-SUMMARY:KES (NZB)
-UID:f7315f34-fb8c-4c6a-9839-7ef4a99aa566@f731.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251014T180000Z
+DTSTART:20251014T163000Z
+SUMMARY:Pe
+UID:900405d4-243f-455a-99e5-5ec4aea67318@9004.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261020T091500Z
-DTSTART:20261020T074500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:3282059d-68a3-46c0-acfb-10d45206155d@3282.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251021T091500Z
+DTSTART:20251021T074500Z
+SUMMARY:JA (S1A)
+UID:7d50d86e-43c4-4179-ad34-6add32197ca7@7d50.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261020T110000Z
-DTSTART:20261020T093000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251021T143000Z
+DTSTART:20251021T130000Z
+SUMMARY:P.eko 1.DE 002 Sala dydaktyczna
+UID:8534bcff-eaa4-46ba-801f-b1bc4356e6c1@8534.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251021T161500Z
+DTSTART:20251021T144500Z
 SUMMARY:PM (NZME)
-UID:4453516d-a3c9-49a1-8231-ee75c66babd9@4453.org
+UID:539c96a0-875d-4b24-8349-b02a854385e0@539c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261027T083000Z
-DTSTART:20261027T070000Z
-SUMMARY:KES (NZB)
-UID:5b711cb2-5705-43bf-91ca-2eed38236235@5b71.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251021T180000Z
+DTSTART:20251021T163000Z
+SUMMARY:Pe
+UID:116a3550-2eb9-4e6b-9665-4f6908891f9e@116a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261027T101500Z
-DTSTART:20261027T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:feddb27a-e398-4a6a-98bd-38ac3b9e952e@fedd.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 122 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251028T101500Z
+DTSTART:20251028T084500Z
+SUMMARY:JA (S1A)
+UID:163c76a2-1fa3-42c7-8f56-72b0fbbd6f40@163c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261027T120000Z
-DTSTART:20261027T103000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251028T153000Z
+DTSTART:20251028T140000Z
+SUMMARY:P.eko 1.DE 002 Sala dydaktyczna
+UID:3622542c-eec3-41fb-9587-5936af44540d@3622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251028T171500Z
+DTSTART:20251028T154500Z
 SUMMARY:PM (NZME)
-UID:72856b3a-dfe1-4ae3-a68c-25ec424c368d@7285.org
+UID:840f2ada-4f89-405f-9d6e-09202bbcc9d9@840f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261103T083000Z
-DTSTART:20261103T070000Z
-SUMMARY:KES (NZB)
-UID:9b141d35-7a11-4ef1-9109-e1de4776cc2c@9b14.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251028T190000Z
+DTSTART:20251028T173000Z
+SUMMARY:Pe
+UID:97c90f87-fe8e-4f40-896c-1db987af56de@97c9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261103T101500Z
-DTSTART:20261103T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:87518ec2-a3ed-4f3d-9bd2-f778ea949e9c@8751.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 122 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251104T101500Z
+DTSTART:20251104T084500Z
+SUMMARY:JA (S1A)
+UID:f868286a-2fb7-4eff-a649-ce7e1fd17eff@f868.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261103T120000Z
-DTSTART:20261103T103000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251104T153000Z
+DTSTART:20251104T140000Z
+SUMMARY:P.eko 1.DE 002 Sala dydaktyczna
+UID:9842c5bb-b95d-4ffe-b8ab-33fb5f78e35f@9842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251104T171500Z
+DTSTART:20251104T154500Z
 SUMMARY:PM (NZME)
-UID:0f78841c-ce06-48fa-a486-0ded56d131d5@0f78.org
+UID:92cb302f-0691-4489-aa08-e618e2918cdc@92cb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261110T083000Z
-DTSTART:20261110T070000Z
-SUMMARY:KES (NZB)
-UID:fb8c4399-5854-445e-b7ac-bd143e2dfe71@fb8c.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251104T190000Z
+DTSTART:20251104T173000Z
+SUMMARY:Pe
+UID:46f8dbc6-a63b-434e-9e7d-31e1cb559e04@46f8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261110T101500Z
-DTSTART:20261110T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:b8832e72-d69f-41ac-b21b-b50721596403@b883.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251118T101500Z
+DTSTART:20251118T084500Z
+SUMMARY:JA (S1A)
+UID:261d81c3-580d-4d30-95ee-846916f295f1@261d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261110T120000Z
-DTSTART:20261110T103000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 s. 139 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251118T153000Z
+DTSTART:20251118T140000Z
+SUMMARY:P.eko
+UID:d50975d8-2184-4e60-82d0-7c4ada47dd05@d509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251118T171500Z
+DTSTART:20251118T154500Z
 SUMMARY:PM (NZME)
-UID:97157170-9785-47fc-8f9e-da9bebc6f657@9715.org
+UID:b1fd0e76-5491-4da0-aa56-1e0ff89f9401@b1fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261117T083000Z
-DTSTART:20261117T070000Z
-SUMMARY:KES (NZB)
-UID:86d8f42a-4969-4836-ae69-ca5adaa502cc@86d8.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251118T190000Z
+DTSTART:20251118T173000Z
+SUMMARY:Pe
+UID:20098078-5b69-452a-a745-bac5a26c2ec1@2009.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261117T101500Z
-DTSTART:20261117T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:f0d0c098-0ab8-4672-baef-576937c11b13@f0d0.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251125T101500Z
+DTSTART:20251125T084500Z
+SUMMARY:JA (S1A)
+UID:c50d95f1-6eae-465d-a7d9-4ae92f985094@c50d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261117T120000Z
-DTSTART:20261117T103000Z
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251125T171500Z
+DTSTART:20251125T154500Z
 SUMMARY:PM (NZME)
-UID:d1a853ee-9108-4bcb-8c4d-d89eb5aa8bde@d1a8.org
+UID:b033aa19-ea9c-47fa-966b-0fcc12141f78@b033.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261124T083000Z
-DTSTART:20261124T070000Z
-SUMMARY:KES (NZB)
-UID:ce0b00b3-4d60-4bbc-99fc-f505022a9d76@ce0b.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251125T190000Z
+DTSTART:20251125T173000Z
+SUMMARY:Pe
+UID:044b9447-2c14-44de-9923-6e50c5cff7b9@044b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261124T101500Z
-DTSTART:20261124T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:3812417c-3122-48d6-a7cd-7f35c664cb1b@3812.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251202T101500Z
+DTSTART:20251202T084500Z
+SUMMARY:JA (S1A)
+UID:55a9750b-0d06-4bf2-b3d6-eab19c71b03e@55a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261124T120000Z
-DTSTART:20261124T103000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 8 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251202T153000Z
+DTSTART:20251202T140000Z
+SUMMARY:P.eko 8 CBI
+UID:aa620e50-1a16-4470-a542-8791cb72ba62@aa62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251202T171500Z
+DTSTART:20251202T154500Z
 SUMMARY:PM (NZME)
-UID:110a13c6-f82a-4d69-b731-f6d5ebd8005e@110a.org
+UID:76171b83-9d4d-4215-a6f9-f7fea17cecf6@7617.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261201T083000Z
-DTSTART:20261201T070000Z
-SUMMARY:KES (NZB)
-UID:ae07b875-5af5-421b-aedc-d08a6e35eb72@ae07.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251202T190000Z
+DTSTART:20251202T173000Z
+SUMMARY:Pe
+UID:44431127-9cfa-4dcc-a9f0-a36513189487@4443.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261201T101500Z
-DTSTART:20261201T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:53175de7-8a55-4581-a8a0-539d12683655@5317.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251209T101500Z
+DTSTART:20251209T084500Z
+SUMMARY:JA (S1A)
+UID:fe203a0c-90fa-4642-a316-638936b868ef@fe20.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261201T120000Z
-DTSTART:20261201T103000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 1.DE 002 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251209T153000Z
+DTSTART:20251209T140000Z
+SUMMARY:P.eko 1.DE 002 Sala dydaktyczna
+UID:74174bac-dce8-402c-a5b2-860dc28e0a7c@7417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251209T171500Z
+DTSTART:20251209T154500Z
 SUMMARY:PM (NZME)
-UID:8fe90ac3-a0c0-434b-a1c4-43f17359c68c@8fe9.org
+UID:46b91a45-a3b8-4163-ac6b-9defc3998061@46b9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261208T083000Z
-DTSTART:20261208T070000Z
-SUMMARY:KES (NZB)
-UID:c32415d7-561e-459e-b537-e0b552e58f33@c324.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251209T190000Z
+DTSTART:20251209T173000Z
+SUMMARY:Pe
+UID:0cceb485-fe3f-4955-a17d-ccb48697519f@0cce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261208T101500Z
-DTSTART:20261208T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:716bd10b-d470-4cad-980e-4d37e66ef868@716b.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251216T101500Z
+DTSTART:20251216T084500Z
+SUMMARY:JA (S1A)
+UID:4d8103fb-1883-447f-a5ce-4b1da46198a6@4d81.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZME) 11.30 - 13.00  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261208T120000Z
-DTSTART:20261208T103000Z
+DESCRIPTION:P.eko g. 15:00 - 16:30 s. 139 w CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251216T153000Z
+DTSTART:20251216T140000Z
+SUMMARY:P.eko
+UID:711b09f3-75d0-4f16-8130-5d03561112cb@711b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZME) g. 16.45 - 18.15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251216T171500Z
+DTSTART:20251216T154500Z
 SUMMARY:PM (NZME)
-UID:ba7bc288-24e5-4602-8ad5-5c12294f3d51@ba7b.org
+UID:0ba2ddf2-190f-4f19-bf80-c48291e77af6@0ba2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261215T101500Z
-DTSTART:20261215T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:a1b63560-99dc-4642-a3fa-b592c8ebf909@a1b6.org
+DESCRIPTION:Pe g. 18.30 - 20.00 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251216T190000Z
+DTSTART:20251216T173000Z
+SUMMARY:Pe
+UID:897a738a-51ae-4ed7-a4ba-071fbb5bd917@897a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 09:45 - 11:15 s. 126 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260105T101500Z
-DTSTART:20260105T084500Z
-SUMMARY:Podstawy promocji zdrowia
-UID:897ab20d-8f2c-48c3-84b0-0b7526cb5101@897a.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20250113T101500Z
+DTSTART:20250113T084500Z
+SUMMARY:JA (S1A)
+UID:c1e235b8-cac9-45b1-89a9-31549d8d9ad2@c1e2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZC) ćw g. 08.00 - 11.45  s.\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260126T104500Z
-DTSTART:20260126T070000Z
-SUMMARY:KES (NZC) ćw s.
-UID:d0d33d0a-265a-44d7-bd09-98f4fdeaed97@d0d3.org
+DESCRIPTION:P.eko g. 15:00 - 16:30 s. 19 (w ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20250113T153000Z
+DTSTART:20250113T140000Z
+SUMMARY:P.eko
+UID:fd1ce9b8-a112-4c6c-9555-d3203c35dcfc@fd1c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 12.00 - 14.15 ćw. s.\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260126T131500Z
-DTSTART:20260126T110000Z
-SUMMARY:Podstawy promocji zdrowia ćw. s.
-UID:da61bb23-5130-4990-9d60-897dd1420bb2@da61.org
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20250113T171500Z
+DTSTART:20250113T154500Z
+SUMMARY:Pe
+UID:7aa82240-0c3f-4776-99b0-7291d038c034@7aa8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:IMMATRYKULACJA\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261007T184500Z
-DTSTART:20261007T060000Z
-SUMMARY:IMMATRYKULACJA
-UID:957e0cc5-21ff-44a2-9ed7-bed21f2b9bf8@957e.org
+DESCRIPTION:JA (S1A) g. 09:45 - 11:15 s. 123 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20250120T101500Z
+DTSTART:20250120T084500Z
+SUMMARY:JA (S1A)
+UID:fa3101c9-f652-4086-8edf-4529f3fe2936@fa31.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KES (NZC) ćw g. 08.00 - 11.45  s.\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260113T104500Z
-DTSTART:20260113T070000Z
-SUMMARY:KES (NZC) ćw s.
-UID:49977f57-65f6-4261-a408-e48ba39d4f56@4997.org
+DESCRIPTION:P.eko g. 15:00 - 16:30 s. 206 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20250120T153000Z
+DTSTART:20250120T140000Z
+SUMMARY:P.eko
+UID:12f7162f-e815-4eea-99e4-3dc2bf86422c@12f7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PPZ g. 12.00 - 14.15 ćw. s.\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260113T131500Z
-DTSTART:20260113T110000Z
-SUMMARY:Podstawy promocji zdrowia ćw. s.
-UID:8ffab092-edde-422d-92c5-27a5f9c5873e@8ffa.org
+DESCRIPTION:Pe g. 16.45 - 18.15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20250120T171500Z
+DTSTART:20250120T154500Z
+SUMMARY:Pe
+UID:e339c0dd-04bc-47db-ab93-78c77a5a6f4c@e339.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PM (NZR) 08.00 - 11.45 sem. będą prowadzone w salach Zakładu Ratownictwa Medycznego przy ul.Litewskiej 14/16 . Sala znajduje się na drugim piętrze\, a szatnia studencka na -1\, gdzie należy zostawić okrycia wierzchnie i zmienić obuwie\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260120T104500Z
-DTSTART:20260120T070000Z
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251009T091500Z
+DTSTART:20251009T074500Z
+SUMMARY:KES (NZB)
+UID:115f5eb2-a2ef-482e-939c-46984be3c682@115f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ g. 12.00 - 15.00 sem. sala 113\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251009T130000Z
+DTSTART:20251009T100000Z
+SUMMARY:PPZ sem.
+UID:df026798-75e2-4bab-b476-666476f07af5@df02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 15.15 - 18.15 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251009T161500Z
+DTSTART:20251009T131500Z
+SUMMARY:PZP sem.
+UID:a71f1ad6-9bd5-42bd-84d4-a386bc8afaad@a71f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251016T091500Z
+DTSTART:20251016T074500Z
+SUMMARY:KES (NZB)
+UID:ecaebd89-7cd6-474d-8ad2-6249d7698cee@ecae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ g. 12.00 - 15.00 sem. sala 113\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251016T130000Z
+DTSTART:20251016T100000Z
+SUMMARY:PPZ sem.
+UID:e88b8054-4a95-4a2c-800b-1ffbaa30a67c@e88b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 15.15 - 18.15 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251016T161500Z
+DTSTART:20251016T131500Z
+SUMMARY:PZP sem.
+UID:8d7a9e3d-e4ed-47ec-99ee-4e3eec691534@8d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251023T091500Z
+DTSTART:20251023T074500Z
+SUMMARY:KES (NZB)
+UID:7ab433be-5548-4688-be50-498db75d8fa8@7ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PPZ g. 12.00 - 15.00 sem. sala 113\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251023T130000Z
+DTSTART:20251023T100000Z
+SUMMARY:PPZ sem.
+UID:18bf65b1-9e6b-46c6-8fa4-32dccdbb1a92@18bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PZP  g. 15.15 - 18.15 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251023T161500Z
+DTSTART:20251023T131500Z
+SUMMARY:PZP sem.
+UID:fc30f663-203c-47fa-a7c2-1b4bb700ed3f@fc30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251030T101500Z
+DTSTART:20251030T084500Z
+SUMMARY:KES (NZB)
+UID:b61b5c22-f424-423e-9680-e61030377cdb@b61b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PM (NZR) 12.00 - 15.45 sem. będą prowadzone w salach Zakłądu Ratownictwa Medycznego przy ul.Litewskiej 14/16 . Sala znajduje się na drugim piętrze\, a szatnia studencka na -1\, gdzie należy zostawić okrycia wierzchnie i zmienić obuwie\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251030T141500Z
+DTSTART:20251030T103000Z
 SUMMARY:PM (NZR) sem. będą prowadzone w
-UID:1d907397-8a02-465b-9edc-fbe5a9d2bf20@1d90.org
+UID:bd7e4a80-22f4-4794-8300-44a6ce2f6d6d@bd7e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261008T073000Z
-DTSTART:20261008T060000Z
-SUMMARY:Podstawy ekonomii
-UID:20d6e2a4-9aec-46e3-931c-5927433d2d5a@20d6.org
+DESCRIPTION:PZP  g. 16.00 - 19.00 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251030T173000Z
+DTSTART:20251030T143000Z
+SUMMARY:PZP sem.
+UID:7de739d4-763a-4b53-9bcc-0048da340aaa@7de7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261008T091500Z
-DTSTART:20261008T074500Z
-SUMMARY:Podstawy epidemiologii
-UID:3ce03dae-20a6-4117-b255-4072834f4d60@3ce0.org
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251106T101500Z
+DTSTART:20251106T084500Z
+SUMMARY:KES (NZB)
+UID:5bbb9b37-a364-466f-b660-0c35794212c4@5bbb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261008T110000Z
-DTSTART:20261008T093000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:3ab250f3-5759-4039-a12f-1e955ee390d3@3ab2.org
+DESCRIPTION:PPZ g. 12.00 - 15.00 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251106T140000Z
+DTSTART:20251106T110000Z
+SUMMARY:PPZ sem.
+UID:b43cc800-5f52-4091-b566-a7baa7af4a87@b43c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261015T073000Z
-DTSTART:20261015T060000Z
-SUMMARY:Podstawy ekonomii
-UID:c5b2accf-4056-4263-acd2-ad579508845e@c5b2.org
+DESCRIPTION:PZP  g. 15.15 - 18.15 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251106T171500Z
+DTSTART:20251106T141500Z
+SUMMARY:PZP sem.
+UID:4e4a874d-0949-4774-8e3f-86e5a366ba47@4e4a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261015T091500Z
-DTSTART:20261015T074500Z
-SUMMARY:Podstawy epidemiologii
-UID:cec04ecd-8142-47b7-92ca-ff3c0b9441d6@cec0.org
+DESCRIPTION:P.eko\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251106T180000Z
+DTSTART:20251106T173000Z
+SUMMARY:P.eko
+UID:3dc0943c-8465-4783-8a39-191664642d98@3dc0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261015T110000Z
-DTSTART:20261015T093000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:ff7fd0eb-6332-44fc-b53f-d9f21bbd9314@ff7f.org
+DESCRIPTION:g. 18.30 - 20.00\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251106T183000Z
+DTSTART:20251106T180000Z
+UID:eb3cc878-6556-400d-bc34-1f46dfe8b763@eb3c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261022T073000Z
-DTSTART:20261022T060000Z
-SUMMARY:Podstawy ekonomii
-UID:be48fc16-07aa-473a-8dcc-8a68f921be44@be48.org
+DESCRIPTION:s. 210 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251106T190000Z
+DTSTART:20251106T183000Z
+UID:4cd34d07-0bc1-4fb1-95a9-0a67eb01013b@4cd3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261022T091500Z
-DTSTART:20261022T074500Z
-SUMMARY:Podstawy epidemiologii
-UID:66470eb0-9850-43dd-a02e-f954df7478dc@6647.org
+DESCRIPTION:PPZ g. 12.00 - 15.00 sem. s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251113T140000Z
+DTSTART:20251113T110000Z
+SUMMARY:PPZ sem.
+UID:b6e5ad53-850f-4ae8-83f4-9833735e3e71@b6e5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261022T110000Z
-DTSTART:20261022T093000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:a1803060-6ff6-4608-bd67-b42546feb97b@a180.org
+DESCRIPTION:PZP  g. 15.15 - 18.15 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251113T171500Z
+DTSTART:20251113T141500Z
+SUMMARY:PZP sem.
+UID:10ce3583-40ea-4a2e-9461-fb2edcdad300@10ce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261029T083000Z
-DTSTART:20261029T070000Z
-SUMMARY:Podstawy ekonomii
-UID:69a4a502-d817-4408-b18b-de8850a06ac7@69a4.org
+DESCRIPTION:P.eko\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251113T180000Z
+DTSTART:20251113T173000Z
+SUMMARY:P.eko
+UID:e9962e1b-ab80-454e-8a42-370a0f18db9e@e996.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261029T101500Z
-DTSTART:20261029T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:9db6a255-52c8-4701-ac7e-e09f5d737539@9db6.org
+DESCRIPTION:g. 18.30 - 20.00\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251113T183000Z
+DTSTART:20251113T180000Z
+UID:b99233ee-2b50-4af7-80ac-28b1a6ef8f41@b992.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261029T120000Z
-DTSTART:20261029T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:a30cc215-5626-4347-b55b-412846d55d8c@a30c.org
+DESCRIPTION:s. 210 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251113T190000Z
+DTSTART:20251113T183000Z
+UID:475946f9-b3f6-4cb6-ba8b-ad53420cc57c@4759.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261105T083000Z
-DTSTART:20261105T070000Z
-SUMMARY:Podstawy ekonomii
-UID:7adb87ee-6ce2-4741-8be8-ea8b4da0fad0@7adb.org
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251120T101500Z
+DTSTART:20251120T084500Z
+SUMMARY:KES (NZB)
+UID:fc76da50-a9c8-4e5b-816f-6dd6ecc60f20@fc76.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261105T101500Z
-DTSTART:20261105T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:74ce0655-9b3f-410a-9ead-6e9348677432@74ce.org
+DESCRIPTION:PPZ g. 12.00 - 15.00 sem. s. 8 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251120T140000Z
+DTSTART:20251120T110000Z
+SUMMARY:PPZ sem.
+UID:17b7e9e8-fddb-459d-bb21-7fc95e519f05@17b7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261105T120000Z
-DTSTART:20261105T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:8c9b5735-3a43-41fc-896f-bc0ae6d2a5ad@8c9b.org
+DESCRIPTION:PZP  g. 15.15 - 18.15 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251120T171500Z
+DTSTART:20251120T141500Z
+SUMMARY:PZP sem.
+UID:6b92c04e-a543-45a7-a097-baac132855ae@6b92.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261112T083000Z
-DTSTART:20261112T070000Z
-SUMMARY:Podstawy ekonomii
-UID:dc5b691d-c36a-486d-8718-744584b69025@dc5b.org
+DESCRIPTION:P.eko\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251120T180000Z
+DTSTART:20251120T173000Z
+SUMMARY:P.eko
+UID:7fe35e74-4f83-483a-8811-744cb405f074@7fe3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261112T101500Z
-DTSTART:20261112T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:117f9783-ecce-432f-af6d-14c18f9eaa3a@117f.org
+DESCRIPTION:g. 18.30 - 20.00\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251120T183000Z
+DTSTART:20251120T180000Z
+UID:27401581-eca2-4662-9b01-01578d5825dd@2740.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261112T120000Z
-DTSTART:20261112T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:50af4f2d-9f79-4efd-b750-61800a2934b7@50af.org
+DESCRIPTION:s. 210 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251120T190000Z
+DTSTART:20251120T183000Z
+UID:dc797fc6-dd27-48cc-95f9-2fb84fd21b05@dc79.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261119T083000Z
-DTSTART:20261119T070000Z
-SUMMARY:Podstawy ekonomii
-UID:f598dc94-1494-4536-ab67-0943909ef3c4@f598.org
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251127T101500Z
+DTSTART:20251127T084500Z
+SUMMARY:KES (NZB)
+UID:9f97fee4-c108-4055-8956-2135558df9bf@9f97.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261119T101500Z
-DTSTART:20261119T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:91fb6c4e-0ece-4355-b5af-a43f9f89038c@91fb.org
+DESCRIPTION:PZP  11:30 - 13:00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251127T120000Z
+DTSTART:20251127T103000Z
+SUMMARY:PZP
+UID:0c2899ab-5397-4a56-8354-5f098eb316d8@0c28.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261119T120000Z
-DTSTART:20261119T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:e06befa6-c8c3-466e-9c85-5d045be1e91a@e06b.org
+DESCRIPTION:KES NZC [PS]\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251127T194500Z
+DTSTART:20251127T170000Z
+SUMMARY:KES NZC [PS]
+UID:5b914b01-ca20-4706-aa63-ae8546a70747@5b91.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261126T083000Z
-DTSTART:20261126T070000Z
-SUMMARY:Podstawy ekonomii
-UID:a1393023-733e-4af1-81cc-4e26de2c45b9@a139.org
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251204T101500Z
+DTSTART:20251204T084500Z
+SUMMARY:KES (NZB)
+UID:a3a0d11e-dfea-4726-8393-f2d1f4ed9085@a3a0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261126T101500Z
-DTSTART:20261126T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:32c29c1f-6a93-4169-ba35-893a29a71217@32c2.org
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251211T101500Z
+DTSTART:20251211T084500Z
+SUMMARY:KES (NZB)
+UID:41b00788-2697-46bc-9bc9-71ab63e02fdc@41b0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261126T120000Z
-DTSTART:20261126T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:6a2ff607-4412-4e72-9e2a-f85d07ca3b56@6a2f.org
+DESCRIPTION:KES NZC [FR]\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251211T194500Z
+DTSTART:20251211T170000Z
+SUMMARY:KES NZC [FR]
+UID:0da73434-cc3b-4a34-9b33-ecd39218368c@0da7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261203T083000Z
-DTSTART:20261203T070000Z
-SUMMARY:Podstawy ekonomii
-UID:164200f4-22b3-4152-a631-44ff8653aab9@1642.org
+DESCRIPTION:KES (NZB) 09:45 - 11:15 s. 7 niski parter\, Pwińskiego 3c\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251218T101500Z
+DTSTART:20251218T084500Z
+SUMMARY:KES (NZB)
+UID:84a06e56-6074-423a-8f18-27525a85a174@84a0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261203T101500Z
-DTSTART:20261203T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:b0196d05-f33c-4a8c-8a63-c4e02e3107b5@b019.org
+DESCRIPTION:KES (NZC) g. 12.45 - 16.30 ćw. s. 6 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251218T161500Z
+DTSTART:20251218T114500Z
+SUMMARY:KES (NZC) ćw.
+UID:bc94235e-f597-4704-820b-c4f0f5e085f4@bc94.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261203T120000Z
-DTSTART:20261203T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:52fb96cb-5d8c-49ef-b6f6-03b4a14d95b8@52fb.org
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251128T173000Z
+DTSTART:20251128T170000Z
+SUMMARY:PPZ
+UID:86c3b120-3ffd-42ff-ab8a-988ceccedc96@86c3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261210T083000Z
-DTSTART:20261210T070000Z
-SUMMARY:Podstawy ekonomii
-UID:f745cead-097b-486c-9d6a-8f8246deb9fa@f745.org
+DESCRIPTION:18.00 - 20.15\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251128T191500Z
+DTSTART:20251128T170000Z
+UID:73c8ed84-7cd9-4d70-bea3-0d3ca9ee0ff9@73c8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261210T101500Z
-DTSTART:20261210T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:645ae537-55fb-4534-9058-c9b6c823a74e@645a.org
+DESCRIPTION:ćw.\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251128T184500Z
+DTSTART:20251128T181500Z
+SUMMARY:ćw.
+UID:bec06e56-c6ee-4641-a265-91d51df659cf@bec0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261210T120000Z
-DTSTART:20261210T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:71fe3bdf-653a-452d-950f-e27fccfc99ac@71fe.org
+DESCRIPTION:sala 125 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251128T194500Z
+DTSTART:20251128T184500Z
+UID:becd97f4-c700-41c3-afc2-cee0473f3a11@becd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261217T083000Z
-DTSTART:20261217T070000Z
-SUMMARY:Podstawy ekonomii
-UID:a3a53ecf-f7c3-429e-acee-ae7d8bed9f4e@a3a5.org
+DESCRIPTION:PPZ\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251205T173000Z
+DTSTART:20251205T170000Z
+SUMMARY:PPZ
+UID:8c1b125f-af77-44c2-adda-6dac61b2c3fe@8c1b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261217T101500Z
-DTSTART:20261217T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:ba2cc2d8-9e2b-4d20-9989-2eef3f7b9744@ba2c.org
+DESCRIPTION:18.00 - 20.15\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251205T191500Z
+DTSTART:20251205T170000Z
+UID:48362275-5ba0-4aba-84d7-b725e4263900@4836.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20261217T120000Z
-DTSTART:20261217T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:99c5db09-1a01-4a49-b15d-d1db1600cc89@99c5.org
+DESCRIPTION:ćw.\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251205T184500Z
+DTSTART:20251205T181500Z
+SUMMARY:ćw.
+UID:d1feaabf-cc89-48a8-90e9-40a4e01eb6a3@d1fe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260107T083000Z
-DTSTART:20260107T070000Z
-SUMMARY:Podstawy ekonomii
-UID:7aa90501-d35d-4858-829f-865e093fa353@7aa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260107T101500Z
-DTSTART:20260107T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:6384eeed-6b6c-4216-a318-7d20f65c0618@6384.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260107T120000Z
-DTSTART:20260107T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:99a5caa1-ebdc-4ccc-9204-ff8b88e18b51@99a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260114T083000Z
-DTSTART:20260114T070000Z
-SUMMARY:Podstawy ekonomii
-UID:6a4761a7-0164-4777-9218-a6865c0bc4bf@6a47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260114T101500Z
-DTSTART:20260114T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:02862e01-7e47-483c-9000-8bd846aa130d@0286.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260114T120000Z
-DTSTART:20260114T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:2c88109b-1d76-4546-8422-875286323ab1@2c88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260121T083000Z
-DTSTART:20260121T070000Z
-SUMMARY:Podstawy ekonomii
-UID:337e4166-ef3d-4f7d-b333-c49c559496f4@337e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260121T101500Z
-DTSTART:20260121T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:1f0eaad3-5153-4794-9122-26c33245f1f3@1f0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260121T120000Z
-DTSTART:20260121T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:cf247cd5-d20b-4080-b191-a5b1c35d554d@cf24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:P.eko g. 08:00 - 09:30 s. 221 CD\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260128T083000Z
-DTSTART:20260128T070000Z
-SUMMARY:Podstawy ekonomii
-UID:b1808689-4c9a-4ad8-9431-9fa341a69c95@b180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pe g. 09:45 - 11:15 s. 121\, blok F\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260128T101500Z
-DTSTART:20260128T084500Z
-SUMMARY:Podstawy epidemiologii
-UID:3b55b61f-0c95-4c66-beee-2b7482e28c5c@3b55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PZP  11.30 - 13.00 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
-DTEND:20260128T120000Z
-DTSTART:20260128T103000Z
-SUMMARY:Propedeutyka zdrowia publicznego
-UID:d09b9d30-e225-4362-8286-41a50741295e@d09b.org
+DESCRIPTION:sala 125 CBI\n\n\nGrupa seminaryjna: gr\, 5\nGrupa wykładowa: 5a
+DTEND:20251205T194500Z
+DTSTART:20251205T184500Z
+UID:63441ff6-0feb-4c48-a6ef-2295e07bf0f4@6344.org
 END:VEVENT
 END:VCALENDAR
