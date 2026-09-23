@@ -1,19 +1,19 @@
 [
   {
-    "title": "Dzie\u0144 Rektorski",
+    "title": "INAUGURACJA ROKU AKADEMICKIEGO 2026/2027",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-06T08:00:00+02:00",
-    "end_date": "2025-10-06T20:45:00+02:00",
-    "description": "Dzie\u0144 Rektorski\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-05T08:00:00+02:00",
+    "end_date": "2026-10-05T20:45:00+02:00",
+    "description": "INAUGURACJA ROKU AKADEMICKIEGO 2026/2027\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": null
   },
   {
     "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-13T08:00:00+02:00",
-    "end_date": "2025-10-13T09:30:00+02:00",
+    "start_date": "2026-10-12T08:00:00+02:00",
+    "end_date": "2026-10-12T09:30:00+02:00",
     "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 128 0"
   },
@@ -21,8 +21,8 @@
     "title": "Podstawy ekonomii (3MC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-13T09:45:00+02:00",
-    "end_date": "2025-10-13T11:15:00+02:00",
+    "start_date": "2026-10-12T09:45:00+02:00",
+    "end_date": "2026-10-12T11:15:00+02:00",
     "description": "Podstawy ekonomii (3MC) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 0 255"
   },
@@ -30,62 +30,35 @@
     "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-13T11:30:00+02:00",
-    "end_date": "2025-10-13T13:00:00+02:00",
+    "start_date": "2026-10-12T11:30:00+02:00",
+    "end_date": "2026-10-12T13:00:00+02:00",
     "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 204 255"
-  },
-  {
-    "title": "Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim MsTeams",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-13T13:15:00+02:00",
-    "end_date": "2025-10-13T15:00:00+02:00",
-    "description": "Spotkanie Organizacyjne z Prodziekanem dr hab. Filipem Raciborskim - MsTeams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "0 0 0"
   },
   {
     "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-13T15:00:00+02:00",
-    "end_date": "2025-10-13T16:15:00+02:00",
+    "start_date": "2026-10-12T14:15:00+02:00",
+    "end_date": "2026-10-12T15:45:00+02:00",
     "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 204 0"
   },
   {
-    "title": "Propedeutyka medycyny (NZR)",
+    "title": "Kompetencje efektywnego studiowania (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-13T16:30:00+02:00",
-    "end_date": "2025-10-13T17:15:00+02:00",
-    "description": "Propedeutyka medycyny (NZR)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "51 204 204"
-  },
-  {
-    "title": "",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-13T16:30:00+02:00",
-    "end_date": "2025-10-13T20:15:00+02:00",
-    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "51 204 204"
-  },
-  {
-    "title": " (wyk\u0142ad)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-13T18:00:00+02:00",
-    "end_date": "2025-10-13T20:00:00+02:00",
-    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "51 204 204"
+    "start_date": "2026-10-12T16:00:00+02:00",
+    "end_date": "2026-10-12T17:30:00+02:00",
+    "description": "Kompetencje efektywnego studiowania (NZB) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
   },
   {
     "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-20T08:00:00+02:00",
-    "end_date": "2025-10-20T09:30:00+02:00",
+    "start_date": "2026-10-19T08:00:00+02:00",
+    "end_date": "2026-10-19T09:30:00+02:00",
     "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 128 0"
   },
@@ -93,8 +66,8 @@
     "title": "Podstawy ekonomii (3MC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-20T09:45:00+02:00",
-    "end_date": "2025-10-20T11:15:00+02:00",
+    "start_date": "2026-10-19T09:45:00+02:00",
+    "end_date": "2026-10-19T11:15:00+02:00",
     "description": "Podstawy ekonomii (3MC) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 0 255"
   },
@@ -102,8 +75,8 @@
     "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-20T11:30:00+02:00",
-    "end_date": "2025-10-20T13:00:00+02:00",
+    "start_date": "2026-10-19T11:30:00+02:00",
+    "end_date": "2026-10-19T13:00:00+02:00",
     "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 204 255"
   },
@@ -111,35 +84,26 @@
     "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-20T13:15:00+02:00",
-    "end_date": "2025-10-20T16:15:00+02:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-19T14:15:00+02:00",
+    "end_date": "2026-10-19T15:45:00+02:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 204 0"
   },
   {
-    "title": "Kompetencje efektywnego studiowania (NZB)",
+    "title": "Kompetencje efektywnego studiowania (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-20T16:30:00+02:00",
-    "end_date": "2025-10-20T17:15:00+02:00",
-    "description": "Kompetencje efektywnego studiowania (NZB)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "zamieszczony na platformie E learningowej (wed\u0142ug wskaza\u0144 nauczyciela) (wyk\u0142ad)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-20T18:00:00+02:00",
-    "end_date": "2025-10-20T20:00:00+02:00",
-    "description": "wyk\u0142ad zamieszczony na platformie - E - learningowej (wed\u0142ug wskaza\u0144 nauczyciela)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
+    "start_date": "2026-10-19T16:00:00+02:00",
+    "end_date": "2026-10-19T17:30:00+02:00",
+    "description": "Kompetencje efektywnego studiowania (NZB) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
   },
   {
     "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-27T08:00:00+01:00",
-    "end_date": "2025-10-27T09:30:00+01:00",
+    "start_date": "2026-10-26T08:00:00+01:00",
+    "end_date": "2026-10-26T09:30:00+01:00",
     "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 128 0"
   },
@@ -147,8 +111,8 @@
     "title": "Podstawy ekonomii (3MC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-27T09:45:00+01:00",
-    "end_date": "2025-10-27T11:15:00+01:00",
+    "start_date": "2026-10-26T09:45:00+01:00",
+    "end_date": "2026-10-26T11:15:00+01:00",
     "description": "Podstawy ekonomii (3MC) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 0 255"
   },
@@ -156,8 +120,8 @@
     "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-27T11:30:00+01:00",
-    "end_date": "2025-10-27T13:00:00+01:00",
+    "start_date": "2026-10-26T11:30:00+01:00",
+    "end_date": "2026-10-26T13:00:00+01:00",
     "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 204 255"
   },
@@ -165,44 +129,26 @@
     "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-27T13:15:00+01:00",
-    "end_date": "2025-10-27T16:15:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-26T14:15:00+01:00",
+    "end_date": "2026-10-26T15:45:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 204 0"
   },
   {
-    "title": "Kompetencje efektywnego studiowania (NZC)",
+    "title": "Kompetencje efektywnego studiowania (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-27T16:30:00+01:00",
-    "end_date": "2025-10-27T17:15:00+01:00",
-    "description": "Kompetencje efektywnego studiowania (NZC)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 255 0"
-  },
-  {
-    "title": "",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-27T16:30:00+01:00",
-    "end_date": "2025-10-27T20:15:00+01:00",
-    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 255 0"
-  },
-  {
-    "title": "zamieszczony na platformie E learningowej (wed\u0142ug wskaza\u0144 nauczyciela) (wyk\u0142ad)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-27T18:00:00+01:00",
-    "end_date": "2025-10-27T20:00:00+01:00",
-    "description": "wyk\u0142ad zamieszczony na platformie - E - learningowej (wed\u0142ug wskaza\u0144 nauczyciela)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 255 0"
+    "start_date": "2026-10-26T16:00:00+01:00",
+    "end_date": "2026-10-26T17:30:00+01:00",
+    "description": "Kompetencje efektywnego studiowania (NZB) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
   },
   {
     "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T08:00:00+01:00",
-    "end_date": "2025-11-03T09:30:00+01:00",
+    "start_date": "2026-11-02T08:00:00+01:00",
+    "end_date": "2026-11-02T09:30:00+01:00",
     "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 128 0"
   },
@@ -210,8 +156,8 @@
     "title": "Podstawy ekonomii (3MC) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T09:45:00+01:00",
-    "end_date": "2025-11-03T11:15:00+01:00",
+    "start_date": "2026-11-02T09:45:00+01:00",
+    "end_date": "2026-11-02T11:15:00+01:00",
     "description": "Podstawy ekonomii (3MC) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 0 255"
   },
@@ -219,8 +165,8 @@
     "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T11:30:00+01:00",
-    "end_date": "2025-11-03T13:00:00+01:00",
+    "start_date": "2026-11-02T11:30:00+01:00",
+    "end_date": "2026-11-02T13:00:00+01:00",
     "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "0 204 255"
   },
@@ -228,819 +174,864 @@
     "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T13:15:00+01:00",
-    "end_date": "2025-11-03T16:15:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-11-02T14:15:00+01:00",
+    "end_date": "2026-11-02T15:45:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "255 204 0"
   },
   {
-    "title": "Podstawy promocji zdrowia (NZB)",
+    "title": "Kompetencje efektywnego studiowania (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T16:30:00+01:00",
-    "end_date": "2025-11-03T17:15:00+01:00",
-    "description": "Podstawy promocji zdrowia (NZB)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-11-02T16:00:00+01:00",
+    "end_date": "2026-11-02T17:30:00+01:00",
+    "description": "Kompetencje efektywnego studiowania (NZB) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
+  },
+  {
+    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-09T08:00:00+01:00",
+    "end_date": "2026-11-09T09:30:00+01:00",
+    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Podstawy ekonomii (3MC) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-09T09:45:00+01:00",
+    "end_date": "2026-11-09T11:15:00+01:00",
+    "description": "Podstawy ekonomii (3MC) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 0 255"
+  },
+  {
+    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-09T11:30:00+01:00",
+    "end_date": "2026-11-09T13:00:00+01:00",
+    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-09T14:15:00+01:00",
+    "end_date": "2026-11-09T15:45:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Kompetencje efektywnego studiowania (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-09T16:00:00+01:00",
+    "end_date": "2026-11-09T17:30:00+01:00",
+    "description": "Kompetencje efektywnego studiowania (NZB) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
+  },
+  {
+    "title": "Podstawy promocji zdrowia (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-16T08:00:00+01:00",
+    "end_date": "2026-11-16T11:30:00+01:00",
+    "description": "Podstawy promocji zdrowia (NZB)  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "",
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T16:30:00+01:00",
-    "end_date": "2025-11-03T20:15:00+01:00",
-    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-11-16T11:45:00+01:00",
+    "end_date": "2026-11-16T15:15:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Propedeutyka medycyny (NZR) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-16T16:00:00+01:00",
+    "end_date": "2026-11-16T17:30:00+01:00",
+    "description": "Propedeutyka medycyny (NZR) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "51 204 204"
+  },
+  {
+    "title": "Podstawy promocji zdrowia (NZB) (wyk\u0142ad)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-23T08:00:00+01:00",
+    "end_date": "2026-11-23T11:30:00+01:00",
+    "description": "Podstawy promocji zdrowia (NZB)  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": " (wyk\u0142ad)",
+    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-03T18:00:00+01:00",
-    "end_date": "2025-11-03T20:00:00+01:00",
-    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "128 0 128"
+    "start_date": "2026-11-23T11:45:00+01:00",
+    "end_date": "2026-11-23T15:15:00+01:00",
+    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
   },
   {
-    "title": "Dzie\u0144 Rektorski",
+    "title": "Propedeutyka medycyny (NZR) (wyk\u0142ad)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-10T08:00:00+01:00",
-    "end_date": "2025-11-10T20:45:00+01:00",
-    "description": "Dzie\u0144 Rektorski\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-11-23T16:00:00+01:00",
+    "end_date": "2026-11-23T18:15:00+01:00",
+    "description": "Propedeutyka medycyny (NZR) wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "51 204 204"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-06T08:00:00+02:00",
+    "end_date": "2026-10-06T09:30:00+02:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-06T09:45:00+02:00",
+    "end_date": "2026-10-06T11:15:00+02:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-06T11:30:00+02:00",
+    "end_date": "2026-10-06T13:00:00+02:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-13T08:00:00+02:00",
+    "end_date": "2026-10-13T09:30:00+02:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-13T09:45:00+02:00",
+    "end_date": "2026-10-13T11:15:00+02:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-13T11:30:00+02:00",
+    "end_date": "2026-10-13T13:00:00+02:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-20T08:00:00+02:00",
+    "end_date": "2026-10-20T09:30:00+02:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-20T09:45:00+02:00",
+    "end_date": "2026-10-20T11:15:00+02:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-20T11:30:00+02:00",
+    "end_date": "2026-10-20T13:00:00+02:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-27T08:00:00+01:00",
+    "end_date": "2026-10-27T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-27T09:45:00+01:00",
+    "end_date": "2026-10-27T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-27T11:30:00+01:00",
+    "end_date": "2026-10-27T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-03T08:00:00+01:00",
+    "end_date": "2026-11-03T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-03T09:45:00+01:00",
+    "end_date": "2026-11-03T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-03T11:30:00+01:00",
+    "end_date": "2026-11-03T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-10T08:00:00+01:00",
+    "end_date": "2026-11-10T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-10T09:45:00+01:00",
+    "end_date": "2026-11-10T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-10T11:30:00+01:00",
+    "end_date": "2026-11-10T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-17T08:00:00+01:00",
+    "end_date": "2026-11-17T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-17T09:45:00+01:00",
+    "end_date": "2026-11-17T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-17T11:30:00+01:00",
+    "end_date": "2026-11-17T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-24T08:00:00+01:00",
+    "end_date": "2026-11-24T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-24T09:45:00+01:00",
+    "end_date": "2026-11-24T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-24T11:30:00+01:00",
+    "end_date": "2026-11-24T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-01T08:00:00+01:00",
+    "end_date": "2026-12-01T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-01T09:45:00+01:00",
+    "end_date": "2026-12-01T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-01T11:30:00+01:00",
+    "end_date": "2026-12-01T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-08T08:00:00+01:00",
+    "end_date": "2026-12-08T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-08T09:45:00+01:00",
+    "end_date": "2026-12-08T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-08T11:30:00+01:00",
+    "end_date": "2026-12-08T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-15T08:00:00+01:00",
+    "end_date": "2026-12-15T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-15T09:45:00+01:00",
+    "end_date": "2026-12-15T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-15T11:30:00+01:00",
+    "end_date": "2026-12-15T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-05T08:00:00+01:00",
+    "end_date": "2026-01-05T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-05T09:45:00+01:00",
+    "end_date": "2026-01-05T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-05T11:30:00+01:00",
+    "end_date": "2026-01-05T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-12T08:00:00+01:00",
+    "end_date": "2026-01-12T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-12T09:45:00+01:00",
+    "end_date": "2026-01-12T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-12T11:30:00+01:00",
+    "end_date": "2026-01-12T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-19T08:00:00+01:00",
+    "end_date": "2026-01-19T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-19T09:45:00+01:00",
+    "end_date": "2026-01-19T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-19T11:30:00+01:00",
+    "end_date": "2026-01-19T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "Podstawy epidemiologii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-26T08:00:00+01:00",
+    "end_date": "2026-01-26T09:30:00+01:00",
+    "description": "Pe g. 08:00 - 09:30 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 128 0"
+  },
+  {
+    "title": "Propedeutyka zdrowia publicznego",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-26T09:45:00+01:00",
+    "end_date": "2026-01-26T11:15:00+01:00",
+    "description": "PZP  g. 09:45 - 11:15 sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "255 204 0"
+  },
+  {
+    "title": "Podstawy ekonomii",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-26T11:30:00+01:00",
+    "end_date": "2026-01-26T13:00:00+01:00",
+    "description": "P.eko 11.30 - 13.00 s. 221 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "204 153 255"
+  },
+  {
+    "title": "IMMATRYKULACJA",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-10-07T08:00:00+02:00",
+    "end_date": "2026-10-07T20:45:00+02:00",
+    "description": "IMMATRYKULACJA\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": null
   },
   {
-    "title": "PODSTAWY EPIDEMIOLOGII (NZC) (wyk\u0142ad)",
+    "title": "KES (NZB) \u0107w s.",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-17T08:00:00+01:00",
-    "end_date": "2025-11-17T09:30:00+01:00",
-    "description": "PODSTAWY EPIDEMIOLOGII (NZC) - wyk\u0142ady 08:00 - 09:30  wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
+    "start_date": "2026-12-09T08:00:00+01:00",
+    "end_date": "2026-12-09T11:45:00+01:00",
+    "description": "KES (NZB) \u0107w g. 08.00 - 11.45  s.\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
   },
   {
-    "title": "Podstawy ekonomii (3MC) (wyk\u0142ad)",
+    "title": "Podstawy promocji zdrowia \u0107w. s.",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-17T09:45:00+01:00",
-    "end_date": "2025-11-17T11:15:00+01:00",
-    "description": "Podstawy ekonomii (3MC) 09:45 - 11:15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 0 255"
-  },
-  {
-    "title": "Propedeutyka medycyny (NZME) (wyk\u0142ad)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-17T11:30:00+01:00",
-    "end_date": "2025-11-17T13:00:00+01:00",
-    "description": "Propedeutyka medycyny (NZME) 11.30 - 13.00 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (10 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "Propedeutyka zdrowia publicznego (NZB) (wyk\u0142ad)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-17T13:15:00+01:00",
-    "end_date": "2025-11-17T16:15:00+01:00",
-    "description": "Propedeutyka zdrowia publicznego (NZB) - wyk\u0142ad 13.15 - 16.15 wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (20 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
-  },
-  {
-    "title": "Podstawy promocji zdrowia (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-17T16:30:00+01:00",
-    "end_date": "2025-11-17T17:15:00+01:00",
-    "description": "Podstawy promocji zdrowia (NZB)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-12-09T12:00:00+01:00",
+    "end_date": "2026-12-09T14:15:00+01:00",
+    "description": "PPZ g. 12.00 - 14.15 \u0107w. s.\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
-  },
-  {
-    "title": "",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-17T16:30:00+01:00",
-    "end_date": "2025-11-17T20:15:00+01:00",
-    "description": "16.30 - 20.15\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "128 0 128"
-  },
-  {
-    "title": " (wyk\u0142ad)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-17T18:00:00+01:00",
-    "end_date": "2025-11-17T20:00:00+01:00",
-    "description": "wyk\u0142ady realizowane za pomoc\u0105 metod i technik kszta\u0142cenia na odleg\u0142o\u015b\u0107 na MsTeamas w czasie rzeczywistym (5 godzin)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "128 0 128"
-  },
-  {
-    "title": "Podstawy Ekonomii SEMINARIA MsTeams",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-24T08:30:00+01:00",
-    "end_date": "2025-11-24T10:00:00+01:00",
-    "description": "Podstawy Ekonomii SEMINARIA - MsTeams\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a\nWyk\u0142ad odbywa si\u0119 na platformie MS Teams",
-    "color": "204 153 255"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-07T08:00:00+02:00",
-    "end_date": "2025-10-07T09:30:00+02:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-07T09:45:00+02:00",
-    "end_date": "2025-10-07T11:15:00+02:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko 206 CBI",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-07T11:30:00+02:00",
-    "end_date": "2025-10-07T13:00:00+02:00",
-    "description": "P.eko g. 11:30 - 13:00 206 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-07T13:15:00+02:00",
-    "end_date": "2025-10-07T14:45:00+02:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-14T08:00:00+02:00",
-    "end_date": "2025-10-14T09:30:00+02:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-14T09:45:00+02:00",
-    "end_date": "2025-10-14T11:15:00+02:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-14T11:30:00+02:00",
-    "end_date": "2025-10-14T13:00:00+02:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 124 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-14T13:15:00+02:00",
-    "end_date": "2025-10-14T14:45:00+02:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-21T08:00:00+02:00",
-    "end_date": "2025-10-21T09:30:00+02:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-21T09:45:00+02:00",
-    "end_date": "2025-10-21T11:15:00+02:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-21T11:30:00+02:00",
-    "end_date": "2025-10-21T13:00:00+02:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 124 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-21T13:15:00+02:00",
-    "end_date": "2025-10-21T14:45:00+02:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-28T08:00:00+01:00",
-    "end_date": "2025-10-28T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-28T09:45:00+01:00",
-    "end_date": "2025-10-28T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-28T11:30:00+01:00",
-    "end_date": "2025-10-28T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 210 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-28T13:15:00+01:00",
-    "end_date": "2025-10-28T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-04T08:00:00+01:00",
-    "end_date": "2025-11-04T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-04T09:45:00+01:00",
-    "end_date": "2025-11-04T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-04T11:30:00+01:00",
-    "end_date": "2025-11-04T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 210 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-04T13:15:00+01:00",
-    "end_date": "2025-11-04T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-18T08:00:00+01:00",
-    "end_date": "2025-11-18T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-18T09:45:00+01:00",
-    "end_date": "2025-11-18T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-18T11:30:00+01:00",
-    "end_date": "2025-11-18T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 210 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-18T13:15:00+01:00",
-    "end_date": "2025-11-18T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-25T08:00:00+01:00",
-    "end_date": "2025-11-25T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-25T09:45:00+01:00",
-    "end_date": "2025-11-25T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-25T13:15:00+01:00",
-    "end_date": "2025-11-25T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-02T08:00:00+01:00",
-    "end_date": "2025-12-02T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-02T09:45:00+01:00",
-    "end_date": "2025-12-02T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-02T11:30:00+01:00",
-    "end_date": "2025-12-02T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 125 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-02T13:15:00+01:00",
-    "end_date": "2025-12-02T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-09T08:00:00+01:00",
-    "end_date": "2025-12-09T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-09T09:45:00+01:00",
-    "end_date": "2025-12-09T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-09T11:30:00+01:00",
-    "end_date": "2025-12-09T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 128 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-09T13:15:00+01:00",
-    "end_date": "2025-12-09T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "KES (NZB)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-16T08:00:00+01:00",
-    "end_date": "2025-12-16T09:30:00+01:00",
-    "description": "KES (NZB) g. 08:00 - 09:30 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "192 192 192"
-  },
-  {
-    "title": "PM (NZME)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-16T09:45:00+01:00",
-    "end_date": "2025-12-16T11:15:00+01:00",
-    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 204 255"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-16T11:30:00+01:00",
-    "end_date": "2025-12-16T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 128 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-16T13:15:00+01:00",
-    "end_date": "2025-12-16T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-01-13T11:30:00+01:00",
-    "end_date": "2025-01-13T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 19 (w ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-01-13T13:15:00+01:00",
-    "end_date": "2025-01-13T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "P.eko",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-01-20T11:30:00+01:00",
-    "end_date": "2025-01-20T13:00:00+01:00",
-    "description": "P.eko g. 11:30 - 13:00 s. 206 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "Pe",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-01-20T13:15:00+01:00",
-    "end_date": "2025-01-20T14:45:00+01:00",
-    "description": "Pe 13.15 - 14.45 s. 121, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "0 128 0"
-  },
-  {
-    "title": "PZP sem.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-09T08:45:00+02:00",
-    "end_date": "2025-10-09T11:45:00+02:00",
-    "description": "PZP  g. 08:45 - 11:45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PPZ sem.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-09T15:15:00+02:00",
-    "end_date": "2025-10-09T18:15:00+02:00",
-    "description": "PPZ g. 15.15 - 18.15 sem. sala 113, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "128 0 128"
-  },
-  {
-    "title": "PZP sem.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-16T08:45:00+02:00",
-    "end_date": "2025-10-16T11:45:00+02:00",
-    "description": "PZP  g. 08:45 - 11:45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
   },
   {
     "title": "PM (NZR) sem. b\u0119d\u0105 prowadzone w",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-16T12:30:00+02:00",
-    "end_date": "2025-10-16T16:30:00+02:00",
-    "description": "PM (NZR) 12.30 - 16.30 sem. b\u0119d\u0105 prowadzone w salach Zak\u0142\u0105du Ratownictwa Medycznego przy ul.Litewskiej 14/16 . Sala znajduje si\u0119 na drugim pi\u0119trze, a szatnia studencka na -1, gdzie nale\u017cy zostawi\u0107 okrycia wierzchnie i zmieni\u0107 obuwie\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-12-16T08:00:00+01:00",
+    "end_date": "2026-12-16T11:45:00+01:00",
+    "description": "PM (NZR) 08.00 - 11.45 sem. b\u0119d\u0105 prowadzone w salach Zak\u0142adu Ratownictwa Medycznego przy ul.Litewskiej 14/16 . Sala znajduje si\u0119 na drugim pi\u0119trze, a szatnia studencka na -1, gdzie nale\u017cy zostawi\u0107 okrycia wierzchnie i zmieni\u0107 obuwie\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "51 204 204"
   },
   {
-    "title": "PZP sem.",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-23T08:45:00+02:00",
-    "end_date": "2025-10-23T11:45:00+02:00",
-    "description": "PZP  g. 08:45 - 11:45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PPZ sem.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-10-23T15:15:00+02:00",
-    "end_date": "2025-10-23T18:15:00+02:00",
-    "description": "PPZ g. 15.15 - 18.15 sem. sala 113, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-08T08:00:00+02:00",
+    "end_date": "2026-10-08T09:30:00+02:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "PZP sem.",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-30T09:00:00+01:00",
-    "end_date": "2025-10-30T12:00:00+01:00",
-    "description": "PZP  g. 09.30 - 12.30 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
+    "start_date": "2026-10-08T09:45:00+02:00",
+    "end_date": "2026-10-08T11:15:00+02:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "PZP sem.",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-06T08:45:00+01:00",
-    "end_date": "2025-11-06T11:45:00+01:00",
-    "description": "PZP  g. 08:45 - 11:45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
+    "start_date": "2026-10-08T11:30:00+02:00",
+    "end_date": "2026-10-08T13:00:00+02:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "P.eko",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-06T13:15:00+01:00",
-    "end_date": "2025-11-06T14:45:00+01:00",
-    "description": "P.eko g. 13.15 - 14.45 s. 212 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
-  },
-  {
-    "title": "PPZ sem.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-06T15:15:00+01:00",
-    "end_date": "2025-11-06T18:15:00+01:00",
-    "description": "PPZ g. 15.15 - 18.15 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-15T08:00:00+02:00",
+    "end_date": "2026-10-15T09:30:00+02:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "PZP sem.",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-13T08:45:00+01:00",
-    "end_date": "2025-11-13T11:45:00+01:00",
-    "description": "PZP  g. 08:45 - 11:45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
+    "start_date": "2026-10-15T09:45:00+02:00",
+    "end_date": "2026-10-15T11:15:00+02:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-13T13:15:00+01:00",
-    "end_date": "2025-11-13T14:45:00+01:00",
-    "description": "P.eko g. 13.15 - 14.45 s. 212 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
+    "start_date": "2026-10-15T11:30:00+02:00",
+    "end_date": "2026-10-15T13:00:00+02:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "PPZ sem.",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-13T15:15:00+01:00",
-    "end_date": "2025-11-13T18:15:00+01:00",
-    "description": "PPZ g. 15.15 - 18.15 sem. sala 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-22T08:00:00+02:00",
+    "end_date": "2026-10-22T09:30:00+02:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "PZP sem.",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-20T08:45:00+01:00",
-    "end_date": "2025-11-20T11:45:00+01:00",
-    "description": "PZP  g. 08:45 - 11:45 sem. sala 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
+    "start_date": "2026-10-22T09:45:00+02:00",
+    "end_date": "2026-10-22T11:15:00+02:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "P.eko",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-20T13:15:00+01:00",
-    "end_date": "2025-11-20T14:45:00+01:00",
-    "description": "P.eko g. 13.15 - 14.45 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "204 153 255"
+    "start_date": "2026-10-22T11:30:00+02:00",
+    "end_date": "2026-10-22T13:00:00+02:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "PPZ sem.",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-20T15:15:00+01:00",
-    "end_date": "2025-11-20T18:15:00+01:00",
-    "description": "PPZ g. 15.15 - 18.15 sem. sala 8 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-29T08:00:00+01:00",
+    "end_date": "2026-10-29T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "KES (NZC) \u0107w.",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-12-04T12:45:00+01:00",
-    "end_date": "2025-12-04T17:15:00+01:00",
-    "description": "KES (NZC) g. 12.45 - 16.30 \u0107w. s. 6 CBI\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 102 0"
+    "start_date": "2026-10-29T09:45:00+01:00",
+    "end_date": "2026-10-29T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "PPZ sem.",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-17T08:00:00+02:00",
-    "end_date": "2025-10-17T11:00:00+02:00",
-    "description": "PPZ g. 08:00 - 11:00 sem. sala 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-10-29T11:30:00+01:00",
+    "end_date": "2026-10-29T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Podstawy promocji zdrowia",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-11-05T08:00:00+01:00",
+    "end_date": "2026-11-05T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "JA (S1A)",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-17T13:00:00+02:00",
-    "end_date": "2025-10-17T15:00:00+02:00",
-    "description": "JA (S1A) g. 13.15 - 15.00 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-05T09:45:00+01:00",
+    "end_date": "2026-11-05T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "JA (S1A)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-24T13:00:00+02:00",
-    "end_date": "2025-10-24T14:30:00+02:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-05T11:30:00+01:00",
+    "end_date": "2026-11-05T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "JA (S1A)",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-10-31T13:00:00+01:00",
-    "end_date": "2025-10-31T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
-  },
-  {
-    "title": "JA (S1A)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-07T13:00:00+01:00",
-    "end_date": "2025-11-07T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
-  },
-  {
-    "title": "JA (S1A)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-14T13:00:00+01:00",
-    "end_date": "2025-11-14T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
-  },
-  {
-    "title": "JA (S1A)",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-21T13:00:00+01:00",
-    "end_date": "2025-11-21T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
-  },
-  {
-    "title": "PPZ \u0107w.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-11-28T08:00:00+01:00",
-    "end_date": "2025-11-28T10:15:00+01:00",
-    "description": "PPZ 08.00 - 10.15 \u0107w. sala 123 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-11-12T08:00:00+01:00",
+    "end_date": "2026-11-12T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "KES NZC [PS]",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-28T10:30:00+01:00",
-    "end_date": "2025-11-28T12:45:00+01:00",
-    "description": "KES NZC [PS]\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 102 0"
+    "start_date": "2026-11-12T09:45:00+01:00",
+    "end_date": "2026-11-12T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "JA (S1A)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-28T13:00:00+01:00",
-    "end_date": "2025-11-28T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-12T11:30:00+01:00",
+    "end_date": "2026-11-12T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "PZP",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-11-28T16:45:00+01:00",
-    "end_date": "2025-11-28T18:15:00+01:00",
-    "description": "PZP  13:15 - 14:45 sala 40, blok F\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 204 0"
-  },
-  {
-    "title": "PPZ \u0107w.",
-    "seminar_group": "gr. 3",
-    "exercise_group": "3a",
-    "start_date": "2025-12-05T08:00:00+01:00",
-    "end_date": "2025-12-05T10:15:00+01:00",
-    "description": "PPZ 08.00 - 10.15 \u0107w. sala 123 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "start_date": "2026-11-19T08:00:00+01:00",
+    "end_date": "2026-11-19T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
     "color": "128 0 128"
   },
   {
-    "title": "KES NZC [FR]",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-12-05T10:30:00+01:00",
-    "end_date": "2025-12-05T12:45:00+01:00",
-    "description": "KES NZC [FR]\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 102 0"
+    "start_date": "2026-11-19T09:45:00+01:00",
+    "end_date": "2026-11-19T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "JA (S1A)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-12-05T13:00:00+01:00",
-    "end_date": "2025-12-05T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-19T11:30:00+01:00",
+    "end_date": "2026-11-19T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "JA (S1A)",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-12-12T13:00:00+01:00",
-    "end_date": "2025-12-12T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-26T08:00:00+01:00",
+    "end_date": "2026-11-26T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
   },
   {
-    "title": "JA (S1A)",
+    "title": "PM (NZME)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-12-19T13:00:00+01:00",
-    "end_date": "2025-12-19T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-26T09:45:00+01:00",
+    "end_date": "2026-11-26T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
   },
   {
-    "title": "JA (S1A)",
+    "title": "KES (NZB)",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-01-09T13:00:00+01:00",
-    "end_date": "2025-01-09T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-11-26T11:30:00+01:00",
+    "end_date": "2026-11-26T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
   },
   {
-    "title": "JA (S1A)",
+    "title": "Podstawy promocji zdrowia",
     "seminar_group": "gr. 3",
     "exercise_group": "3a",
-    "start_date": "2025-01-23T13:00:00+01:00",
-    "end_date": "2025-01-23T14:30:00+01:00",
-    "description": "JA (S1A) g. 13.00 - 14.30 s. 5.DE 003 Sala dydaktyczna\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
-    "color": "255 255 0"
+    "start_date": "2026-12-03T08:00:00+01:00",
+    "end_date": "2026-12-03T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-03T09:45:00+01:00",
+    "end_date": "2026-12-03T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-03T11:30:00+01:00",
+    "end_date": "2026-12-03T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Podstawy promocji zdrowia",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-10T08:00:00+01:00",
+    "end_date": "2026-12-10T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
+  },
+  {
+    "title": "PM (NZME)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-10T09:45:00+01:00",
+    "end_date": "2026-12-10T11:15:00+01:00",
+    "description": "PM (NZME) g. 09:45 - 11:15  s. 19 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "0 204 255"
+  },
+  {
+    "title": "KES (NZB)",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-10T11:30:00+01:00",
+    "end_date": "2026-12-10T13:00:00+01:00",
+    "description": "KES (NZB) g. 13:15 - 14:45 s. 8 (ZZP)\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "192 192 192"
+  },
+  {
+    "title": "Podstawy promocji zdrowia",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-12-17T08:00:00+01:00",
+    "end_date": "2026-12-17T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
+  },
+  {
+    "title": "Podstawy promocji zdrowia",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-07T08:00:00+01:00",
+    "end_date": "2026-01-07T09:30:00+01:00",
+    "description": "PPZ g. 08:00 - 09:30 s. 126 CD\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
+  },
+  {
+    "title": "KES (NZC) \u0107w s.",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-28T08:00:00+01:00",
+    "end_date": "2026-01-28T11:45:00+01:00",
+    "description": "KES (NZC) \u0107w g. 08.00 - 11.45  s.\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "150 150 150"
+  },
+  {
+    "title": "Podstawy promocji zdrowia \u0107w. s.",
+    "seminar_group": "gr. 3",
+    "exercise_group": "3a",
+    "start_date": "2026-01-28T12:00:00+01:00",
+    "end_date": "2026-01-28T14:15:00+01:00",
+    "description": "PPZ g. 12.00 - 14.15 \u0107w. s.\n\n\nGrupa seminaryjna: gr. 3\nGrupa wyk\u0142adowa: 3a",
+    "color": "128 0 128"
   }
 ]
